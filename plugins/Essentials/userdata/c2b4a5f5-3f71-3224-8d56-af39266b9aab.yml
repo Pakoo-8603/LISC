@@ -1,0 +1,28 @@
+lastAccountName: jachonga
+timestamps:
+  login: 1583101101405
+  logout: 1583101049144
+  lastteleport: 1583104711607
+ipAddress: 181.168.239.107
+lastlocation:
+  world: spawn
+  x: -19.375493710463026
+  y: 67.0625
+  z: 0.5517346608672571
+  yaw: 262.7965
+  pitch: -0.7427965
+logoutlocation:
+  world: spawn
+  x: 567.5027218147758
+  y: 56.0
+  z: 272.9946316480482
+  yaw: 172.81828
+  pitch: -55.65006
+homes:
+  casa:
+    world: spawn
+    x: -435.34972092240497
+    y: 68.0
+    z: -1980.997657047584
+    yaw: 146.45801
+    pitch: -47.550297

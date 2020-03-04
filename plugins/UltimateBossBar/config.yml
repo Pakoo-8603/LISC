@@ -1,0 +1,17 @@
+Bars:
+- Title:
+    1: '&k&lN&f&lBienvenido a &5&l&nServer LISC&f&k&lN'
+    2: '&k&lN&f&lBienvenido a &a&l&nServer LISC&f&k&lN'
+    3: '&k&lN&f&lBienvenido a &3&l&nServer LISC&f&k&lN'
+    4: '&k&lN&f&lBienvenido a &e&l&nServer LISC&f&k&lN'
+    5: '&k&lN&f&lBienvenido a &d&l&nServer LISC&f&k&lN'
+    6: '&k&lN&f&lBienvenido a &2&l&nServer LISC&f&k&lN'
+  Color:
+    1: blue
+    2: blue
+    3: blue
+    4: blue
+    5: blue
+    6: blue
+    
+  Update-Delay: 30

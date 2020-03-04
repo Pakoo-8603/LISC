@@ -1,0 +1,27 @@
+lastlocation:
+  world: world
+  x: 0.5505678015001048
+  y: 69.0
+  z: 0.7065124934006354
+  yaw: 3.7798123
+  pitch: 90.0
+lastAccountName: ChangoBanadero
+timestamps:
+  login: 1583188903619
+  logout: 1583189036959
+ipAddress: 187.254.158.150
+logoutlocation:
+  world: spawn
+  x: -11.297374311351284
+  y: 67.0625
+  z: 0.7542837816769763
+  yaw: -91.85398
+  pitch: 13.062325
+homes:
+  home:
+    world: spawn
+    x: 2.2779742215551604E7
+    y: 63.0
+    z: -1.635852605166005E7
+    yaw: -97.793846
+    pitch: 21.899984

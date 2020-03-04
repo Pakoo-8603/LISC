@@ -1,0 +1,28 @@
+lastlocation:
+  world: spawn
+  x: -6.667757403977836
+  y: 67.0
+  z: 0.26999512043168616
+  yaw: 90.24609
+  pitch: 36.912334
+lastAccountName: Valbula
+timestamps:
+  login: 1583263555961
+  lastteleport: 1583264848157
+  logout: 1583265245318
+ipAddress: 181.64.147.4
+homes:
+  home:
+    world: spawn
+    x: 5402298.684266331
+    y: 63.0
+    z: -1.6638095275151422E7
+    yaw: 333.90317
+    pitch: 30.449993
+logoutlocation:
+  world: spawn
+  x: -1.3084439815360809E7
+  y: 84.0
+  z: 1.9797931660814755E7
+  yaw: 284.10135
+  pitch: -90.0

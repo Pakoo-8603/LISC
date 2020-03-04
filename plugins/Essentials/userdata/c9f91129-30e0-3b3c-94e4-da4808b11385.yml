@@ -1,0 +1,30 @@
+lastAccountName: Yolo
+timestamps:
+  login: 1583190539490
+  logout: 1583190635412
+  lastteleport: 1582844392023
+  kits:
+    mega: 1582770548885
+    elite: 1582770047913
+    ultimate: 1582770635537
+    craft: 1582770534319
+    inicio: 1582786329269
+    inicial: 1582786318574
+    vip: 1582770653763
+ipAddress: 190.238.66.108
+logoutlocation:
+  world: spawn
+  x: -0.30000001192092896
+  y: 102.5
+  z: -0.30000001192092896
+  yaw: -187.5762
+  pitch: 66.896484
+lastlocation:
+  world: spawn
+  x: -2.5439074391592864E7
+  y: 67.0
+  z: -7533230.754256874
+  yaw: -241.94832
+  pitch: 25.200148
+afk: false
+last-message-reply-recipient: false

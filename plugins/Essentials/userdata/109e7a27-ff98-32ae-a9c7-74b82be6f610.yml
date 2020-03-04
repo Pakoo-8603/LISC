@@ -1,0 +1,28 @@
+lastAccountName: Z_ck
+timestamps:
+  login: 1583252504955
+  logout: 1583252643169
+  lastteleport: 1583209028910
+ipAddress: 190.244.123.83
+lastlocation:
+  world: spawn
+  x: -2.0046030500395738E7
+  y: 64.0
+  z: -2.9336512279097542E7
+  yaw: -102.05163
+  pitch: 48.33515
+logoutlocation:
+  world: spawn
+  x: 4329380.565761998
+  y: 200.0
+  z: -2.2978410437958356E7
+  yaw: 18.506145
+  pitch: 36.495968
+homes:
+  home:
+    world: spawn
+    x: 4329551.069196424
+    y: 67.9375
+    z: -2.297842913133297E7
+    yaw: 267.61285
+    pitch: 13.532373

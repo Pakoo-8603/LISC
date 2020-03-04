@@ -1,0 +1,35 @@
+lastlocation:
+  world: spawn
+  x: -109.12308748904844
+  y: 63.0
+  z: 63.05472582507521
+  yaw: -283.49933
+  pitch: 33.000084
+lastAccountName: IvanPizza
+timestamps:
+  login: 1583039997680
+  lastteleport: 1583041423586
+  logout: 1583041492599
+ipAddress: 189.181.125.210
+homes:
+  home:
+    world: spawn
+    x: 2.6933326281192664E7
+    y: 64.0
+    z: -1.884654462116008E7
+    yaw: 267.5957
+    pitch: 20.850048
+  morra:
+    world: spawn
+    x: 1452207.8082636015
+    y: 63.0
+    z: 1.383718033874542E7
+    yaw: 63.72461
+    pitch: 5.099719
+logoutlocation:
+  world: spawn
+  x: 2.6933341735206243E7
+  y: 72.0
+  z: -1.8846630699999988E7
+  yaw: -106.65098
+  pitch: 13.650071

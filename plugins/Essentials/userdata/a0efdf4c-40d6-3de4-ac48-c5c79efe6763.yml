@@ -1,0 +1,28 @@
+lastlocation:
+  world: world
+  x: 2.999985583077092E7
+  y: 22.0
+  z: 2.9999889921255935E7
+  yaw: -286.84183
+  pitch: 32.79997
+lastAccountName: The_Caiman
+timestamps:
+  login: 1583220672657
+  logout: 1583220689621
+  lastteleport: 1583134843237
+ipAddress: 181.44.185.46
+homes:
+  home:
+    world: spawn
+    x: 4060654.38622214
+    y: 72.0
+    z: 1.4123685210141592E7
+    yaw: -114.17578
+    pitch: 25.409712
+logoutlocation:
+  world: spawn
+  x: 237.69999998807907
+  y: 63.0
+  z: -536.3000000119209
+  yaw: -160.8087
+  pitch: 35.608227

@@ -1,0 +1,21 @@
+# WELCOME TO THE OFFICAL SLEEP-MOST PLUGIN
+# CREATED BY MrGeneralQ aka qintinator
+# VERSION: 3.5.2
+
+sleep:
+  world:
+    percentage-required: 0.7
+    mob-no-target: true
+  world_the_end:
+    percentage-required: 0.7
+    mob-no-target: true
+  spawn:
+    percentage-required: 0.5
+    mob-no-target: true
+messages:
+  prefix: '&7[&bMofeo&7]'
+  cooldown: 10
+  night-skipped: '&bLa noche pasa rapido cuando te diviertes!'
+  storm-skipped: '&bQue bueno que se fue la tormeta, tenia la ropa puesta!'
+  players-left-night: '&bPara poder terminar la noche se necesitan &f[&c%sleeping%/%required%&f]&b personas dispuestas a dormir!'
+  players-left-storm: '&bPara poner fin a la tormenta se neceitaan  &f[&c%sleeping%/%required%&f]&b sacrificios humanos !'

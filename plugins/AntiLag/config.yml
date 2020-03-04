@@ -1,0 +1,19 @@
+#### AntiLag configuration
+#
+# Worlds to remove entities in
+worlds:
+   - world
+   - spawn
+   - world_nether
+   - world_the_end
+
+# Prefix
+prefix: '&6&l⚡&c&ki&e&lAnti-Lag&c&ki&6&l⚡&6 '
+
+# Countdown
+countdown: 5
+countdown_message: ' La Limpieza AntiLag Comenzara En {time} Segundos'
+countdown_over: ' Limpiando Server...'
+
+# Delay between removals (ticks)
+countdown_cycle: 100000

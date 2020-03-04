@@ -1,0 +1,28 @@
+lastlocation:
+  world: spawn
+  x: 0.48417739157324524
+  y: 67.0625
+  z: 0.2837544837165514
+  yaw: 175.2032
+  pitch: 24.45
+lastAccountName: 3lk1n456
+timestamps:
+  login: 1582996453534
+  lastteleport: 1582996683452
+  logout: 1582996804413
+ipAddress: 181.199.39.190
+homes:
+  home:
+    world: spawn
+    x: 4329936.500470552
+    y: 62.0
+    z: -2.2978568314175073E7
+    yaw: -148.60938
+    pitch: 36.14944
+logoutlocation:
+  world: spawn
+  x: 4329949.2915629
+  y: 70.0
+  z: -2.2978563297958773E7
+  yaw: 180.79219
+  pitch: 35.550003

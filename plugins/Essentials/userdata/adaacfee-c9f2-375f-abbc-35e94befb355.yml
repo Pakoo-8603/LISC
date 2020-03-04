@@ -1,0 +1,28 @@
+lastlocation:
+  world: spawn
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: 165.1531
+  pitch: 22.799988
+lastAccountName: Elkin456
+timestamps:
+  login: 1582867464169
+  lastteleport: 1582865063298
+  logout: 1582867655457
+ipAddress: 181.199.39.190
+logoutlocation:
+  world: spawn
+  x: 4329934.635041287
+  y: 62.0
+  z: -2.2978567924650762E7
+  yaw: 278.1527
+  pitch: 33.89989
+homes:
+  home:
+    world: spawn
+    x: 4329948.550831224
+    y: 67.0
+    z: -2.297857530402845E7
+    yaw: 211.25175
+    pitch: 32.69983

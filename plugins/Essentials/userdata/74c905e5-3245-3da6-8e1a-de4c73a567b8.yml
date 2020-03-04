@@ -1,0 +1,28 @@
+lastlocation:
+  world: world
+  x: 62.53643052267332
+  y: 63.843753731448125
+  z: 308.69999998807907
+  yaw: -2.6987734
+  pitch: 37.0499
+lastAccountName: xsimis
+timestamps:
+  login: 1583291023207
+  lastteleport: 1583293051752
+  logout: 1583293130919
+ipAddress: 201.183.70.28
+logoutlocation:
+  world: world
+  x: 0.2764042506652353
+  y: 67.0625
+  z: 0.5632036673983017
+  yaw: -15.44886
+  pitch: 16.799864
+homes:
+  home:
+    world: spawn
+    x: 2.693333054860236E7
+    y: 64.0
+    z: -1.8846549237500012E7
+    yaw: -181.67384
+    pitch: 15.529474

@@ -1,0 +1,69 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&4&kii&c&lWARPS&4&kii'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 3
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'warps; warp; rtp'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'sound: BLOCK_NOTE_BLOCK_BELL'
+
+  # OPTIONAL
+  # The menu will open only when right-clicking with a compass.
+  open-with-item:
+    id: compass
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+Nether:
+  COMMAND: 'warp Nether'
+  NAME: '&a&lNETHER'
+  LORE:
+    - '&r'
+    - '&eClick para teletransportarte!'
+  ID: nether_star
+  POSITION-X: 3
+  POSITION-Y: 2
+Survival:
+  COMMAND: 'rt w:spawn'
+  NAME: '&b&lSurvival'
+  LORE:
+    - '&r'
+    - '&eClick para teletransportarte!'
+  ID: grass_block
+  POSITION-X: 5
+  POSITION-Y: 2
+End:
+  COMMAND: 'warp End'
+  NAME: '&a&lEND'
+  LORE:
+    - '&r'
+    - '&eClick para teletransportarte!'
+  ID: dragon_egg
+  POSITION-X: 7
+  POSITION-Y: 2

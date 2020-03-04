@@ -1,0 +1,45 @@
+spawn2:
+  location: spawn, -10.500, 69.200, 0.500
+  lines:
+  - '&6Bienvenido a Server LISC'
+  - '&fJugadores conectados: {online}/{max_players}'
+  - '&fEste server es Fullsurvival no contiene economia'
+  - '&fEste server es Fullsurvival no contiene economia'
+spawn3:
+  location: spawn, 0.635, 69.200, -10.464
+  lines:
+  - '&6Bienvenido a Server LISC'
+  - '&fJugadores conectados: {online}/{max_players}'
+  - '&fEste server es Fullsurvival no contiene economia'
+spawn4:
+  location: spawn, 11.350, 69.200, 0.450
+  lines:
+  - '&6Bienvenido a Server LISC'
+  - '&fJugadores conectados: {online}/{max_players}'
+  - '&fEste server es Fullsurvival no contiene economia'
+spawn1:
+  location: spawn, 0.500, 69.200, 11.500
+  lines:
+  - '&6Bienvenido a Server LISC'
+  - '&fJugadores conectados: {online}/{max_players}'
+  - '&fEste server es Fullsurvival no contiene economia'
+info:
+  location: spawn, 0.500, 69.200, -31.500
+  lines:
+  - '&6Crafteos personalizados'
+  - <---------------------->
+info1:
+  location: spawn, -31.500, 69.200, 0.500
+  lines:
+  - '&6Crafteos personalizados'
+  - <---------------------->
+info2:
+  location: spawn, 0.500, 69.200, 32.500
+  lines:
+  - '&6Crafteos personalizados'
+  - <---------------------->
+info3:
+  location: spawn, 32.500, 69.200, 0.500
+  lines:
+  - '&6Crafteos personalizados'
+  - <---------------------->

@@ -1,0 +1,28 @@
+lastlocation:
+  world: spawn
+  x: -9780727.300000012
+  y: 78.0
+  z: 1.714146488093956E7
+  yaw: -257.4627
+  pitch: 19.649797
+lastAccountName: Seoras
+timestamps:
+  login: 1583272995726
+  lastteleport: 1583258960748
+  logout: 1583273710003
+ipAddress: 76.108.19.56
+homes:
+  home:
+    world: spawn
+    x: -9780820.30275571
+    y: 78.0
+    z: 1.7141477122273263E7
+    yaw: -357.96808
+    pitch: 11.699959
+logoutlocation:
+  world: spawn
+  x: -9780820.571654374
+  y: 78.0
+  z: 1.714147634031699E7
+  yaw: -222.26404
+  pitch: 29.849838

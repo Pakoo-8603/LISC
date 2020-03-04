@@ -1,0 +1,28 @@
+lastlocation:
+  world: spawn
+  x: -1.43425067600847E7
+  y: 78.0
+  z: -1.0398321244415788E7
+  yaw: 268.622
+  pitch: 34.64982
+lastAccountName: erike_elite
+timestamps:
+  login: 1583085470891
+  lastteleport: 1583086201937
+  logout: 1583086558892
+ipAddress: 181.115.248.209
+homes:
+  home:
+    world: spawn
+    x: 1.596763480525588
+    y: 67.0625
+    z: -19.318379909332645
+    yaw: 181.65315
+    pitch: 12.449903
+logoutlocation:
+  world: spawn
+  x: 1.3672233796948494
+  y: 67.0625
+  z: -20.09698080819619
+  yaw: 67.502045
+  pitch: 27.449865

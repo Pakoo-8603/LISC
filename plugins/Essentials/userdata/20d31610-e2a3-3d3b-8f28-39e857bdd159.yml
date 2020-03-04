@@ -1,0 +1,28 @@
+lastlocation:
+  world: spawn
+  x: -1.817069026431621E7
+  y: 81.0
+  z: -2.785456663570744E7
+  yaw: -315.58115
+  pitch: 7.3167396
+lastAccountName: jeisonLUK
+timestamps:
+  login: 1583263829995
+  lastteleport: 1583005803688
+  logout: 1583263905118
+ipAddress: 181.234.27.46
+homes:
+  home:
+    world: spawn
+    x: -1.817067964213224E7
+    y: 75.0
+    z: -2.7854620044146553E7
+    yaw: -322.52094
+    pitch: 83.849976
+logoutlocation:
+  world: spawn
+  x: 0.09851376262599715
+  y: 67.0625
+  z: 0.8138716285007741
+  yaw: 53.496128
+  pitch: 27.299995

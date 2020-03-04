@@ -1,0 +1,28 @@
+lastAccountName: khono
+timestamps:
+  login: 1583293685543
+  lastteleport: 1583130971186
+  logout: 1583294800164
+ipAddress: 186.10.129.201
+lastlocation:
+  world: world
+  x: 1.3142910298923342E7
+  y: 63.0
+  z: 2.061838150698784E7
+  yaw: -59.40399
+  pitch: 16.049965
+homes:
+  home:
+    world: spawn
+    x: 1452234.1073655866
+    y: 65.0625
+    z: 1.3837168611731702E7
+    yaw: 7.176383
+    pitch: 29.549557
+logoutlocation:
+  world: world
+  x: 0.2764042506652353
+  y: 67.0625
+  z: 0.5632036673983017
+  yaw: 97.50132
+  pitch: -5.2500005

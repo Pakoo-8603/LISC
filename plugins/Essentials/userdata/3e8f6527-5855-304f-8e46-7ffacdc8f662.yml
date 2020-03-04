@@ -1,0 +1,46 @@
+lastAccountName: VAQUEROMEXR24
+timestamps:
+  login: 1583297964257
+  lastteleport: 1583302822803
+  logout: 1583303214975
+  kits:
+    elite: 1583298408027
+    ultimate: 1583298261249
+    vip: 1583298349329
+ipAddress: 187.155.204.54
+lastlocation:
+  world: world
+  x: 4329444.434482936
+  y: 88.30792539692669
+  z: -2.2978449126268074E7
+  yaw: 146.01428
+  pitch: -86.100105
+logoutlocation:
+  world: world
+  x: 4329417.598092251
+  y: 200.0
+  z: -2.2978412567132957E7
+  yaw: -138.38522
+  pitch: 58.2001
+homes:
+  casa:
+    world: world
+    x: 4329408.871974682
+    y: 201.0
+    z: -2.297844730553875E7
+    yaw: -11.18689
+    pitch: -3.299982
+  aldea:
+    world: world
+    x: 2.60956525224531E7
+    y: 67.24277902871773
+    z: -1.6689394985833472E7
+    yaw: -73.911255
+    pitch: 70.65063
+  mina:
+    world: world
+    x: 4329399.446509172
+    y: 11.0
+    z: -2.2978250555874273E7
+    yaw: -3.0866747
+    pitch: 21.599983

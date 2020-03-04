@@ -1,0 +1,51 @@
+lastAccountName: Pokilul
+timestamps:
+  login: 1583272894599
+  lastteleport: 1583274199245
+  logout: 1583275403214
+  kits:
+    mega: 1583106466848
+    elite: 1583109610445
+    ultimate: 1583109622428
+    vip: 1583109630515
+  lastheal: 1583116200021
+ipAddress: 187.243.231.82
+lastlocation:
+  world: spawn
+  x: 4684931.639813004
+  y: 18.0
+  z: 1.3701374541987468E7
+  yaw: -27.811157
+  pitch: 33.718563
+logoutlocation:
+  world: spawn
+  x: 4684875.3761270745
+  y: 72.0
+  z: 1.3701336705951849E7
+  yaw: -66.83018
+  pitch: 9.442011
+homes:
+  casita:
+    world: spawn
+    x: 4684885.2541496875
+    y: 73.0
+    z: 1.3701345229553355E7
+    yaw: -222.96173
+    pitch: 19.447937
+  minar:
+    world: spawn
+    x: 4684899.554149737
+    y: 11.0
+    z: 1.3701358499644244E7
+    yaw: -35.84778
+    pitch: 60.189827
+  mina2:
+    world: spawn
+    x: 4684921.052357873
+    y: 11.0
+    z: 1.3701391366147503E7
+    yaw: -336.00974
+    pitch: 4.1391177
+afk: false
+godmode: false
+nickname: Poki

@@ -1,0 +1,17 @@
+#######################################################
+##                   Created By                      ##
+##                    Deckerz                        ##
+#######################################################
+announcement:
+    enabled: true
+    random: false
+    prefix: '&1[&6Anuncio&1] '
+    interval: 300
+    check-for-updates: true
+    messages:
+    - '&a&lAdquiere rango en nuestra tienda: &6Proximamente.'
+    - '&a&lUnete a nuestro discord: &bhttps://discord.gg/ns7nGzPe'
+    - '&a&l¡Encuentra los crafteos ocultos!'
+    - '&6&l¡No olvides poner un cartel a tu cofre para protegerlo!'
+    - '&a&l¡No dudes en invitar a amigos para obtener recompensas!'
+    - '&f&l¿Eres &4&lYoutuber&f&l? No olvides reclamar el rango en discord!'

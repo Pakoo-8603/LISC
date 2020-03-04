@@ -1,0 +1,58 @@
+lastlocation:
+  world: spawn
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: 92.04613
+  pitch: 74.562325
+lastAccountName: Zekken_X
+timestamps:
+  login: 1583272848289
+  logout: 1583282730909
+  lastteleport: 1583281752933
+  kits:
+    mega: 1583109858136
+    elite: 1583109605172
+    ultimate: 1583109920631
+    craft: 1583110099234
+    inicio: 1583109869034
+    vip: 1583109825616
+    inicial: 1583182948456
+ipAddress: 190.237.114.231
+logoutlocation:
+  world: spawn
+  x: 1.4288118598519517E7
+  y: 87.44896347874186
+  z: -2.7439393028264437E7
+  yaw: 349.68726
+  pitch: 0.573367
+homes:
+  home:
+    world: spawn
+    x: 1.4288056299194619E7
+    y: 85.0
+    z: -2.7439389872070376E7
+    yaw: 20.132233
+    pitch: 29.969244
+  aldea1:
+    world: spawn
+    x: 1.4288066222709088E7
+    y: 79.0
+    z: -2.74394006314038E7
+    yaw: 292.6629
+    pitch: 63.6484
+  aldea2:
+    world: spawn
+    x: 4329487.944679612
+    y: 37.0
+    z: -2.2978421393960763E7
+    yaw: 91.577515
+    pitch: 18.644846
+  aldea3:
+    world: spawn
+    x: 1.4288070720105438E7
+    y: 99.0
+    z: -2.7439368882579003E7
+    yaw: 350.14575
+    pitch: 8.877049
+nickname: §3§lZekken

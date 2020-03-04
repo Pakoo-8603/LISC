@@ -1,0 +1,23 @@
+lastAccountName: Inaccoc92
+timestamps:
+  login: 1575239900882
+  logout: 1575239988763
+  lastteleport: 1575226863752
+  kits:
+    inicial: 1575196717262
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: spawn
+  x: 0.7654177706721053
+  y: 69.55890553468969
+  z: 0.3965074185434363
+  yaw: 4.805706
+  pitch: 22.799704
+lastlocation:
+  world: spawn
+  x: 0.5484708560500426
+  y: 67.0
+  z: -2.3832976710385134
+  yaw: 353.10025
+  pitch: 14.699889
+afk: false

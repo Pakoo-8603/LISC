@@ -1,0 +1,21 @@
+lastAccountName: ChorizoMortal
+timestamps:
+  login: 1582778332341
+  logout: 1582779711775
+  lastteleport: 1582769673848
+ipAddress: 177.231.75.184
+lastlocation:
+  world: spawn
+  x: 0.49285428618619564
+  y: 67.0
+  z: 0.37517912457819125
+  yaw: 204.9037
+  pitch: 36.149696
+logoutlocation:
+  world: spawn
+  x: 1534769.290549636
+  y: 76.0
+  z: -1.5898779304564647E7
+  yaw: -74.54951
+  pitch: 10.50001
+afk: false

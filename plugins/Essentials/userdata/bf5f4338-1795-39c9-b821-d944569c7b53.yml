@@ -1,0 +1,28 @@
+lastAccountName: JersonM_
+timestamps:
+  login: 1583089545937
+  logout: 1583089549150
+  lastteleport: 1583037099336
+ipAddress: 190.90.19.78
+lastlocation:
+  world: spawn
+  x: 0.5090867560997477
+  y: 67.0625
+  z: -0.3412350257716991
+  yaw: 180.97633
+  pitch: 23.054907
+logoutlocation:
+  world: spawn
+  x: 1.8036187350757398E7
+  y: 73.0
+  z: -2950023.5067532025
+  yaw: 177.94974
+  pitch: 13.854208
+homes:
+  home:
+    world: spawn
+    x: 1.8036285005259737E7
+    y: 66.0
+    z: -2950044.902790611
+    yaw: 161.78888
+    pitch: 6.7787

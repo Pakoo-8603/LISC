@@ -1,0 +1,35 @@
+lastlocation:
+  world: world
+  x: -99.61155324241281
+  y: 64.0
+  z: -495.8071576800139
+  yaw: 73.097595
+  pitch: 11.399999
+lastAccountName: angelr1996
+timestamps:
+  login: 1583295653027
+  logout: 1583296314065
+  lastteleport: 1583135328786
+ipAddress: 187.161.189.62
+logoutlocation:
+  world: world
+  x: 0.2764042506652353
+  y: 67.0625
+  z: 0.5632036673983017
+  yaw: 233.70139
+  pitch: 8.250017
+homes:
+  home:
+    world: world
+    x: 0.35363589251464994
+    y: 67.0625
+    z: 0.2463814000483028
+    yaw: -261.14862
+    pitch: 22.49996
+  angelr1996:
+    world: spawn
+    x: 200.87135181363277
+    y: 63.09375
+    z: -259.7124816144634
+    yaw: 240.09882
+    pitch: 21.312305

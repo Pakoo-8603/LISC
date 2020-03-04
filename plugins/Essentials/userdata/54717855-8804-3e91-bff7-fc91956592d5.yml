@@ -1,0 +1,28 @@
+lastlocation:
+  world: spawn
+  x: -4794857.801028342
+  y: 80.0
+  z: 1.1300919981925176E7
+  yaw: -236.68597
+  pitch: 29.755995
+lastAccountName: Gogeta909YT
+timestamps:
+  login: 1583186599910
+  logout: 1583187230170
+  lastteleport: 1583108085517
+ipAddress: 190.237.122.61
+homes:
+  home:
+    world: spawn
+    x: 0.46604565806031056
+    y: 67.0625
+    z: -36.71578524840343
+    yaw: 177.56334
+    pitch: 8.6624
+logoutlocation:
+  world: spawn
+  x: -583.7876544990417
+  y: 57.07808307590338
+  z: 135.27495168179942
+  yaw: 106.41456
+  pitch: 27.501896

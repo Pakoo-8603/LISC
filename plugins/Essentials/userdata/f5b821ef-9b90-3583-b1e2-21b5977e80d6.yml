@@ -1,0 +1,49 @@
+lastAccountName: NooitFaalt
+timestamps:
+  login: 1583290959621
+  logout: 1583294381024
+  lastteleport: 1583274189694
+  kits:
+    elite: 1583118770058
+    ultimate: 1583119478925
+    vip: 1583119524675
+ipAddress: 186.178.49.227
+lastlocation:
+  world: world
+  x: 2.6095621757483393E7
+  y: 104.37039133834756
+  z: -1.6688787971452443E7
+  yaw: 187.45251
+  pitch: 20.158978
+logoutlocation:
+  world: world
+  x: 4329379.290304372
+  y: 206.0
+  z: -2.297846249893093E7
+  yaw: 92.072266
+  pitch: 24.472797
+homes:
+  home:
+    world: spawn
+    x: 4329935.50858651
+    y: 62.0
+    z: -2.297856334620129E7
+    yaw: 226.4148
+    pitch: 22.912733
+  casa:
+    world: world
+    x: 4329383.401113666
+    y: 206.0
+    z: -2.2978461702183336E7
+    yaw: 281.71777
+    pitch: 24.149017
+  xsimis:
+    world: spawn
+    x: 2.6933335409691717E7
+    y: 64.0
+    z: -1.8846550554276608E7
+    yaw: -319.50275
+    pitch: 16.92268
+afk: false
+nickname: RompeCulos3000
+godmode: false

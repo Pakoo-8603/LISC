@@ -1,0 +1,28 @@
+lastlocation:
+  world: spawn
+  x: 4329624.202291597
+  y: 65.0
+  z: -2.297845710123193E7
+  yaw: 177.82593
+  pitch: 19.199951
+lastAccountName: edugamer1115
+timestamps:
+  login: 1583038325054
+  lastteleport: 1583030873386
+  logout: 1583038343210
+ipAddress: 190.130.221.8
+logoutlocation:
+  world: world
+  x: 2.9999831300000012E7
+  y: 65.5625
+  z: -2.999975801618206E7
+  yaw: -97.23877
+  pitch: 10.499882
+homes:
+  home:
+    world: spawn
+    x: 4329932.735015487
+    y: 58.0
+    z: -2.2978565802018277E7
+    yaw: 276.85297
+    pitch: 12.12013

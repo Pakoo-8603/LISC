@@ -1,0 +1,35 @@
+&lNormas generales
+
+&aComo siempre, recuerda que las decisiónes tomadas por un miembro Staff son finales y deben ser respetadas, si estás en desacuerdo con alguna decisión tomada, por favor se correcto, da un buen fundamento y quizá consideremos tu opinión dentro de los foros de discusión del servidor.
+
+&d1.- &bTú eres responsable de que haces con tu cuenta de Minecraft, si tu compartes tu cuenta con otro usuario también sigue siendo tu responsabilidad. No nos haremos responsables de nada respecto a este tema, siempre debes tener tus contraseñas bien seguras. Todo lo que suceda con tu cuenta es exclusivamente tu responsabilidad.
+&d2.- &b&lNo enviar direcciónes IP de servidores &bque no sean relacionados al servidor está prohibido ya sea por mensaje público o privado y resultará en una sanción grave y como consecuencia &4&lEXPULSIÓN PERMANENTE.
+&d3.- &bNo envíes tu canal de YT por mensaje público, solo privado. Solamente los usuarios con rango de YOUTUBER en nuestro servidor pueden mencionar su canal por el chat público siempre que sea moderadamente.
+&d4.- &b&lEstá totalmente prohibido repetir mensajes y/o molestar a los usuarios con estos&b (esto también aplica por mensajes privados). El Flood (mensajes masivos y/o repetitivos) está completamente prohibido.
+&d5.- &bEstá prohibido revender o cambiar/tradear cuentas de Minecraft, tampoco ningún item, rango o economía dentro del servidor sin autorización del Staff.
+&d6.- &bEstá &b&lprohibido hacerse pasar por rangos/miembros del Staff o YouTubers&b, esto es una grave infracción en el servidor.
+&d7.- &bEstán terminantemente &b&lprohibidas las amenazas así también como los insultos o bullying &ba cualquier usuario en nuestro servidor. Ya sea por chat público, privado, nombres a mascotas o por carteles, en el foro o cualquier otro medio. Cualquier palabra mal sonante o falta de respeto hacia otro jugador será claramente motivo de sanción.
+&d8.- &bNo hagas &b&lSpam de direcciones web&b, no importa que sean direcciones web de youtube, discord o cualquier otra red social, poner URLs en UniversoCraft está totalmente prohibido..
+&d9.- &bRespeta a todos los usuarios, sé amable. &b&lEstá prohibido el racismo, sexismo, burla por discapacidades o religión&b o cualquier otro tipo de discriminación hacia cualquier usuario.
+&d10.- &bEl servidor es de habla Hispana, pero está permitido hablar otros idiomas en nuestro servidor, asi que &b&lmuestra respeto a los jugadores que hablen otro idioma distinto al tuyo.
+&d11.- &bRespeta a los YT, estos deben ser tratados al igual que cualquier usuario normal, deben poder jugar tranquilos. Está prohibido ir siempre a por el Youtuber o hacerle "focus".
+&d12.- &bEstá &b&lprohibido sortear o vender cualquier cosa sin el permiso de un miembro Staff &bmediante el chat público, privado o cualquier otro medio relacionado con el servidor. Ningún tipo de sorteo de rangos debe de realizarse sin nuestro consentimiento.
+&d13.- &bEstá &b&lprohibida la utilización de clientes modificados (hacks, ghost clients, etc) &besto conllevará a una &4&lexpulsión permanente&b sin previo aviso ya que es una de las faltas más graves. Existen algunas excepciones, puedes verlas pinchando aquí.
+&d14.- &bLas &b&lskins obscenas u ofensivas &bal igual que capas o nombres de usuario están prohibidas, cualquiera utilizando una skin/capa/nombre de usuario obscena o ofensiva será advertido y esto podría llevar a una sanción aún peor si la utilización continúa.
+&d15.- &b&b&lNo aproveches bugs o exploits &bni hagas ningún tipo de trampa en nuestro servidor ni tampoco difundas lo anteriormente mencionado en canales públicos, esto es la máxima gravedad dentro del servidor. Si eres baneado por este motivo, jamás podrás apelar ni volver a entrar a la network.
+&d16.- &bNo intentes &b&ljamás engañar a un miembro de la administración/staff, las mentiras son otra falta muy grave dentro del servidor&b, para las mentiras se tomarán medidas de sanción GRAVE.
+&d17.- &bEstá terminantemente &b&lprohibido pelear/discutir con otro usuario&b en NINGUNA PARTE del servidor, hacer esto conllevará a una sanción, no toleramos las actitudes tóxicas.
+&d18.- &b&lNo molestes pidiendo cualquier rango, op, fly o cualquier otra ventaja &b(en conclusión, no pidas nada a los ayudantes, moderadores o adminsitradores) ya que jamás conseguirás nada, si molestas pidiendo cualquier tipo de cosa o beneficio serás sancionado.
+&d19.- &b&lNo molestes ni acoses a los Administradores dentro del servidor &b(y mucho menos con preguntas estúpidas). Ellos normalmente están dentro por problemas técnicos y solucionando asuntos de gravedad. Si les entorpeces será probable que te lleves una sanción fácilmente. Si tienes algún problema ve a las zonas de atención en el chat de discord, zonas de soporte, foros o a los moderadores.
+&d20.- &bControla tu actitud. Si vas de &b&lvacilón, de graciosillo y/o de troll &bes muy probable que acabes expulsado del servidor, &b&lel respeto es fundamental&b en el servidor, no toleramos a los jugadores tóxicos.
+&d21.- &bNo hables de temas considerados para adultos (como por ejemplo temas sexuales, ilegales, drogas, etc), si lo haces serás expulsado del servidor.
+&d22.- &b&lNo debes tener más de 1 cuenta en el servidor salvo excepciones obvias&b. Tener más de una cuenta para hacer alguna evasión de una sanción, seráa motivo de ban permanente e incluso podría conllevar el bloqueo de tu IP.
+&d23.- &b&lNo debes comentar en posts de apelación de unbans. &bLa única excepción a esta norma dispone que los usuarios pueden comentar posts de apelación unica y exclusivamente para avisar que no se ha cumplido el formato de desbaneo correcto (en caso de que un miembro staff no lo haya hecho ya). Debiendo entonces citar con sólo el LINK adecuado de instrucciones (copiar y pegar el formato está prohibido ya que puede que esté desactualizado, el link siempre está actualizado). No cumplir con esta norma podría causar tu expulsión de las redes del servidor.
+&d24.- &b&lNo debes comentar abusivamente en los posts del foro simplemente para obtener un mayor número de publicaciones.&b No cumplir con esta norma podría causar tu expulsión de las redes del servidor.
+
+&aSi rompes alguna de estas normas, los miembros del Staff tienen el derecho de sancionar y/o expulsarte del servidor. Todas estas reglas aplican a redes de comunicación como &bTwitter, &1Facebook, &2Whatsapp o &9Discord&a, etc. En nuestro servidor, las normas son para &a&lTODOS &alos jugadores, si cometes una infracción de las normas serás baneado, da igual tu nivel o si has adquirido un Rango en el servidor ya que serás expulsado igualmente, piensalo antes de cometer una infracción.
+
+
+&8El servidor se reserva a modificar las reglas sin previo aviso.
+
+&8Ultima modificación: 26 de Febrero de 2020.

@@ -1,0 +1,143 @@
+# This is a template config file
+# define your parameter and its value like:
+Messages:
+  ErrorMsg : "&0[&fUber&0]: &cOcurrio un error."
+  NoSuchPlayer : "&0[&fUber&0]: &cNo se encontro al jugador"
+  NoSuchWorld : "&0[&fUber&0]: &cNo hay uber en esta zona"
+  Teleported : "&0[&fUber&0]&a Tu viaje ha sido completado!"
+  CooldownMsg : "&0[&fUber&0]: &aTraquilo viejo, intentalo de nuevo en &b%remaining% &asegundos"
+  NoPermission: "&0[&fUber&0]: &4NO PUEDES HACE ESO LOCO."
+  NotInThisEnvironment: "&c[RandomTeleport] : You cannot random teleport in this environment(&e%env%&c)."
+  TPDelayMsg : "&aYou will be teleported in %time% seconds."
+  NotEnoughFundMsg : "&cYou need at least &e$%amount% &cto use this."
+  DeductionMsg : "&a[RandomTeleport] &e%amount% &a(%type%) have been charged for your random teleport."
+  RefundMsg : "&a[RandomTeleport] &e%amount% &a(%type%) have been refunded for your random teleport."
+  WaitingForTP : "&0[&fUber&0]: &cYa pediste vaiaje tranquilo."
+  TPCancelled : "&0[&fUber&0]: &cTu conductor a cancelado."
+  NoSafePlace : "&0[&fUber&0]: &cNo pudimos encontrar a donde aventarte."
+  FoundSafePlace : "&0[&fUber&0]: &aDestinto localizado."
+  WaitingChunk : "&0[&fUber&0]: &aEsperando a que la tostadora cargue el mapa."
+  LookingForSafePlace : "&0[&fUber&0]: &aBuscando un destino seguro.."
+
+HelpMessages:
+  banner:
+    msg: "=== &e[&aRandomTeleport Commands List (%version%)&e] &r==="  
+  help:
+    msg: "&a/rt help : displays this help menu."
+  reload:
+    msg: "&a/rt reload : reloads config file."
+    permission: "randomteleport.reload"
+  debug:
+    msg: "&a/rt debug <true|false> : turn on / off the debug mode."
+    permission: "randomteleport.debug"
+  teleport:
+    msg: "&a/rt [w:worldname][cx:center-x][cz:center-z][rx:x-radius][rz:z-radius][r:radius] : Teleports you to a randomly selected location (option) in the specified world"
+    permission: "randomteleport.teleport"
+  teleportOther:
+    msg: "&a/rt otherplayer [w:worldname][cx:center-x][cz:center-z][rx:x-radius][rz:z-radius][r:radius] : Teleports you to a randomly selected location (option) in the specified world"
+    permission: "randomteleport.teleport.other"
+
+# Default radius, for old server whcih does not have World.getWroldBorder() method
+# this value will be used as a default radius.
+DefaultRadius: 100
+
+# Default center.
+DefaultCenter:
+  x: 0
+  y: 0
+  z: 0
+
+# economy related
+# choices of economy system: "Money", "Token" or "Exp"
+Economy: ""
+Price: 0
+
+# delay til the teleportation is initiated (in seconds)
+TPDelay: 3
+
+Cooldown: 600  #in seconds
+
+EnabledEnvironment:
+  - NORMAL
+
+#if you set this option to true, the cooldown will be tracked for each world.
+UseWorldBased: false
+
+# Timeout in seconds before it gives up looking for a safe location to land.
+TimeOut: 10
+
+# a player with randomteleport.sign.use can click the sing to execute /rt w:world
+# a player with randomteleport.sign.create can create the RT sign.
+# 1st line of the RT sign is reserved for [RT]
+# 2nd line of the RT sign is reserved for world id.
+
+RTSign:
+  world:   #short world id  (incase the world name is long)
+    world: "spawn"
+    lore:
+      - "&aTeleport to"
+      - "&arandom place"
+#  nether:
+#    world: "world_nether"
+#    lore:
+#      - "&aTeleport to"
+#      - "&arandom place"
+#  end:
+#    world: "world_the_end"
+#    lore:
+#      - "&aTeleport to"
+#      - "&arandom place"
+
+# you can nominate the min/max boundaries of each world if you do not wish to
+# use the worldborder.
+# if the limits are not specified here, by default, the plugin will use the worldboarder
+#
+# you can also specify the center of the specified world.
+WorldLimits:
+#  smallworld:
+#    xRadius: 300
+#    zRadius: 200
+#    xCenter: 0
+#    yCenter: 100
+#    zCenter: 200
+#  bigworld:
+#    xRadius: 3000
+#    zRadius: 2000
+
+#
+# RT will try not to select the blocks listed here as the landing block
+AvoidBlocks:
+#  - SAND
+#  - GRAVEL
+
+#
+# No-Go WorldGuard Region
+AvoidWGRegions:
+#  - spawn
+
+
+#
+# if this option is true, all player who joined will be teleported to a random location.
+RandomTPOnJoin: false
+# this is the world a player wil be randomly teleported when they join.
+JoinTPWorld: undefined
+# if this option is true, random tp on join is executed only if a player joined the server
+# for the first time.
+OnlyAtFirstJoin: true
+
+#
+RegionPlugins:
+  world:
+    - WorldGuard
+  plotworld:
+    - WorldGuard
+    - PlotSquared
+  pvp:
+    - WorldGuard
+    - Factions
+
+# if the destination worlds are not specified as command line argument
+# worlds listed below will be randomly picked to find a safe landing place.
+TargetWorlds:
+  - world
+  - plotworld

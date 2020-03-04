@@ -1,0 +1,60 @@
+kits:
+  Craft:
+    delay: 7000000000
+    items:
+    - diamond_helmet 1 name:&4&kii&c&lCasco_Infierno&4&kii water_worker:3 protection_explosions:5
+      protection_environmental:5
+    - diamond_chestplate 1 name:&4&kii&c&lPechera_Infierno&4&kii protection_explosions:5
+      protection_environmental:5
+    - diamond_leggings 1 name:&4&kii&c&lPantalones_Infierno&4&kii protection_explosions:5
+      protection_environmental:5
+    - diamond_boots 1 name:&4&kii&c&lBotas_Infierno&4&kii protection_explosions:5
+      depth_strider:5 protection_environmental:5
+    - diamond_sword 1 name:&4&kii&c&lInfierno&4&kii fire_aspect:3 knockback:4 loot_bonus_mobs:4
+      damage_all:7 durability:5
+    - sponge 64 name:&l&a&lBloque_&d&lde_&b&lProtección_&925&7x&950&7x&925 lore:&f&lBloque_de_protección_básico|&7Size:&a_25x50x25|&r|&lAtención:_&7Recuerda_proteger_zonas_valiosas
+    - diamond_pickaxe 1 name:&3&kii&b&lPico_Ultimate&3&kii lore:&bPico_Ultimate dig_speed:5
+      loot_bonus_blocks:2 mending:1
+  Inicial:
+    delay: 200000000
+    items:
+    - STONE_SWORD 1 name:&4&kii&c&lEspada_de_piedra&4&kii lore:&cKit_inicial
+    - STONE_PICKAXE 1 name:&4&kii&c&lPico_de_piedra&4&kii lore:&cKit_inicial
+    - STONE_AXE 1 name:&4&kii&c&lHacha_de_piedra&4&kii lore:&cKit_inicial
+    - STONE_SHOVEL 1 name:&4&kii&c&lPala_de_piedra&4&kii lore:&cKit_inicial
+    - STONE_HOE 1 name:&4&kii&c&lAzada_de_piedra&4&kii lore:&cKit_inicial
+  Vip:
+    delay: 300000
+    items:
+    - IRON_SWORD 1 name:&a&kii&2&lEspada_de_{DISPLAYNAME}&a&kii lore:&2Vip! fire_aspect:1
+    - IRON_HELMET 1 name:&a&kii&2&lCasco_de_{DISPLAYNAME}&a&kii lore:&2Vip!
+    - IRON_CHESTPLATE 1 name:&a&kii&2&lPechera_de_{DISPLAYNAME}&a&kii lore:&2Vip!
+    - IRON_LEGGINGS 1 name:&a&kii&2&lPantalones_de_{DISPLAYNAME}&a&kii lore:&2Vip!
+    - IRON_BOOTS 1 name:&a&kii&2&lBotas_de_{DISPLAYNAME}&a&kii lore:&2Vip!
+    - PUMPKIN_PIE 32 name:&a&kii&8&lPay&a&kii lore:&aVip
+    - GOLDEN_APPLE 3
+    - GOLD_BLOCK 1
+    - DIAMOND_BLOCK 1
+  Elite:
+    delay: 500000
+    items:
+    - DIAMOND_PICKAXE 1 name:&e&kii&3&lPico_Elite&e&kii lore:&eElite dig_speed:3 silk_touch:1
+    - IRON_SWORD 1 name:&e&kii&3&lEspada_de_{DISPLAYNAME}&e&kii lore:&eElite damage_all:5 fire_aspect:2
+    - ENDER_PEARL 8
+    - experience_bottle 32
+    - DIAMOND_LEGGINGS 1 name:&e&kii&3&lPantalones_de_{DISPLAYNAME}&e&kii lore:&eElite protection_environmental:3
+    - DIAMOND_BOOTS 1 name:&e&kii&3&lBotas_de_{DISPLAYNAME}&e&kii lore:&eElite protection_environmental:3
+    - DIAMOND_HELMET 1 name:&e&kii&3&lCasco_de_{DISPLAYNAME}&e&kii lore:&eElite protection_environmental:3
+    - DIAMOND_CHESTPLATE 1 name:&e&kii&3&lPechera_de_{DISPLAYNAME}&e&kii lore:&eElite protection_environmental:3
+  Ultimate:
+    delay: 700000
+    items:
+    - DIAMOND_SWORD 1 name:&3&kii&b&lEspada_de_{DISPLAYNAME}&3&kii lore:&bUltimate fire_aspect:2 damage_all:5
+    - FISHING_ROD 1 name:&3&kii&b&lCaña_ultimate&3&kii lore:&bUltimate
+    - GOLDEN_APPLE:1 3
+    - IRON_HELMET 1 name:&3&kii&b&lCasco_Ultimate&3&kii lore:&bUltimate protection_environmental:4
+    - IRON_CHESTPLATE 1 name:&3&kii&b&lPechera_Ultimate&3&kii lore:&bUltimate protection_environmental:4
+    - IRON_LEGGINGS 1 name:&3&kii&b&lPantalones_Ultimate&3&kii lore:&bUltimate protection_environmental:4
+    - IRON_BOOTS 1 name:&3&kii&b&lBotas_Ultimate&3&kii lore:&bUltimate protection_environmental:4
+    - experience_bottle 64
+    - shulker_box 4 name:&3&kii&b&lShulker_Ultimate&3&kii lore:&bUltimate

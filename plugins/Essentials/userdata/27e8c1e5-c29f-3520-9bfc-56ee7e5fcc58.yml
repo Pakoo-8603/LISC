@@ -1,0 +1,28 @@
+lastAccountName: xxSaimersxx
+timestamps:
+  login: 1583292070708
+  lastteleport: 1583293450744
+  logout: 1583293503667
+ipAddress: 186.29.165.56
+lastlocation:
+  world: world
+  x: 2.8192609134711484
+  y: 67.0
+  z: 0.6176485317413041
+  yaw: 93.00133
+  pitch: 8.84989
+logoutlocation:
+  world: world
+  x: 2.60955427889907E7
+  y: 62.0
+  z: -1.6689295321950225E7
+  yaw: 160.04659
+  pitch: 4.176297
+homes:
+  noit:
+    world: spawn
+    x: 4329382.422647869
+    y: 201.0
+    z: -2.2978465222932156E7
+    yaw: 267.1328
+    pitch: 13.199999

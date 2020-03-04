@@ -1,0 +1,84 @@
+'&4&kii&c&lInfierno&4&kii':
+  ==: Recipe
+  result: §4§kii§c§lInfierno§4§kii
+  recipe:
+  - ENCHANTED_GOLDEN_APPLE
+  - FLINT_AND_STEEL
+  - ENCHANTED_GOLDEN_APPLE
+  - FLINT_AND_STEEL
+  - DIAMOND_SWORD
+  - FLINT_AND_STEEL
+  - ENCHANTED_GOLDEN_APPLE
+  - FLINT_AND_STEEL
+  - ENCHANTED_GOLDEN_APPLE
+  permission: ''
+Casco:
+  ==: Recipe
+  result: §4§kii§c§lCasco Infierno§4§kii
+  recipe:
+  - FLINT_AND_STEEL
+  - ENCHANTED_GOLDEN_APPLE
+  - FLINT_AND_STEEL
+  - ENCHANTED_GOLDEN_APPLE
+  - DIAMOND_HELMET
+  - ENCHANTED_GOLDEN_APPLE
+  - FLINT_AND_STEEL
+  - ENCHANTED_GOLDEN_APPLE
+  - FLINT_AND_STEEL
+  permission: Infierno&4&kii
+pechera:
+  ==: Recipe
+  result: §4§kii§c§lPechera Infierno§4§kii
+  recipe:
+  - FLINT_AND_STEEL
+  - ENCHANTED_GOLDEN_APPLE
+  - FLINT_AND_STEEL
+  - ENCHANTED_GOLDEN_APPLE
+  - DIAMOND_CHESTPLATE
+  - ENCHANTED_GOLDEN_APPLE
+  - FLINT_AND_STEEL
+  - ENCHANTED_GOLDEN_APPLE
+  - FLINT_AND_STEEL
+  permission: ''
+botas:
+  ==: Recipe
+  result: §4§kii§c§lBotas Infierno§4§kii
+  recipe:
+  - FLINT_AND_STEEL
+  - ENCHANTED_GOLDEN_APPLE
+  - FLINT_AND_STEEL
+  - ENCHANTED_GOLDEN_APPLE
+  - DIAMOND_BOOTS
+  - ENCHANTED_GOLDEN_APPLE
+  - FLINT_AND_STEEL
+  - ENCHANTED_GOLDEN_APPLE
+  - FLINT_AND_STEEL
+  permission: ''
+pantalon:
+  ==: Recipe
+  result: §4§kii§c§lPantalones Infierno§4§kii
+  recipe:
+  - FLINT_AND_STEEL
+  - ENCHANTED_GOLDEN_APPLE
+  - FLINT_AND_STEEL
+  - ENCHANTED_GOLDEN_APPLE
+  - DIAMOND_LEGGINGS
+  - ENCHANTED_GOLDEN_APPLE
+  - FLINT_AND_STEEL
+  - ENCHANTED_GOLDEN_APPLE
+  - FLINT_AND_STEEL
+  permission: ''
+Protec:
+  ==: Recipe
+  result: §l§a§lBloque §d§lde §b§lProtección §925§7x§950§7x§925
+  recipe:
+  - GOLD_INGOT
+  - IRON_INGOT
+  - DIAMOND
+  - COAL
+  - DIAMOND_BLOCK
+  - COAL
+  - DIAMOND
+  - IRON_INGOT
+  - GOLD_INGOT
+  permission: ''

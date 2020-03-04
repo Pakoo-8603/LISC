@@ -1,0 +1,121 @@
+§4§kii§c§lInfierno§4§kii:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: DIAMOND_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §4§kii§c§lInfierno§4§kii
+    enchants:
+      FIRE_ASPECT: 3
+      KNOCKBACK: 4
+      LOOT_BONUS_MOBS: 4
+      DAMAGE_ALL: 7
+      DURABILITY: 5
+ENCHANTED_GOLDEN_APPLE:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: ENCHANTED_GOLDEN_APPLE
+FLINT_AND_STEEL:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: FLINT_AND_STEEL
+DIAMOND_SWORD:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: DIAMOND_SWORD
+§4§kii§c§lCasco Infierno§4§kii:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: DIAMOND_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §4§kii§c§lCasco Infierno§4§kii
+    enchants:
+      WATER_WORKER: 3
+      PROTECTION_EXPLOSIONS: 5
+      PROTECTION_ENVIRONMENTAL: 5
+DIAMOND_HELMET:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: DIAMOND_HELMET
+§4§kii§c§lPantalones Infierno§4§kii:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: DIAMOND_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §4§kii§c§lPantalones Infierno§4§kii
+    enchants:
+      PROTECTION_EXPLOSIONS: 5
+      PROTECTION_ENVIRONMENTAL: 5
+§4§kii§c§lBotas Infierno§4§kii:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: DIAMOND_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §4§kii§c§lBotas Infierno§4§kii
+    enchants:
+      PROTECTION_EXPLOSIONS: 5
+      DEPTH_STRIDER: 5
+      PROTECTION_ENVIRONMENTAL: 5
+DIAMOND_BOOTS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: DIAMOND_BOOTS
+§4§kii§c§lPechera Infierno§4§kii:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: DIAMOND_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §4§kii§c§lPechera Infierno§4§kii
+    enchants:
+      PROTECTION_EXPLOSIONS: 5
+      PROTECTION_ENVIRONMENTAL: 5
+DIAMOND_CHESTPLATE:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: DIAMOND_CHESTPLATE
+DIAMOND_LEGGINGS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: DIAMOND_LEGGINGS
+§l§a§lBloque §d§lde §b§lProtección §925§7x§950§7x§925:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: SPONGE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §f§l§a§lBloque §d§lde §b§lProtección §925§7x§950§7x§925
+    lore:
+    - §f§lBloque de protección básico
+    - §7Size:§a 25x50x25
+    - §r
+    - '§lAtención: §7Recuerda proteger zonas valiosas'
+GOLD_INGOT:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: GOLD_INGOT
+IRON_INGOT:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: IRON_INGOT
+DIAMOND:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: DIAMOND
+COAL:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: COAL
+DIAMOND_BLOCK:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: DIAMOND_BLOCK

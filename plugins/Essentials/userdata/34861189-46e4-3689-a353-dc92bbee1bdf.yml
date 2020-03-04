@@ -1,0 +1,20 @@
+lastAccountName: RogerMx
+timestamps:
+  login: 1582694553133
+  logout: 1582695282831
+  lastteleport: 1582693393999
+ipAddress: 177.226.81.4
+lastlocation:
+  world: world
+  x: 0.0
+  y: 71.0
+  z: 0.0
+  yaw: 3.5739453
+  pitch: 0.0
+logoutlocation:
+  world: spawn
+  x: -375.89080440093954
+  y: 71.0
+  z: 163.507487499453
+  yaw: -284.09445
+  pitch: 0.44993314

@@ -1,0 +1,42 @@
+lastlocation:
+  world: world
+  x: 0.0
+  y: 67.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+lastAccountName: TheFacu04
+timestamps:
+  login: 1583290120005
+  logout: 1583293691186
+  lastteleport: 1583282299644
+ipAddress: 181.97.182.31
+logoutlocation:
+  world: world
+  x: 1.9903729699999988E7
+  y: 72.0
+  z: 4976444.699999988
+  yaw: -255.87665
+  pitch: 49.96641
+homes:
+  home1:
+    world: spawn
+    x: 1.4288126699999988E7
+    y: 70.0
+    z: -2.7439450699999988E7
+    yaw: 93.39554
+    pitch: 70.21992
+  aldea1:
+    world: spawn
+    x: 4880.145860692447
+    y: 63.0
+    z: -132.0683262129473
+    yaw: -307.03064
+    pitch: 36.36335
+  aldea2:
+    world: spawn
+    x: 8477874.868663376
+    y: 69.0625
+    z: -2.94419196370158E7
+    yaw: -271.54297
+    pitch: 24.201843

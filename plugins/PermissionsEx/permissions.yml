@@ -1,0 +1,283 @@
+groups:
+  usuario:
+    permissions:
+    - essentials.worlds.spawn
+    - multiverse.access.*
+    - essentials.list
+    - essentials.back
+    - essentials.back.ondeath
+    - multiverse.access.spawn
+    - multiverse.access.world_nether
+    - multiverse.access.End
+    - multiverse.access.warps
+    - essentials.tpa
+    - essentials.sethome.multiple
+    - essentials.homes
+    - essentials.delhome
+    - karenprotect.owners
+    - karenprotect.members
+    - karenprotect.overlaps
+    - karenprotect.take
+    - clan.user.*
+    - essentials.rules
+    - randomteleport.teleport
+    - rtp.tpprotection
+    - rtp
+    - skinsrestorer.playercmds
+    - sr.set
+    - skinsrestorer.cmds
+    - jobs.join.*
+    - jobs.use
+    - jobs.command.*
+    - jobs.command.browse
+    - chestcommands.open.hcf.yml
+    - ChestShop.shop.buy
+    - ChestShop.shop.sell
+    - silkspawners.place.*
+    - authme.player.*
+    - essentials.help
+    - essentials.kit
+    - essentials.msg.url
+    - essentials.chat.url
+    - essentials.msg
+    - essentials.ignore
+    - essentials.msg.url
+    - essentials.build.*
+    - essentials.list
+    - essentials.helpop
+    - essentials.home
+    - essentials.sethome
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.spawn
+    - essentials.warp.list
+    options:
+      prefix: '&8[&bUsuario&8] &f'
+      default: true
+  yt:
+    inheritance:
+    - usuario
+    permissions:
+    - essentials.afk
+    - essentials.msg
+    - essentials.joinfullserver
+    - essentials.nick
+    - essentials.nick.color
+    - essentials.nick.format
+    - essentials.nick.magic
+    - essentials.workbench
+    - essentials.chat.color
+    - essentials.nick.color
+    - essentials.msg.color
+    - essentials.kits.vip
+    - deathban.class.VIP
+    - RepairPlus.use.*
+    - essentials.sethome.multiple
+    options:
+      prefix: '&f&l◄&4YouTuber&f&l► &f'
+  vip:
+    inheritance:
+    - yt
+    permissions:
+    - essentials.warp.*
+    - essentials.warps
+    - essentials.warp
+    - essentials.back
+    - essentials.warp.nether
+    - essentials.warp.end
+    - ultracosmetics.mounts.snake
+    options:
+      prefix: '&3&ki&a■&a&lVip&a■&3&ki &f'
+  elite:
+    inheritance:
+    - vip
+    permissions:
+    - deathban.class.ELITE
+    - essentials.kits.elite
+    - essentials.feed
+    options:
+      prefix: '&6⚡&e&kii&6&lElite&e&kii&6⚡ &f'
+  ultimate:
+    inheritance:
+    - elite
+    permissions:
+    - essentials.fly
+    - deathban.class.ULTIMATE
+    - essentials.kits.ultimate
+    - essentials.heal
+    options:
+      prefix: '&b&l⚓&3&kii&b&lUltimate&3&kii&b&l⚓ &f'
+  mega:
+    inheritance:
+    - ultimate
+    permissions:
+    - essentials.fly
+    - deathban.class.MEGA
+    - essentials.kits.mega
+    - essentials.skull
+    - essentials.skull.modify
+    - essentials.skull.modify
+    - essentials.skull.spawn
+    options:
+      prefix: '&f&l☪&0&kO&7&lMega&0&kO&f&l☪ &f'
+  yt+:
+    inheritance:
+    - mega
+    permissions:
+    - essentials.jump
+    options:
+      prefix: '&f◄&4YouTuber&6+&f►&r &f'
+  helper:
+    inheritance:
+    - elite
+    permissions:
+    - essentials.ban
+    - essentials.kick
+    - lagg.unloadchunks
+    - lagg.clear
+    - lagg.check
+    - lagg.killmobs
+    - lagg.tps
+    - lagg.halt
+    - essentials.kick.notify
+    - essentials.mute
+    options:
+      prefix: '&3[&dAyudante&3] &f'
+  constructor:
+    inheritance:
+    - helper
+    permissions:
+    - worldedit.*
+    - essentials.gamemode
+    options:
+      prefix: '[&6Builder&f]&6 &f'
+  moderador:
+    inheritance:
+    - helper
+    permissions:
+    - chatformat.Moderador
+    - essentials.fly
+    - essentials.gc
+    - essentials.vanish
+    - essentials.vanish.interact
+    - essentials.tp
+    - essentials.tp.others
+    - essentials.afk.others
+    - essentials.whois
+    - essentials.broadcast
+    - essentials.invsee
+    - essentials.remove
+    - essentials.unban
+    - essentials.unbanip
+    - essentials.banip
+    - essentials.geoip.show
+    - essentials.geoip.hide
+    - essentials.silentjoin
+    - essentials.ban
+    - essentials.ban.offline
+    - essentials.silentquit
+    - essentials.whois
+    - essentials.mute
+    - essentials.mute.exempt
+    - essentials.mute.notify
+    - essentials.mute.offline
+    - essentials.socialspy
+    - minecraft.command.ban
+    - minecraft.command.banlist
+    - bukkits.command.unban
+    - bukkits.command.ban
+    - essentials.broadcast
+    options:
+      prefix: '&7[&6Moderador&7] &f'
+  moderadora:
+    inheritance:
+    - moderador
+    permissions:
+    - essentials.broadcast
+    options:
+      prefix: '&7[&6Moderadora&7] &f'
+  admin:
+    inheritance:
+    - constructor
+    permissions:
+    - authme.*
+    - essentials.fly.others
+    - essentials.ptime
+    - essentials.god
+    - essentials.tp
+    - essentials.tp.others
+    - essentials.home.others
+    - essentials.weather
+    - essentials.spawnmob.*
+    - essentials.remove
+    - essentials.kill
+    - essentials.gc
+    - essentials.clearinventory
+    - essentials.feed
+    - essentials.feed.others
+    - essentials.backup
+    - essentials.fireball
+    - essentials.invsee
+    - essentials.*
+    - chestcommands.command.help
+    - chestcommands.command.reload
+    - chestcommands.open.admin.yml
+    - chestcommands.command.list
+    options:
+      prefix: '&a&kiiii&e&lAdmin&a&kiiii &f'
+  owner:
+    inheritance:
+    - Admin
+    permissions:
+    - essentials.*
+    options:
+      prefix: '&b&kii&e&l⬥&b&lDueño&e&l⬥&b&kii&r  &f&l'
+schema-version: 1
+users:
+  c9f91129-30e0-3b3c-94e4-da4808b11385:
+    group:
+    - usuario
+    options:
+      name: Yolo
+    permissions:
+    - '*'
+  332870ee-118b-396c-9788-3b5a1eb0c670:
+    permissions:
+    - multiverse.core.tp.self
+    - multiverse.teleport.self.w
+    - multiverse.teleport.*
+    - multiverse.teleport
+    - multiverse.teleport.self.warps
+    - essentials.*
+    - worldguard.*
+    group:
+    - constructor
+    options:
+      name: Zekken_X
+  6837337c-1d2f-303b-8934-7903ec6e6008:
+    permissions:
+    - '*'
+    options:
+      name: Pakoo
+    group:
+    - ultimate
+  f5b821ef-9b90-3583-b1e2-21b5977e80d6:
+    group:
+    - ultimate
+    options:
+      name: NooitFaalt
+  ffef5c20-90f5-3bf3-99c1-0a8c7bdc9631:
+    group:
+    - helper
+    options:
+      name: Pokilul
+  a64cfb57-0653-3885-aeff-89bdf9cbddea:
+    group:
+    - helper
+    options:
+      name: SilvermanH12
+  3e8f6527-5855-304f-8e46-7ffacdc8f662:
+    group:
+    - ultimate
+    options:
+      name: VAQUEROMEXR24

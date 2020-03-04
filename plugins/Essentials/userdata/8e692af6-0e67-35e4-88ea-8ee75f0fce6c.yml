@@ -1,0 +1,28 @@
+lastlocation:
+  world: spawn
+  x: 1.748364550455292
+  y: 67.0625
+  z: 11.743694537888626
+  yaw: -185.604
+  pitch: 33.162296
+lastAccountName: Sgiach
+timestamps:
+  login: 1583267025591
+  logout: 1583267113323
+  lastteleport: 1583258063007
+ipAddress: 201.210.61.156
+logoutlocation:
+  world: world
+  x: -1.4345281699999988E7
+  y: 62.019351998156544
+  z: 1.5001563516058492E7
+  yaw: -281.8509
+  pitch: 10.199895
+homes:
+  home:
+    world: spawn
+    x: -9780820.5
+    y: 78.6875
+    z: 1.71414825E7
+    yaw: -319.722
+    pitch: 0.0
