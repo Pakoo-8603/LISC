@@ -1,19 +1,19 @@
 lastlocation:
   world: world
-  x: 0.5
-  y: 70.0
-  z: 0.5
-  yaw: 2.8254883
+  x: 0.0
+  y: 67.0
+  z: 0.0
+  yaw: 0.0
   pitch: 0.0
 lastAccountName: xTeembo
 timestamps:
-  login: 1583269300643
-  logout: 1583269382734
+  login: 1583458334696
+  logout: 1583458338889
 ipAddress: 181.126.96.240
 logoutlocation:
-  world: spawn
-  x: 1.6250720392926292E7
-  y: 64.0
-  z: -2.869234427682832E7
-  yaw: 336.4499
-  pitch: 18.44995
+  world: world
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: 90.6013
+  pitch: 90.0

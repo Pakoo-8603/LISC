@@ -1,28 +1,42 @@
 lastAccountName: Lalacrit
 timestamps:
-  login: 1583274560932
-  lastteleport: 1583276713944
-  logout: 1583276843612
+  login: 1583529786066
+  lastteleport: 1583530074863
+  logout: 1583530292384
 ipAddress: 181.64.199.92
 lastlocation:
-  world: spawn
-  x: 0.9418894992895519
-  y: 67.0
-  z: 2.804542137283335
-  yaw: 241.60677
-  pitch: 30.027876
+  world: world
+  x: 750.3000000119209
+  y: 5.043730022676283
+  z: -180.05785805885483
+  yaw: -335.36786
+  pitch: -4.812185
 logoutlocation:
-  world: spawn
-  x: 534.2500888377552
-  y: 11.0
-  z: -850.3000000119209
-  yaw: 136.67601
-  pitch: 32.6372
+  world: world
+  x: 0.2764042506652353
+  y: 67.0625
+  z: 0.5632036673983017
+  yaw: 90.6013
+  pitch: 90.0
 homes:
-  cueva:
-    world: spawn
-    x: 533.9679561504324
+  casita:
+    world: world
+    x: 584.6741709281607
+    y: 57.0
+    z: -131.85418452161372
+    yaw: 20.954529
+    pitch: 24.325924
+  minota:
+    world: world
+    x: 750.0082727650642
     y: 11.0
-    z: -850.3000000119209
-    yaw: 191.95732
-    pitch: 25.308134
+    z: -156.30000001192093
+    yaw: 115.08211
+    pitch: 9.58774
+  casa:
+    world: world
+    x: 587.400147780514
+    y: 112.0
+    z: -133.3657019334653
+    yaw: 184.75426
+    pitch: 67.80005

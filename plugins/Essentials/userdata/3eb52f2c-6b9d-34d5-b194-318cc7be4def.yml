@@ -1,0 +1,27 @@
+lastlocation:
+  world: world
+  x: 0.0
+  y: 67.0
+  z: 0.0
+  yaw: 4.4191957
+  pitch: 0.0
+lastAccountName: R4GANTHONY
+timestamps:
+  login: 1583364896647
+  logout: 1583365089843
+ipAddress: 179.58.19.111
+homes:
+  home:
+    world: world
+    x: 0.9439810892596768
+    y: 67.0625
+    z: -34.93801326006397
+    yaw: 192.0022
+    pitch: 8.999999
+logoutlocation:
+  world: world
+  x: 7.720615112703653
+  y: 67.0
+  z: 1.0105835622236141
+  yaw: 273.90234
+  pitch: 2.999967

@@ -1,43 +1,50 @@
 lastAccountName: SilvermanH12
 timestamps:
-  login: 1583258185922
-  logout: 1583259853816
-  lastteleport: 1583258959156
+  login: 1583944446824
+  logout: 1583946388445
+  lastteleport: 1583777723115
   kits:
     mega: 1583107199494
-    elite: 1583107230733
+    elite: 1583636301634
     ultimate: 1583108147707
-    vip: 1583108534086
-  lastheal: 1583166285049
+    vip: 1583455058699
+  lastheal: 1583631863380
 ipAddress: 191.92.163.120
 lastlocation:
-  world: spawn
-  x: 24.52877958687619
-  y: 67.0625
-  z: -0.48977942672611846
-  yaw: 74.01428
-  pitch: 13.342765
+  world: world
+  x: 8735.434325930288
+  y: 65.0
+  z: 6016.73074607407
+  yaw: -82.5281
+  pitch: 12.678103
 logoutlocation:
-  world: spawn
-  x: 4471.278097399838
-  y: 69.5625
-  z: 4028.4211244708167
-  yaw: -285.53375
-  pitch: 25.299177
-nickname: §4SilvermanH12
+  world: world
+  x: 8917.756623925408
+  y: 98.0
+  z: 6087.786764416851
+  yaw: 126.74622
+  pitch: 8.133241
+nickname: §kr§4Silver§kr
 homes:
-  subterranea:
-    world: spawn
-    x: 4547.800751617906
-    y: 71.0
-    z: 4022.376904124007
-    yaw: -20.452637
-    pitch: 7.2220197
   casa:
-    world: spawn
-    x: 4537.778468461116
-    y: 64.0
-    z: 3993.8303291246116
-    yaw: -167.77881
-    pitch: 20.590052
+    world: world
+    x: 8908.181884054346
+    y: 97.0
+    z: 6090.82334783233
+    yaw: -8.737427
+    pitch: 43.83259
+  plains:
+    world: world
+    x: 8910.444383374497
+    y: 77.0
+    z: 6095.767627980437
+    yaw: -8.737427
+    pitch: 43.83259
+  aldea:
+    world: world
+    x: 8714.029336568412
+    y: 71.0
+    z: 6180.494158864188
+    yaw: 45.89502
+    pitch: 53.845764
 afk: false

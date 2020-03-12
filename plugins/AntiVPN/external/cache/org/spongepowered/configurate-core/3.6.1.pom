@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.spongepowered</groupId>
+  <artifactId>configurate-core</artifactId>
+  <version>3.6.1</version>
+  <name>configurate-core</name>
+  <description>A simple configuration library for Java applications that can handle a variety of formats and provides a node-based data structure able to handle a wide variety of configuration schemas</description>
+  <url>https://github.com/SpongePowered/configurate/</url>
+  <inceptionYear>2014</inceptionYear>
+  <licenses>
+    <license>
+      <name>Apache License, Version 2.0</name>
+      <url>https://opensource.org/licenses/Apache-2.0</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>zml</name>
+      <email>zml@aoeu.xyz</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@github.com:SpongePowered/configurate.git</connection>
+    <developerConnection>scm:git@github.com:SpongePowered/configurate.git</developerConnection>
+    <url>https://github.com/SpongePowered/configurate/</url>
+  </scm>
+  <issueManagement>
+    <system>GitHub Issues</system>
+    <url>https://github.com/SpongePowered/configurate/issues</url>
+  </issueManagement>
+  <dependencies>
+    <dependency>
+      <groupId>com.google.guava</groupId>
+      <artifactId>guava</artifactId>
+      <version>21.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.checkerframework</groupId>
+      <artifactId>checker-qual</artifactId>
+      <version>2.4.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.google.inject</groupId>
+      <artifactId>guice</artifactId>
+      <version>4.1.0</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.junit-pioneer</groupId>
+      <artifactId>junit-pioneer</artifactId>
+      <version>0.1.2</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.junit.jupiter</groupId>
+      <artifactId>junit-jupiter-api</artifactId>
+      <version>5.2.0</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>

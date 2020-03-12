@@ -1,16 +1,16 @@
 Reglas:
-  location: spawn, -9.500, 70.000, 0.500
+  location: world, -9.500, 70.000, 0.500
   lines:
   - '&a&l&kiiii&b&lReglas&a&l&kiiii'
-comandos:
-  location: spawn, 0.500, 70.000, -9.500
+Comandos:
+  location: world, 0.500, 70.000, -9.500
   lines:
   - '&b&l&kiiii&d&lComandos&b&l&kiiii'
 Staff:
-  location: spawn, 0.500, 70.000, 10.500
+  location: world, 0.500, 70.000, 10.500
   lines:
   - '&e&l&kiiii&a&lStaff&e&l&kiiii'
 Survival:
-  location: spawn, 10.500, 70.000, 0.500
+  location: world, 10.500, 70.000, 0.500
   lines:
   - '&d&l&kiiii&e&lSurvival&d&l&kiiii'

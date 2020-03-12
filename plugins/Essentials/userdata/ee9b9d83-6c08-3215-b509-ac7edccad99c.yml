@@ -1,0 +1,35 @@
+lastAccountName: _Unfading
+timestamps:
+  login: 1583982866778
+  lastteleport: 1583987006783
+  logout: 1583987085842
+ipAddress: 186.178.50.84
+lastlocation:
+  world: world
+  x: 35.51359327934314
+  y: 67.0
+  z: 25.53431952390638
+  yaw: 0.98498535
+  pitch: -7.0328097
+homes:
+  casa:
+    world: world
+    x: 1422.4768591296493
+    y: 64.0
+    z: -73.60001143909231
+    yaw: 290.59164
+    pitch: 10.528124
+  home:
+    world: world
+    x: 1408.4485521550785
+    y: 12.0
+    z: -156.0424304975168
+    yaw: 359.45142
+    pitch: 16.112808
+logoutlocation:
+  world: world
+  x: 1420.473920543436
+  y: 64.0
+  z: -73.83457026934826
+  yaw: 95.17386
+  pitch: -6.7094026

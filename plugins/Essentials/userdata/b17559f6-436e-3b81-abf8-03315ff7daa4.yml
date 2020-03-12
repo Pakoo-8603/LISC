@@ -1,42 +1,36 @@
 lastlocation:
   world: world
-  x: 0.0
-  y: 67.0
-  z: 0.0
-  yaw: 0.0
-  pitch: 0.0
+  x: 4329497.520555863
+  y: 72.0
+  z: -2.297836751462756E7
+  yaw: 219.42932
+  pitch: 21.559683
 lastAccountName: TheFacu04
 timestamps:
-  login: 1583290120005
-  logout: 1583293691186
-  lastteleport: 1583282299644
-ipAddress: 181.97.182.31
+  login: 1583606968900
+  logout: 1583607840782
+  lastteleport: 1583607553812
+ipAddress: 181.97.189.210
 logoutlocation:
   world: world
-  x: 1.9903729699999988E7
-  y: 72.0
-  z: 4976444.699999988
-  yaw: -255.87665
-  pitch: 49.96641
+  x: 5833.957309042783
+  y: 73.0
+  z: 2879.011203781137
+  yaw: -289.33606
+  pitch: 11.103244
 homes:
-  home1:
-    world: spawn
-    x: 1.4288126699999988E7
-    y: 70.0
-    z: -2.7439450699999988E7
-    yaw: 93.39554
-    pitch: 70.21992
-  aldea1:
-    world: spawn
-    x: 4880.145860692447
-    y: 63.0
-    z: -132.0683262129473
-    yaw: -307.03064
-    pitch: 36.36335
-  aldea2:
-    world: spawn
-    x: 8477874.868663376
-    y: 69.0625
-    z: -2.94419196370158E7
-    yaw: -271.54297
-    pitch: 24.201843
+  aldea:
+    world: world
+    x: 1.990373254084774E7
+    y: 71.9375
+    z: 4976448.268258749
+    yaw: -87.9093
+    pitch: 17.82678
+  megaaldea:
+    world: world
+    x: 5847.503079698719
+    y: 73.0
+    z: 2871.35166261012
+    yaw: -175.08653
+    pitch: 27.963655
+nickname: Zx_TheFacu

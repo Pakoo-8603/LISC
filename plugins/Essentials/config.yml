@@ -592,7 +592,9 @@ world-home-permissions: true
 sethome-multiple:
   default: 3
   vip: 5
-  staff: 10
+  elite: 10
+  ultimate: 20
+  staff: 500
 
 # In this example someone with 'essentials.sethome.multiple' and 'essentials.sethome.multiple.vip' will have 5 homes.
 # Remember, they MUST have both permission nodes in order to be able to set multiple homes.
@@ -721,11 +723,11 @@ protect:
 
   # General physics/behavior modifications.
   prevent:
-    lava-flow: true
+    lava-flow: false
     water-flow: false
     water-bucket-flow: false
-    fire-spread: true
-    lava-fire-spread: true
+    fire-spread: false
+    lava-fire-spread: false
     flint-fire: false
     lightning-fire-spread: true
     portal-creation: false

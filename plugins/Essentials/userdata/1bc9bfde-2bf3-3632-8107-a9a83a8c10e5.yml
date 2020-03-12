@@ -1,20 +1,20 @@
 lastAccountName: jhonedwar
 timestamps:
-  login: 1583280758543
+  login: 1583348826545
   lastteleport: 1583280827560
-  logout: 1583281003712
+  logout: 1583348925808
 ipAddress: 191.95.137.244
 lastlocation:
-  world: spawn
-  x: 45.56882220061865
-  y: 65.0
-  z: 0.4553304352319467
-  yaw: 266.55295
-  pitch: 36.14998
+  world: world
+  x: 0.0
+  y: 67.0
+  z: 0.0
+  yaw: 1.4115912
+  pitch: 0.0
 logoutlocation:
-  world: spawn
-  x: 2.436731549210335E7
-  y: 70.0
-  z: -1.3130396776259247E7
-  yaw: 301.50052
-  pitch: 4.1999254
+  world: world
+  x: 38.12415493411956
+  y: 67.0625
+  z: 1.1656867893652987
+  yaw: 265.95172
+  pitch: 16.950087

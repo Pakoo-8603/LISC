@@ -255,7 +255,7 @@ blocks:
       - 'console; money give <player> 10'
       - 'player; me destroying protection...'
       #NODROP: When player breaking protection block protection block is 'gone' (One time use)
-      - 'nodrop; true'
+      - 'nodrop; false'
   DIAMOND_ORE:
     name: '&6&lJail &b&lBlock'
     size:

@@ -1,31 +1,31 @@
 lastAccountName: Pakoo
 timestamps:
-  login: 1583289714344
-  lastteleport: 1583302235531
-  logout: 1583286742504
+  login: 1583974408757
+  lastteleport: 1583974580053
+  logout: 1583974726495
   kits:
     mega: 1583039839954
     elite: 1583297640441
     ultimate: 1583296647014
-    craft: 1583116423550
+    craft: 1583391290282
     inicial: 1583300618798
-    vip: 1583300736421
+    vip: 1583882589925
 ipAddress: 177.231.75.184
 lastlocation:
   world: world
-  x: 4329418.8789356025
-  y: 189.6194879786202
-  z: -2.297844101442138E7
-  yaw: 95.83057
-  pitch: -17.699966
-afk: true
+  x: 4329414.857807148
+  y: 200.0
+  z: -2.29783995425225E7
+  yaw: 41.91266
+  pitch: -2.4000568
+afk: false
 logoutlocation:
   world: world
-  x: 1.4978045101942583
-  y: 69.0
-  z: 7.395364394702088
-  yaw: 173.54893
-  pitch: 18.000029
+  x: 4329404.427153814
+  y: 201.0
+  z: -2.297835135557542E7
+  yaw: -50.7544
+  pitch: 25.650085
 godmode: false
 homes:
   home:

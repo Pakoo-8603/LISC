@@ -1,0 +1,112 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2020-03-09 23:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2020-03-09 23:08:48 +0000"
+    },
+    "done": true
+  },
+  "main:main/dragon_drops_elytra": {
+    "criteria": {
+      "tick": "2020-03-09 23:07:21 +0000"
+    },
+    "done": true
+  },
+  "main:main/mmh": {
+    "criteria": {
+      "tick": "2020-03-09 23:07:21 +0000"
+    },
+    "done": true
+  },
+  "main:main/wrench": {
+    "criteria": {
+      "tick": "2020-03-09 23:07:21 +0000"
+    },
+    "done": true
+  },
+  "main:main/silence_mobs": {
+    "criteria": {
+      "tick": "2020-03-09 23:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2020-03-09 23:07:21 +0000"
+    },
+    "done": true
+  },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2020-03-09 23:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2020-03-09 23:08:48 +0000"
+    },
+    "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-03-09 23:07:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2020-03-09 23:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2020-03-09 23:09:14 +0000"
+    },
+    "done": true
+  },
+  "main:main/double_shulkers": {
+    "criteria": {
+      "tick": "2020-03-09 23:07:21 +0000"
+    },
+    "done": true
+  },
+  "main:main/ch": {
+    "criteria": {
+      "tick": "2020-03-09 23:07:21 +0000"
+    },
+    "done": true
+  },
+  "main:main/nether_portal_coords": {
+    "criteria": {
+      "tick": "2020-03-09 23:07:21 +0000"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-03-09 23:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-03-09 23:08:27 +0000",
+      "minecraft:plains": "2020-03-09 23:07:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2020-03-09 23:09:14 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2230
+}

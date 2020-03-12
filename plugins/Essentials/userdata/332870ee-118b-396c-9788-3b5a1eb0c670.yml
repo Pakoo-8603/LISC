@@ -1,58 +1,53 @@
 lastlocation:
-  world: spawn
-  x: 0.5
-  y: 67.0
-  z: 0.5
-  yaw: 92.04613
-  pitch: 74.562325
+  world: world
+  x: 0.2764042506652353
+  y: 67.0625
+  z: 0.5632036673983017
+  yaw: 308.19614
+  pitch: 59.27165
 lastAccountName: Zekken_X
 timestamps:
-  login: 1583272848289
-  logout: 1583282730909
-  lastteleport: 1583281752933
+  login: 1584019843564
+  logout: 1584021580658
+  lastteleport: 1584021492792
   kits:
     mega: 1583109858136
-    elite: 1583109605172
+    elite: 1583768191303
     ultimate: 1583109920631
     craft: 1583110099234
     inicio: 1583109869034
-    vip: 1583109825616
-    inicial: 1583182948456
-ipAddress: 190.237.114.231
+    vip: 1583768219578
+    inicial: 1583356740261
+ipAddress: 190.237.114.133
 logoutlocation:
-  world: spawn
-  x: 1.4288118598519517E7
-  y: 87.44896347874186
-  z: -2.7439393028264437E7
-  yaw: 349.68726
-  pitch: 0.573367
+  world: world
+  x: 9016.397137297088
+  y: 53.6977629243912
+  z: 5942.326643863623
+  yaw: 73.15265
+  pitch: -7.709915
 homes:
-  home:
-    world: spawn
-    x: 1.4288056299194619E7
-    y: 85.0
-    z: -2.7439389872070376E7
-    yaw: 20.132233
-    pitch: 29.969244
-  aldea1:
-    world: spawn
-    x: 1.4288066222709088E7
-    y: 79.0
-    z: -2.74394006314038E7
-    yaw: 292.6629
-    pitch: 63.6484
   aldea2:
-    world: spawn
-    x: 4329487.944679612
-    y: 37.0
-    z: -2.2978421393960763E7
-    yaw: 91.577515
-    pitch: 18.644846
-  aldea3:
-    world: spawn
-    x: 1.4288070720105438E7
-    y: 99.0
-    z: -2.7439368882579003E7
-    yaw: 350.14575
-    pitch: 8.877049
-nickname: §3§lZekken
+    world: world
+    x: 4329633.951429821
+    y: 64.0
+    z: -2.297839574023997E7
+    yaw: 242.09137
+    pitch: 33.62662
+  aldea:
+    world: world
+    x: 5892.1017547349065
+    y: 73.0
+    z: 2856.9321649986723
+    yaw: 9.251465
+    pitch: 11.415381
+  casa:
+    world: world
+    x: 8976.680879784093
+    y: 80.0
+    z: 6036.248454651298
+    yaw: 130.59737
+    pitch: 42.571945
+nickname: §9§l§mZekken
+godmode: false
+afk: false

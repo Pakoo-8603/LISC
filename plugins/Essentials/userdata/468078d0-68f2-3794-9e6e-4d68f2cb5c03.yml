@@ -1,19 +1,19 @@
 lastAccountName: angelo1215
 timestamps:
-  login: 1583125749053
-  logout: 1583128516149
-ipAddress: 190.236.13.81
+  login: 1583535060048
+  logout: 1583535062880
+ipAddress: 190.239.68.220
 lastlocation:
   world: world
-  x: 0.5505678015001048
-  y: 69.0
-  z: 0.7065124934006354
-  yaw: -3.4500005
-  pitch: 90.0
+  x: 0.0
+  y: 67.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
 logoutlocation:
-  world: spawn
-  x: 674.1949211308033
-  y: 75.0
-  z: 462.52334826807
-  yaw: 114.09778
-  pitch: 19.05004
+  world: world
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: 90.6013
+  pitch: 90.0

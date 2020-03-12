@@ -1,0 +1,18 @@
+# Do NOT change the '%s' - they must be left in, though the position may change
+CONFIG_SET: '%s was set to: %s'
+HELP: 'Lo siento no puedes hacer eso'
+INVALID_MATERIAL: 'Material invalido'
+INVALID_MATERIAL_TRACK: 'Material invalido'
+NO_CREATIVE_BREAK: 'No puedes romper bloques en creativo'
+NO_CREATIVE_COMMAND: 'No puedes user %s en creativo!'
+NO_CREATIVE_DROPS: 'No puedes dropear items'
+NO_CREATIVE_HORSE: 'No puedes guardar cosas con el creativo'
+NO_CREATIVE_INVENTORY: 'No puedes hacer esto en creativo'
+NO_CREATIVE_PICKUP: 'No puedes recoger items en creativo'
+NO_CREATIVE_PLACE: '%s placement is disabled in CREATIVE gamemode!'
+NO_PERMISSION: 'No tienes en rango suficiente para ejecutar este comando'
+NO_PLAYER_DROPS: 'No puedes dropear items'
+NO_WORKBENCH_DROPS: 'No puedes dropear items'
+NO_SPECTATOR: 'No puedes espectear'
+
+

@@ -1,0 +1,309 @@
+{
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-04 17:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2020-03-04 17:53:15 +0000"
+    },
+    "done": true
+  },
+  "main:main/dragon_drops_elytra": {
+    "criteria": {
+      "tick": "2020-03-04 17:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2020-03-04 17:49:42 +0000"
+    },
+    "done": true
+  },
+  "main:main/silence_mobs": {
+    "criteria": {
+      "tick": "2020-03-04 17:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2020-03-04 17:46:49 +0000"
+    },
+    "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-03-04 17:44:25 +0000"
+    },
+    "done": false
+  },
+  "main:main/nether_portal_coords": {
+    "criteria": {
+      "tick": "2020-03-04 17:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2020-03-04 17:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-03-04 17:45:05 +0000",
+      "minecraft:taiga": "2020-03-04 17:55:31 +0000",
+      "minecraft:taiga_hills": "2020-03-04 17:55:59 +0000",
+      "minecraft:river": "2020-03-04 17:48:05 +0000",
+      "minecraft:wooded_hills": "2020-03-04 17:45:07 +0000",
+      "minecraft:plains": "2020-03-04 17:44:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2020-03-04 17:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2020-03-04 17:46:49 +0000"
+    },
+    "done": true
+  },
+  "main:main/wrench": {
+    "criteria": {
+      "tick": "2020-03-04 17:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-03-04 17:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-03-04 17:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-03-04 17:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-04 17:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2020-03-04 17:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2020-03-04 17:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-03-04 17:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2020-03-04 17:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2020-03-04 17:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-03-04 17:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2020-03-04 17:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-03-04 17:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-03-04 17:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-03-04 17:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2020-03-04 17:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2020-03-04 17:46:44 +0000"
+    },
+    "done": true
+  },
+  "main:main/mmh": {
+    "criteria": {
+      "tick": "2020-03-04 17:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-03-04 17:48:04 +0000"
+    },
+    "done": true
+  },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2020-03-04 17:44:25 +0000"
+    },
+    "done": true
+  },
+  "main:main/double_shulkers": {
+    "criteria": {
+      "tick": "2020-03-04 17:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "porkchop": "2020-03-04 17:53:25 +0000",
+      "apple": "2020-03-04 17:58:20 +0000"
+    },
+    "done": false
+  },
+  "main:main/ch": {
+    "criteria": {
+      "tick": "2020-03-04 17:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2020-03-04 17:48:20 +0000"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-03-04 17:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-03-04 17:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2020-03-04 17:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2020-03-04 17:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2020-03-04 17:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-03-04 17:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2020-03-04 17:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-03-04 17:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2020-03-04 17:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2020-03-04 17:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-03-04 17:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2020-03-04 17:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2020-03-04 17:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2020-03-04 17:49:42 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2230
+}

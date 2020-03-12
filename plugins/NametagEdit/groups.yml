@@ -1,0 +1,41 @@
+Groups:
+  admin:
+    Permission: nte.admin
+    Prefix: '&a&kiiii&e&lAdmin&a&kiiii &f'
+    Suffix: '&f'
+    SortPriority: 1
+  moderador:
+    Permission: nte.moderator
+    Prefix: '&7[&6Moderador&7] &f'
+    Suffix: '&f'
+    SortPriority: 2
+  constructor:
+    Permission: nte.constructor
+    Prefix: '&f[&6Builder&f] &f'
+    Suffix: '&f'
+    SortPriority: 3
+  helper:
+    Permission: nte.helper
+    Prefix: '&3[&dAyudante&3] &f'
+    Suffix: '&f'
+    SortPriority: 4
+  ultimate:
+    Permission: nte.ultimate
+    Prefix: '&b&l⚓&3&kii&b&lUltimate&3&kii&b&l⚓ &f'
+    Suffix: '&f'
+    SortPriority: 5
+  elite:
+    Permission: nte.elite
+    Prefix: '&6⚡&e&kii&6&lElite&e&kii&6⚡ &f'
+    Suffix: '&f'
+    SortPriority: 6
+  vip:
+    Permission: nte.vip
+    Prefix: '&3&ki&a■&a&lVip&a■&3&ki &f'
+    Suffix: '&f'
+    SortPriority: 7
+  usuario:
+    Permission: nte.usuario
+    Prefix: '&8[&bUsuario&8] &f'
+    Suffix: '&f'
+    SortPriority: 8

@@ -1,19 +1,19 @@
 lastlocation:
   world: world
   x: 0.0
-  y: 71.0
+  y: 67.0
   z: 0.0
-  yaw: 5.4236336
+  yaw: 0.0
   pitch: 0.0
 lastAccountName: lesamofe
 timestamps:
-  login: 1582687030605
-  logout: 1582687111731
-ipAddress: 181.188.170.135
+  login: 1583697227501
+  logout: 1583697232157
+ipAddress: 181.188.178.102
 logoutlocation:
-  world: spawn
-  x: -28.896167555668406
+  world: world
+  x: 0.5
   y: 67.0
-  z: -0.13668995005819196
-  yaw: 249.0014
-  pitch: 8.399985
+  z: 0.5
+  yaw: 86.40134
+  pitch: 14.099994

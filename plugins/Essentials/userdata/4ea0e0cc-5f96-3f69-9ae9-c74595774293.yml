@@ -1,19 +1,29 @@
 lastlocation:
   world: world
-  x: 0.5505678015001048
-  y: 69.0
-  z: 0.7065124934006354
-  yaw: 0.31362677
-  pitch: 90.0
+  x: 261.9109973492375
+  y: 71.0
+  z: 32.80944187159196
+  yaw: 94.20236
+  pitch: -11.55001
 lastAccountName: Seiku_X
 timestamps:
-  login: 1583207904004
-  logout: 1583207925937
-ipAddress: 181.64.237.42
+  login: 1583967918969
+  logout: 1583967962106
+  lastteleport: 1583445732803
+ipAddress: 190.237.148.214
 logoutlocation:
-  world: spawn
-  x: 364.9109155678988
-  y: 28.0
-  z: 138.62667364721415
-  yaw: 144.53815
-  pitch: 35.699913
+  world: world
+  x: 5913.395137966332
+  y: 87.0
+  z: 2931.7699270044286
+  yaw: -159.79582
+  pitch: 15.149812
+nickname: §lSeiku
+homes:
+  home:
+    world: world
+    x: 5867.886900084194
+    y: 72.0
+    z: 2908.2026916549
+    yaw: -226.2324
+    pitch: 13.499974

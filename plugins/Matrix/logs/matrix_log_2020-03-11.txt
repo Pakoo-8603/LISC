@@ -1,0 +1,881 @@
+(05:15:45) Matrix Enabled!
+(05:15:45) Version: 4.3.5
+(05:31:27) Matrix Enabled!
+(05:31:27) Version: 4.3.5
+(15:37:23) Matrix Enabled!
+(15:37:23) Version: 4.3.5
+(15:56:39) Zekken_X failed Phase check | moved into block (block: cobblestone, move: -0.079,-0.035,-0.003, at: 4329264.962,198.0,-2.2978389689E7, dist: 0.079, block_collisions: {minX=4329264.0, minY=197.0, minZ=-2.297839E7, maxX=4329265.0, maxY=198.0, maxZ=-2.2978389E7}, high: 197.9999999962002, loop: false, async) (+1) | vl:1 ping:130 tps:20.0 lp:7 component: phase.main
+(15:56:39) Zekken_X failed Phase check | moved into block (block: cobblestone, move: -0.067,0.0,-0.032, at: 4329264.736,198.0,-2.2978389719E7, dist: 0.074, block_collisions: {minX=4329264.0, minY=197.0, minZ=-2.2978391E7, maxX=4329265.0, maxY=198.0, maxZ=-2.297839E7}, high: 197.9999999962002, loop: false, async) (+1) | vl:2 ping:130 tps:20.0 lp:7 component: phase.main
+(15:56:41) Zekken_X failed Phase check | moved into block (block: cobblestone, move: -0.07,0.0,-0.035, at: 4329264.253,198.0,-2.2978390048E7, dist: 0.078, block_collisions: {minX=4329263.0, minY=197.0, minZ=-2.2978391E7, maxX=4329264.0, maxY=198.0, maxZ=-2.297839E7}, high: 197.9999999962002, loop: false, async) (+1) | vl:3 ping:130 tps:20.0 lp:7 component: phase.main
+(15:56:42) Zekken_X failed BadPackets check | (timer) send 48 moving packets in 1045ms | tag: limit (+9) | vl:9 ping:130 tps:20.0 lp:7 component: net.timer
+(16:00:00) Zekken_X failed Speed check | suspicious movement (move: 0.929, expect: 0.4065, tag: ea) (+2) | vl:2 ping:133 tps:20.0 lp:41 component: speed.main
+(16:00:00) Zekken_X failed Speed check | suspicious movement (move: 0.929, predict: 0.333, friction: 0.6, ground:false, motY: -0.837, increase:0.026, preMove:0.307, motion: -0.398,-0.837,-0.84, attribute: 0.13, tag: pred) (+2) | vl:4 ping:133 tps:20.0 lp:41 component: move.xz
+(16:00:00) Zekken_X failed Fly check | suspicious movement:-0.837 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:0.165 air_t:3 fall_t:1 g:-- tag:gn (+2) | vl:2 ping:133 tps:20.0 lp:41 component: fly.main
+(16:00:00) Zekken_X failed Speed check | suspicious movement (move: 4.343, expect: 1.9235, tag: c) (+8) | vl:12 ping:133 tps:20.0 lp:41 component: speed.main
+(16:00:00) Zekken_X failed Speed check | suspicious movement (move: 4.343, predict: 0.402, friction: 0.6, ground:true, motY: 0.232, increase:0.335, preMove:0.067, motion: 2.422,0.232,3.605, attribute: 0.13, tag: pred) (+2) | vl:14 ping:133 tps:20.0 lp:41 component: move.xz
+(16:00:19) Zekken_X failed Phase check | moved into block (block: oak_leaves, move: -0.013,-0.018,0.045, at: 37.298,69.74,15.004, dist: 0.046, loop: true) (+1) | vl:1 ping:133 tps:20.0 lp:11 component: phase.main
+(16:04:31) Zekken_X failed Scaffold check | right click too fast (cps: 49 length: 998) (+1) | vl:1 ping:122 tps:20.0 lp:96 component: sfd.clk
+(16:04:33) Zekken_X failed Scaffold check | right click too fast (cps: 53 length: 2078) (+1) | vl:2 ping:122 tps:20.0 lp:96 component: sfd.clk
+(16:04:37) Zekken_X failed Scaffold check | right click too fast (cps: 33 length: 1208) (+1) | vl:3 ping:122 tps:20.0 lp:28 component: sfd.clk
+(16:04:38) Zekken_X failed Scaffold check | right click too fast (cps: 31 length: 1206) (+1) | vl:4 ping:122 tps:20.0 lp:28 component: sfd.clk
+(16:04:39) Zekken_X failed Scaffold check | right click too fast (cps: 34 length: 999) (+1) | vl:5 ping:122 tps:20.0 lp:28 component: sfd.clk
+(16:04:42) Zekken_X failed Scaffold check | right click too fast (cps: 32 length: 1235) (+1) | vl:6 ping:122 tps:18.86 lp:28 component: sfd.clk
+(16:05:48) Zekken_X failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:132 tps:20.0 lp:168 component: interact.through
+(16:05:51) Zekken_X failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:2 ping:132 tps:20.0 lp:168 component: interact.through
+(16:08:04) VAQUEROMEXR24 failed BadPackets check | (timer) send 38 moving packets in 1007ms | tag: limit (+10) | vl:10 ping:67 tps:20.0 lp:0 component: net.timer
+(16:08:43) Zekken_X failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:125 tps:20.0 lp:45 component: interact.through
+(16:08:57) Zekken_X failed Interact check | interact block through solid (through: DIORITE, block:CHEST) (+1) | vl:1 ping:125 tps:20.0 lp:51 component: interact.through
+(16:13:33) Zekken_X failed KillAura check | post attack: 1 (+1) | vl:1 ping:80 tps:20.0 lp:134 component: ka.post
+(16:13:57) Zekken_X failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:80 tps:20.0 lp:8 component: interact.through
+(16:15:28) Zekken_X failed Block check | abort breaking (at: 5883.0,72.0,2862.0, type: grass_block) (+0) | vl:0 ping:139 tps:20.0 lp:49 component: block.abort
+(16:15:30) Zekken_X failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:145 tps:20.0 lp:49 component: interact.through
+(16:17:30) Zekken_X failed Speed check | sprint with weird direction (dist: 0.24, angle:130.536) (+2) | vl:2 ping:131 tps:20.0 lp:70 component: speed.sprint
+(16:17:30) Zekken_X failed Speed check | sprint with weird direction (dist: 0.257, angle:124.625) (+2) | vl:4 ping:131 tps:20.0 lp:71 component: speed.sprint
+(16:17:33) Zekken_X failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:131 tps:20.0 lp:71 component: interact.through
+(16:17:34) Zekken_X failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:2 ping:131 tps:20.0 lp:71 component: interact.through
+(16:18:44) Zekken_X failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:140 tps:20.0 lp:81 component: interact.through
+(16:19:20) Zekken_X failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:134 tps:20.0 lp:17 component: interact.through
+(16:19:30) Zekken_X failed Interact check | interact block through solid (through: DIORITE, block:CHEST) (+1) | vl:1 ping:140 tps:20.0 lp:96 component: interact.through
+(16:25:59) Zekken_X failed Block check | abort breaking (at: 5884.0,72.0,2854.0, type: grass_block) (+0) | vl:0 ping:128 tps:20.0 lp:64 component: block.abort
+(16:28:02) Zekken_X failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:122 tps:20.0 lp:16 component: interact.through
+(16:29:06) Zekken_X failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:131 tps:20.0 lp:56 component: interact.through
+(16:30:01) Zekken_X failed Interact check | interact block through solid (through: DIORITE, block:CHEST) (+1) | vl:1 ping:134 tps:20.0 lp:191 component: interact.through
+(16:32:04) Zekken_X failed Fly check | suspicious movement:0.459 predict:-0.155 vel:-0.155 air_t:1 tag:vt (+2) | vl:2 ping:87 tps:20.0 lp:60 component: fly.main
+(16:32:04) Zekken_X failed Fly check | suspicious movement:-0.231 predict:0.371 lm:0.459 hard_pred:0.371 sev_pred:-0.231 air_t:2 fall_t:1 g:-- tag:gn (+2) | vl:4 ping:87 tps:20.0 lp:60 component: fly.main
+(16:32:25) Zekken_X failed Block check | break block with timer (block: stone, point: 200) (+4) | vl:4 ping:87 tps:20.0 lp:15 component: block.fb.timer
+(16:32:26) Zekken_X failed Block check | break block with timer (block: stone, point: 191) (+4) | vl:8 ping:87 tps:20.0 lp:15 component: block.fb.timer
+(16:32:27) Execute command: matrix notify Zekken_X tried to place/break a block too quickly (FastPlace/FastBreak)
+(16:32:27) Zekken_X failed Block check | break block with timer (block: stone, point: 203) (+4) | vl:12 ping:87 tps:20.0 lp:15 component: block.fb.timer
+(16:32:27) Zekken_X failed Block check | break block with timer (block: stone, point: 153) (+4) | vl:16 ping:87 tps:20.0 lp:15 component: block.fb.timer
+(16:34:50) SilvermanH12 failed Scaffold check | scaffold | type: simple (+3) | vl:3 ping:99 tps:20.0 lp:16 component: sfd.simple
+(16:35:30) Zekken_X failed Block check | break block with timer (block: stone, point: 300) (+1) | vl:1 ping:126 tps:20.0 lp:42 component: block.fb.timer
+(16:35:31) SilvermanH12 failed Speed check | suspicious movement (move: 0.133, expect:0.128, t:100, tag: a) (+9) | vl:9 ping:109 tps:20.0 lp:6 component: speed.main
+(16:35:32) Zekken_X failed Block check | break block with timer (block: stone, point: 170) (+1) | vl:2 ping:126 tps:19.98 lp:42 component: block.fb.timer
+(16:35:35) Zekken_X failed Block check | break block with timer (block: stone, point: 240) (+3) | vl:5 ping:126 tps:20.0 lp:22 component: block.fb.timer
+(16:35:36) Zekken_X failed Block check | break block with timer (block: stone, point: 245) (+3) | vl:8 ping:126 tps:19.42 lp:22 component: block.fb.timer
+(16:35:36) Execute command: matrix notify Zekken_X tried to place/break a block too quickly (FastPlace/FastBreak)
+(16:35:36) Zekken_X failed Block check | break block with timer (block: stone, point: 266) (+3) | vl:11 ping:126 tps:19.42 lp:22 component: block.fb.timer
+(16:36:01) SilvermanH12 failed Speed check | suspicious movement (move: 0.133, expect:0.128, t:16, tag: a) (+9) | vl:9 ping:105 tps:20.0 lp:16 component: speed.main
+(16:36:07) Zekken_X failed Speed check | suspicious movement (move: 0.609, expect:0.37, t:11, tag: a) (+8) | vl:8 ping:123 tps:20.0 lp:7 component: speed.main
+(16:36:07) Zekken_X failed Speed check | suspicious movement (move: 0.609, predict: 0.37, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.035, motion: 0.014,0.0,-0.608, attribute: 0.13, tag: pred) (+4) | vl:12 ping:123 tps:20.0 lp:7 component: move.xz
+(16:36:55) SilvermanH12 failed Speed check | suspicious movement (move: 0.129, expect:0.128, t:100, tag: a) (+9) | vl:9 ping:99 tps:20.0 lp:6 component: speed.main
+(16:37:06) SilvermanH12 failed Speed check | suspicious movement (move: 0.131, expect:0.128, t:100, tag: a) (+9) | vl:18 ping:99 tps:20.0 lp:6 component: speed.main
+(16:37:53) SilvermanH12 failed Speed check | suspicious movement (move: 0.134, expect:0.128, t:100, tag: a) (+9) | vl:9 ping:99 tps:20.0 lp:6 component: speed.main
+(16:37:55) SilvermanH12 failed Speed check | suspicious movement (move: 0.136, expect:0.128, t:100, tag: a) (+9) | vl:18 ping:99 tps:20.0 lp:9 component: speed.main
+(16:37:57) Zekken_X failed Velocity check | ignore server velocity: 0.049 val2: false val3: false pattern: #7 (+1) | vl:1 ping:128 tps:20.0 lp:26 component: vel.expect
+(16:37:59) SilvermanH12 failed Speed check | suspicious movement (move: 0.132, expect:0.128, t:100, tag: a) (+9) | vl:27 ping:99 tps:20.0 lp:9 component: speed.main
+(16:38:01) SilvermanH12 failed Speed check | suspicious movement (move: 0.129, expect:0.128, t:100, tag: a) (+9) | vl:36 ping:99 tps:20.0 lp:4 component: speed.main
+(16:38:05) Zekken_X failed FastUse check | fast use (+1) | vl:1 ping:130 tps:20.0 lp:7 component: fastuse
+(16:38:21) SilvermanH12 failed Speed check | suspicious movement (move: 0.137, expect:0.128, t:27, tag: a) (+9) | vl:45 ping:101 tps:20.0 lp:20 component: speed.main
+(16:38:53) SilvermanH12 failed Speed check | suspicious movement (move: 0.136, expect:0.128, t:82, tag: a) (+9) | vl:9 ping:103 tps:20.0 lp:5 component: speed.main
+(16:39:01) SilvermanH12 failed Speed check | suspicious movement (move: 0.129, expect:0.128, t:84, tag: a) (+4) | vl:13 ping:103 tps:20.0 lp:36 component: speed.main
+(16:41:16) SilvermanH12 failed Block check | abort breaking (at: 8906.0,77.0,6075.0, type: birch_log) (+0) | vl:0 ping:48 tps:20.0 lp:64 component: block.abort
+(16:43:48) SilvermanH12 failed Block check | abort breaking (at: 8895.0,78.0,6088.0, type: birch_log) (+0) | vl:0 ping:109 tps:20.0 lp:14 component: block.abort
+(16:48:50) SilvermanH12 failed Speed check | suspicious movement (0.288, air_t: 12, lm:0.288, tag: ed) (+0) | vl:0 ping:115 tps:20.0 lp:6 component: speed.main
+(16:48:50) SilvermanH12 failed Speed check | suspicious movement (0.288, air_t: 12, lm:0.288, tag: ed) (+0) | vl:0 ping:115 tps:20.0 lp:6 component: speed.main
+(16:49:06) Zekken_X failed Block check | abort breaking (at: 5862.0,72.0,2873.0, type: grass_block) (+0) | vl:0 ping:0 tps:20.0 lp:0 component: block.abort
+(16:49:08) Zekken_X failed Block check | abort breaking (at: 5859.0,72.0,2875.0, type: grass_block) (+0) | vl:0 ping:0 tps:20.0 lp:0 component: block.abort
+(16:49:28) Zekken_X failed Speed check | sprint with weird direction (dist: 0.255, angle:136.946) (+2) | vl:2 ping:128 tps:20.0 lp:50 component: speed.sprint
+(16:49:28) Zekken_X failed Speed check | sprint with weird direction (dist: 0.269, angle:135.033) (+2) | vl:4 ping:128 tps:20.0 lp:50 component: speed.sprint
+(16:49:28) Zekken_X failed Speed check | sprint with weird direction (dist: 0.277, angle:134.072) (+2) | vl:6 ping:128 tps:20.0 lp:50 component: speed.sprint
+(16:49:28) Zekken_X failed Speed check | sprint with weird direction (dist: 0.256, angle:113.103) (+2) | vl:8 ping:128 tps:20.0 lp:50 component: speed.sprint
+(16:49:28) Zekken_X failed Speed check | sprint with weird direction (dist: 0.261, angle:101.147) (+2) | vl:10 ping:128 tps:20.0 lp:50 component: speed.sprint
+(16:49:28) Zekken_X failed Speed check | sprint with weird direction (dist: 0.268, angle:94.938) (+2) | vl:12 ping:128 tps:20.0 lp:50 component: speed.sprint
+(16:49:29) Zekken_X failed Interact check | interact block through solid (through: BIRCH_PLANKS, block:CHEST) (+1) | vl:1 ping:128 tps:20.0 lp:81 component: interact.through
+(16:49:35) Zekken_X failed Interact check | interact block through solid (through: SPRUCE_PLANKS, block:ENDER_CHEST) (+1) | vl:2 ping:128 tps:20.0 lp:81 component: interact.through
+(16:49:43) Zekken_X failed Speed check | sprint with weird direction (dist: 0.231, angle:165.854) (+2) | vl:14 ping:128 tps:20.0 lp:89 component: speed.sprint
+(16:49:43) Zekken_X failed Speed check | sprint with weird direction (dist: 0.254, angle:165.898) (+2) | vl:16 ping:128 tps:20.0 lp:89 component: speed.sprint
+(16:49:50) PelucheGamPlay failed BadPackets check | (timer) send 39 moving packets in 1006ms | tag: limit (+2) | vl:2 ping:221 tps:19.44 lp:38 component: net.timer
+(16:49:50) PelucheGamPlay failed Speed check | suspicious movement (move: 0.863, expect:0.2873, t:0, tag: a) (+2) | vl:2 ping:221 tps:19.44 lp:38 component: speed.main
+(16:49:50) PelucheGamPlay failed Speed check | suspicious movement (move: 0.863, predict: 0.248, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.118, motion: 0.778,0.0,-0.374, attribute: 0.13, tag: pred) (+1) | vl:3 ping:221 tps:19.44 lp:38 component: move.xz
+(16:49:58) Zekken_X failed BadPackets check | (timer) send 39 moving packets in 1217ms | tag: limit (+4) | vl:4 ping:130 tps:18.06 lp:76 component: net.timer
+(16:50:10) Zekken_X failed BadPackets check | (timer) send 51 moving packets in 1294ms | tag: limit (+4) | vl:8 ping:130 tps:19.54 lp:62 component: net.timer
+(16:50:10) Zekken_X failed Elytra check | (elytra) move too fast with elytra (speed: 5.325, tick: 44, yAxis: 2.644) (+1) | vl:1 ping:130 tps:19.54 lp:62 component: ely.spd
+(16:50:10) Zekken_X failed Elytra check | (elytra) reserve energy: 17.672 dif: 17.669 motion: 2.644 t: 44 (+1) | vl:2 ping:130 tps:19.54 lp:62 component: ely.re
+(16:50:11) Zekken_X failed Fly check | suspicious movement:0.0 predict:2.513 vel:-0.513 air_t:12 tag:m4 (+4) | vl:4 ping:130 tps:19.54 lp:62 component: fly.main
+(16:50:11) Zekken_X failed Fly check | suspicious movement:0.0 predict:-0.078 vel:-0.713 air_t:12 tag:m4 (+4) | vl:8 ping:130 tps:19.54 lp:62 component: fly.main
+(16:50:11) Zekken_X failed Fly check | suspicious movement:0.0 predict:-0.078 vel:-0.84 air_t:12 tag:m4 (+4) | vl:12 ping:130 tps:19.54 lp:62 component: fly.main
+(16:50:11) Zekken_X failed FastUse check | fast use (+1) | vl:1 ping:130 tps:19.54 lp:62 component: fastuse
+(16:50:12) SilvermanH12 failed Chat check | chat too fast | delay: 2498 (+1) | vl:1 ping:112 tps:20.0 lp:22 component: chat.delay
+(16:50:14) PelucheGamPlay failed BadPackets check | (timer) timer modify: 9.223372036854776E15 var:0 buffer:20 | tag: timer (+3) | vl:3 ping:1504 tps:20.0 lp:38 component: net.timer
+(16:50:16) PelucheGamPlay failed BadPackets check | (timer) send 73 moving packets in 1624ms | tag: limit (+1) | vl:4 ping:1504 tps:20.0 lp:38 component: net.timer
+(16:50:16) Zekken_X failed Block check | abort breaking (at: 8851.0,77.0,6053.0, type: grass_block) (+0) | vl:0 ping:130 tps:20.0 lp:38 component: block.abort
+(16:50:17) PelucheGamPlay failed BadPackets check | (timer) send 49 moving packets in 1019ms | tag: limit (+1) | vl:5 ping:1504 tps:20.0 lp:38 component: net.timer
+(16:50:21) PelucheGamPlay failed BadPackets check | (timer) send 65 moving packets in 1145ms | tag: limit (+1) | vl:1 ping:1504 tps:20.0 lp:41 component: net.timer
+(16:51:03) SilvermanH12 failed BadPackets check | (timer) send 40 moving packets in 1002ms | tag: limit (+5) | vl:5 ping:115 tps:19.45 lp:33 component: net.timer
+(16:51:03) SilvermanH12 failed Speed check | suspicious movement (move: 0.883, expect:0.2873, t:0, tag: a) (+4) | vl:4 ping:115 tps:19.45 lp:33 component: speed.main
+(16:51:03) SilvermanH12 failed Speed check | suspicious movement (move: 0.883, predict: 0.229, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.099, motion: 0.583,0.0,-0.662, attribute: 0.13, tag: pred) (+2) | vl:6 ping:115 tps:19.45 lp:33 component: move.xz
+(16:51:22) SilvermanH12 failed Chat check | chat too fast | delay: 2465 (+1) | vl:1 ping:104 tps:20.0 lp:11 component: chat.delay
+(16:51:40) SilvermanH12 failed Scaffold check | scaffold | type: simple (+1) | vl:1 ping:98 tps:20.0 lp:84 component: sfd.simple
+(16:52:38) PelucheGamPlay failed HitBox check | missed entity hitbox (entity: skeleton, offset: 1.543) (+1) | vl:1 ping:560 tps:20.0 lp:17 component: hb.mis
+(16:52:50) Zekken_X failed BadPackets check | (timer) timer modify: 1.221 var:819 buffer:20 | tag: timer (+10) | vl:10 ping:0 tps:20.0 lp:97 component: net.timer
+(16:52:51) Zekken_X failed BadPackets check | (timer) send 39 moving packets in 1980ms | tag: limit (+10) | vl:20 ping:0 tps:20.0 lp:97 component: net.timer
+(16:52:52) Zekken_X failed BadPackets check | (timer) send 36 moving packets in 1165ms | tag: limit (+10) | vl:10 ping:0 tps:18.18 lp:97 component: net.timer
+(16:53:01) Zekken_X failed BadPackets check | (timer) send 36 moving packets in 1012ms | tag: limit (+10) | vl:20 ping:0 tps:19.99 lp:17 component: net.timer
+(16:53:08) Zekken_X failed BadPackets check | (timer) send 41 moving packets in 1026ms | tag: limit (+1) | vl:21 ping:429 tps:20.0 lp:53 component: net.timer
+(16:53:27) Zekken_X failed BadPackets check | (timer) send 37 moving packets in 1063ms | tag: limit (+1) | vl:1 ping:429 tps:20.0 lp:67 component: net.timer
+(16:53:34) Zekken_X failed Chat check | chat too fast | delay: 2671 (+1) | vl:1 ping:429 tps:19.99 lp:67 component: chat.delay
+(16:53:45) Zekken_X failed BadPackets check | (timer) send 38 moving packets in 1030ms | tag: limit (+4) | vl:5 ping:135 tps:19.66 lp:48 component: net.timer
+(16:54:04) Zekken_X failed HitBox check | missed player hitbox (raytrace: 10/11 positions, lag: 9, prep: true) (+1) | vl:1 ping:135 tps:20.0 lp:38 component: hb.mis
+(16:54:05) Zekken_X failed HitBox check | attack entity too far way (entity: player, distance: 5.101) (+1) | vl:2 ping:135 tps:20.0 lp:38 component: hb.sip
+(16:54:05) Zekken_X failed HitBox check | missed player hitbox (raytrace: 10/11 positions, lag: 9, prep: false) (+1) | vl:3 ping:135 tps:20.0 lp:38 component: hb.mis
+(16:54:05) Zekken_X failed BadPackets check | (timer) send 38 moving packets in 1016ms | tag: limit (+4) | vl:4 ping:135 tps:20.0 lp:38 component: net.timer
+(16:54:12) Zekken_X failed Fly check | suspicious movement:0.312 predict:0.262 vel:0.248 air_t:2 tag:vt (+2) | vl:2 ping:147 tps:20.0 lp:81 component: fly.main
+(16:54:12) Zekken_X failed Fly check | suspicious movement:0.312 predict:0.228 air_t:3 tag:sam (+2) | vl:4 ping:147 tps:20.0 lp:81 component: fly.main
+(16:54:12) Zekken_X failed Fly check | suspicious movement:0.312 predict:0.228 vel:0.165 air_t:3 tag:vt (+2) | vl:6 ping:147 tps:20.0 lp:81 component: fly.main
+(16:54:15) Zekken_X failed FastBow check | fast bow (+1) | vl:1 ping:147 tps:20.0 lp:46 component: fastbow
+(16:54:49) PelucheGamPlay failed BadPackets check | (timer) send 62 moving packets in 1694ms | tag: limit (+3) | vl:3 ping:3657 tps:20.0 lp:21 component: net.timer
+(16:54:57) Zekken_X failed BadPackets check | (timer) send 37 moving packets in 1028ms | tag: limit (+4) | vl:4 ping:136 tps:20.0 lp:40 component: net.timer
+(16:55:28) Zekken_X failed BadPackets check | (timer) send 51 moving packets in 1226ms | tag: limit (+1) | vl:1 ping:343 tps:20.0 lp:87 component: net.timer
+(16:55:35) Zekken_X failed BadPackets check | (timer) send 63 moving packets in 1055ms | tag: limit (+1) | vl:2 ping:343 tps:20.0 lp:38 component: net.timer
+(16:56:02) SilvermanH12 failed Scaffold check | scaffold | type: simple (+3) | vl:3 ping:99 tps:20.0 lp:6 component: sfd.simple
+(16:56:26) Zekken_X failed BadPackets check | (timer) timer modify: 9.223372036854776E15 var:0 buffer:20 | tag: timer (+4) | vl:4 ping:125 tps:20.0 lp:44 component: net.timer
+(16:56:26) Zekken_X failed Scaffold check | scaffold | type: expand | data: z,6050.0,-0.078 (+1) | vl:1 ping:125 tps:20.0 lp:44 component: sfd.epd
+(16:56:26) Zekken_X failed BadPackets check | (timer) send 81 moving packets in 1008ms | tag: limit (+4) | vl:8 ping:125 tps:20.0 lp:44 component: net.timer
+(16:56:40) Zekken_X failed Chat check | chat too fast | delay: 2394 (+1) | vl:1 ping:197 tps:20.0 lp:28 component: chat.delay
+(16:56:42) Zekken_X failed Chat check | chat too fast | delay: 1591 (+1) | vl:2 ping:197 tps:20.0 lp:28 component: chat.delay
+(16:57:18) Zekken_X failed BadPackets check | (timer) send 40 moving packets in 998ms | tag: limit (+4) | vl:4 ping:129 tps:20.0 lp:54 component: net.timer
+(16:57:34) SilvermanH12 failed Chat check | chat too fast | delay: 1356 (+1) | vl:1 ping:113 tps:20.0 lp:153 component: chat.delay
+(16:57:48) Zekken_X failed BadPackets check | (timer) send 46 moving packets in 1028ms | tag: limit (+4) | vl:4 ping:179 tps:20.0 lp:27 component: net.timer
+(16:58:00) Zekken_X failed BadPackets check | (timer) send 41 moving packets in 1417ms | tag: limit (+4) | vl:4 ping:179 tps:20.0 lp:41 component: net.timer
+(16:58:09) PelucheGamPlay failed BadPackets check | (timer) send 56 moving packets in 1008ms | tag: limit (+2) | vl:2 ping:245 tps:20.0 lp:81 component: net.timer
+(16:58:15) Zekken_X failed BadPackets check | (timer) send 53 moving packets in 1184ms | tag: limit (+4) | vl:8 ping:122 tps:20.0 lp:77 component: net.timer
+(16:58:22) Zekken_X failed BadPackets check | (timer) send 46 moving packets in 995ms | tag: limit (+4) | vl:4 ping:122 tps:20.0 lp:46 component: net.timer
+(16:58:52) PelucheGamPlay failed BadPackets check | (timer) timer modify: 3.086 var:324 buffer:20 | tag: timer (+1) | vl:1 ping:944 tps:20.0 lp:158 component: net.timer
+(16:58:52) PelucheGamPlay failed BadPackets check | (timer) send 72 moving packets in 1010ms | tag: limit (+1) | vl:2 ping:944 tps:20.0 lp:158 component: net.timer
+(16:58:52) PelucheGamPlay failed Speed check | suspicious movement (move: 1.291, tag: gv-) (+1) | vl:1 ping:944 tps:20.0 lp:158 component: speed.main
+(16:58:52) PelucheGamPlay failed Speed check | suspicious movement (move: 1.291, predict: 0.239, friction: 0.6, ground:true, motY: -1.0, increase:0.13, preMove:0.109, motion: -0.423,-1.0,1.219, attribute: 0.13, tag: pred) (+1) | vl:2 ping:944 tps:20.0 lp:158 component: move.xz
+(16:58:58) PelucheGamPlay failed BadPackets check | (timer) send 63 moving packets in 1037ms | tag: limit (+1) | vl:3 ping:944 tps:20.0 lp:44 component: net.timer
+(16:59:03) PelucheGamPlay failed BadPackets check | (timer) send 45 moving packets in 1307ms | tag: limit (+1) | vl:4 ping:944 tps:20.0 lp:49 component: net.timer
+(16:59:03) PelucheGamPlay failed Speed check | suspicious movement (move: 2.136, expect:0.2873, t:0, tag: a) (+1) | vl:3 ping:944 tps:20.0 lp:49 component: speed.main
+(16:59:03) PelucheGamPlay failed Speed check | suspicious movement (move: 2.136, predict: 0.24, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.11, motion: -2.133,0.0,0.111, attribute: 0.13, tag: pred) (+1) | vl:4 ping:944 tps:20.0 lp:49 component: move.xz
+(16:59:46) Zekken_X failed BadPackets check | (timer) send 40 moving packets in 1018ms | tag: limit (+4) | vl:4 ping:130 tps:20.0 lp:34 component: net.timer
+(17:00:07) Zekken_X failed BadPackets check | (timer) send 36 moving packets in 998ms | tag: limit (+1) | vl:1 ping:545 tps:20.0 lp:46 component: net.timer
+(17:00:55) Zekken_X failed BadPackets check | (timer) send 38 moving packets in 1670ms | tag: limit (+2) | vl:2 ping:229 tps:20.0 lp:60 component: net.timer
+(17:01:39) Zekken_X failed BadPackets check | (timer) send 43 moving packets in 996ms | tag: limit (+4) | vl:4 ping:135 tps:20.0 lp:25 component: net.timer
+(17:02:28) Zekken_X failed BadPackets check | (timer) send 37 moving packets in 1028ms | tag: limit (+4) | vl:4 ping:142 tps:20.0 lp:52 component: net.timer
+(17:02:54) Zekken_X failed BadPackets check | (timer) send 37 moving packets in 1023ms | tag: limit (+4) | vl:4 ping:160 tps:20.0 lp:101 component: net.timer
+(17:03:30) Zekken_X failed BadPackets check | (timer) send 41 moving packets in 1025ms | tag: limit (+4) | vl:4 ping:134 tps:20.0 lp:26 component: net.timer
+(17:04:25) Zekken_X failed BadPackets check | (timer) send 54 moving packets in 1025ms | tag: limit (+4) | vl:4 ping:131 tps:19.89 lp:42 component: net.timer
+(17:05:26) Zekken_X failed BadPackets check | (timer) send 47 moving packets in 1044ms | tag: limit (+1) | vl:1 ping:419 tps:20.0 lp:34 component: net.timer
+(17:05:36) SilvermanH12 failed Fly check | suspicious movement:-0.155 predict:0.258 lm:0.343 hard_pred:0.258 sev_pred:0.333 air_t:1 fall_t:1 g:-- tag:gn (+5) | vl:5 ping:96 tps:19.98 lp:13 component: fly.main
+(17:06:22) Zekken_X failed BadPackets check | (timer) send 42 moving packets in 1030ms | tag: limit (+4) | vl:4 ping:121 tps:20.0 lp:51 component: net.timer
+(17:06:22) Zekken_X failed Scaffold check | right click too fast (cps: 33 length: 1129) (+1) | vl:1 ping:121 tps:20.0 lp:51 component: sfd.clk
+(17:07:50) Zekken_X failed Block check | abort breaking (at: 4329633.0,6.0,-2.2978396E7, type: dirt) (+0) | vl:0 ping:125 tps:20.0 lp:84 component: block.abort
+(17:07:50) Zekken_X failed Block check | break block with timer (block: dirt, point: 572) (+1) | vl:1 ping:125 tps:20.0 lp:84 component: block.fb.timer
+(17:07:51) Zekken_X failed Block check | abort breaking (at: 4329633.0,6.0,-2.2978396E7, type: air) (+0) | vl:0 ping:125 tps:20.0 lp:84 component: block.abort
+(17:07:51) Zekken_X failed Fly check | step | p: 1 | m:1.1598425474979006 ev:-0.231 lm:0.99 (+7) | vl:7 ping:125 tps:20.0 lp:62 component: speed.step
+(17:07:52) Zekken_X failed Block check | abort breaking (at: 4329633.0,4.0,-2.2978396E7, type: chiseled_stone_bricks) (+0) | vl:0 ping:125 tps:20.0 lp:62 component: block.abort
+(17:08:30) Zekken_X failed BadPackets check | (timer) send 46 moving packets in 1005ms | tag: limit (+4) | vl:4 ping:147 tps:19.65 lp:59 component: net.timer
+(17:08:31) Zekken_X failed BadPackets check | (timer) timer modify: 1.236 var:809 buffer:20 | tag: timer (+4) | vl:8 ping:147 tps:20.0 lp:60 component: net.timer
+(17:08:43) Zekken_X failed BadPackets check | (timer) send 43 moving packets in 1422ms | tag: limit (+1) | vl:9 ping:663 tps:20.0 lp:70 component: net.timer
+(17:08:50) Zekken_X failed BadPackets check | (timer) send 39 moving packets in 1004ms | tag: limit (+1) | vl:10 ping:663 tps:20.0 lp:64 component: net.timer
+(17:09:01) Zekken_X failed BadPackets check | (timer) send 42 moving packets in 1337ms | tag: limit (+1) | vl:1 ping:663 tps:20.0 lp:60 component: net.timer
+(17:09:03) Zekken_X failed BadPackets check | (timer) send 36 moving packets in 1060ms | tag: limit (+1) | vl:2 ping:663 tps:20.0 lp:64 component: net.timer
+(17:10:12) Zekken_X failed BadPackets check | (timer) send 40 moving packets in 1239ms | tag: limit (+10) | vl:10 ping:0 tps:20.0 lp:0 component: net.timer
+(17:10:12) Zekken_X failed Speed check | suspicious movement (move: 1.49, predict: 0.263, friction: 0.6, ground:false, motY: -0.252, increase:0.026, preMove:0.237, motion: -1.485,-0.252,0.116, attribute: 0.13, tag: pred) (+5) | vl:5 ping:0 tps:20.0 lp:0 component: move.xz
+(17:20:34) PelucheGamPlay failed BadPackets check | (timer) send 57 moving packets in 1024ms | tag: limit (+10) | vl:10 ping:0 tps:20.0 lp:72 component: net.timer
+(17:21:54) PelucheGamPlay failed BadPackets check | (timer) send 45 moving packets in 1027ms | tag: limit (+3) | vl:3 ping:512 tps:20.0 lp:18 component: net.timer
+(17:21:54) PelucheGamPlay failed Speed check | suspicious movement (move: 1.699, expect: 0.3665, tag: ea) (+6) | vl:6 ping:512 tps:20.0 lp:18 component: speed.main
+(17:21:54) PelucheGamPlay failed Speed check | suspicious movement (move: 1.699, predict: 0.31, friction: 0.6, ground:false, motY: 0.38, increase:0.026, preMove:0.284, motion: -1.694,0.38,-0.139, attribute: 0.13, tag: pred) (+1) | vl:7 ping:512 tps:20.0 lp:18 component: move.xz
+(17:22:08) PelucheGamPlay failed BadPackets check | (timer) send 46 moving packets in 995ms | tag: limit (+3) | vl:6 ping:512 tps:19.92 lp:13 component: net.timer
+(17:22:08) PelucheGamPlay failed Speed check | suspicious movement (move: 1.723, expect: 0.3665, tag: ea) (+6) | vl:13 ping:512 tps:19.92 lp:13 component: speed.main
+(17:22:08) PelucheGamPlay failed Speed check | suspicious movement (move: 1.723, predict: 0.131, friction: 0.6, ground:false, motY: -2.922, increase:0.026, preMove:0.105, motion: -1.668,-2.922,0.434, attribute: 0.13, tag: pred) (+1) | vl:14 ping:512 tps:19.92 lp:13 component: move.xz
+(17:22:33) PelucheGamPlay failed Speed check | suspicious movement (move: 0.288, expect:0.2873, t:0, tag: a) (+4) | vl:4 ping:239 tps:20.0 lp:12 component: speed.main
+(17:22:38) PelucheGamPlay failed BadPackets check | (timer) send 52 moving packets in 1044ms | tag: limit (+5) | vl:5 ping:239 tps:20.0 lp:14 component: net.timer
+(17:22:38) PelucheGamPlay failed Speed check | suspicious movement (move: 5.466, expect: 0.6235, tag: c) (+9) | vl:13 ping:239 tps:20.0 lp:14 component: speed.main
+(17:22:38) PelucheGamPlay failed Speed check | suspicious movement (move: 5.466, expect:0.6235, vet: 2.166, tag: d) (+4) | vl:17 ping:239 tps:20.0 lp:14 component: speed.main
+(17:22:38) PelucheGamPlay failed Speed check | suspicious movement (move: 5.466, predict: 0.488, friction: 0.6, ground:true, motY: 2.166, increase:0.335, preMove:0.153, motion: 2.418,2.166,4.902, attribute: 0.13, tag: pred) (+2) | vl:19 ping:239 tps:20.0 lp:14 component: move.xz
+(17:22:38) PelucheGamPlay failed Fly check | step | p: 1 | m:2.1661092609382138 ev:0.42 lm:0.99 (+4) | vl:4 ping:239 tps:20.0 lp:14 component: speed.step
+(17:22:43) PelucheGamPlay failed Speed check | suspicious movement (move: 0.619, expect:0.2873, t:0, tag: a) (+4) | vl:23 ping:222 tps:20.0 lp:20 component: speed.main
+(17:22:43) PelucheGamPlay failed Speed check | suspicious movement (move: 0.619, predict: 0.246, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.116, motion: 0.568,0.0,-0.246, attribute: 0.13, tag: pred) (+2) | vl:25 ping:222 tps:20.0 lp:20 component: move.xz
+(17:22:44) PelucheGamPlay failed Speed check | suspicious movement (move: 0.72, expect:0.2873, t:0, tag: a) (+4) | vl:29 ping:222 tps:20.0 lp:20 component: speed.main
+(17:22:44) PelucheGamPlay failed Speed check | suspicious movement (move: 0.72, predict: 0.264, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.134, motion: -0.649,0.0,0.311, attribute: 0.13, tag: pred) (+2) | vl:31 ping:222 tps:20.0 lp:20 component: move.xz
+(17:22:46) PelucheGamPlay failed Speed check | suspicious movement (move: 0.468, expect:0.2873, t:0, tag: a) (+4) | vl:35 ping:222 tps:20.0 lp:20 component: speed.main
+(17:22:47) PelucheGamPlay failed Speed check | suspicious movement (move: 0.679, expect:0.2873, t:0, tag: a) (+4) | vl:39 ping:222 tps:20.0 lp:13 component: speed.main
+(17:22:47) PelucheGamPlay failed Speed check | suspicious movement (move: 0.679, predict: 0.178, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.048, motion: -0.141,0.0,-0.664, attribute: 0.13, tag: pred) (+2) | vl:41 ping:222 tps:20.0 lp:13 component: move.xz
+(17:22:47) PelucheGamPlay failed Interact check | breaking a block without looking at it (block: GRASS_BLOCK) (+1) | vl:1 ping:222 tps:20.0 lp:13 component: interact.break
+(17:22:47) PelucheGamPlay failed Interact check | break block through walls (through: dirt, block: grass_block) (+1) | vl:2 ping:222 tps:20.0 lp:13 component: interact.break
+(17:22:51) PelucheGamPlay failed Speed check | suspicious movement (move: 0.29, expect:0.128, t:45, tag: a) (+4) | vl:45 ping:222 tps:20.0 lp:13 component: speed.main
+(17:23:02) PelucheGamPlay failed Speed check | suspicious movement (move: 0.274, expect:0.128, t:100, tag: a) (+4) | vl:4 ping:222 tps:20.0 lp:21 component: speed.main
+(17:23:03) PelucheGamPlay failed Interact check | breaking a block without looking at it (block: GRASS_BLOCK) (+1) | vl:1 ping:222 tps:20.0 lp:21 component: interact.break
+(17:23:03) PelucheGamPlay failed Interact check | break block through walls (through: grass_block, block: grass_block) (+1) | vl:2 ping:222 tps:20.0 lp:21 component: interact.break
+(17:23:07) PelucheGamPlay failed Speed check | suspicious movement (move: 0.445, expect:0.2873, t:0, tag: a) (+4) | vl:8 ping:222 tps:20.0 lp:20 component: speed.main
+(17:23:08) PelucheGamPlay failed Speed check | suspicious movement (move: 0.526, expect:0.2873, t:0, tag: a) (+4) | vl:12 ping:222 tps:20.0 lp:20 component: speed.main
+(17:23:08) PelucheGamPlay failed Speed check | suspicious movement (move: 0.526, predict: 0.165, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.035, motion: -0.282,0.0,-0.444, attribute: 0.13, tag: pred) (+2) | vl:14 ping:222 tps:20.0 lp:20 component: move.xz
+(17:23:11) PelucheGamPlay failed Speed check | suspicious movement (move: 0.478, expect:0.2873, t:0, tag: a) (+4) | vl:18 ping:222 tps:20.0 lp:20 component: speed.main
+(17:26:47) PelucheGamPlay failed BadPackets check | (timer) send 36 moving packets in 1570ms | tag: limit (+5) | vl:5 ping:222 tps:20.0 lp:24 component: net.timer
+(17:27:36) PelucheGamPlay failed Speed check | suspicious movement (move: 0.795, expect: 0.429, g_tk:6, tag: b) (+2) | vl:2 ping:491 tps:20.0 lp:13 component: speed.main
+(17:27:36) PelucheGamPlay failed Speed check | suspicious movement (move: 0.795, predict: 0.172, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.042, motion: 0.562,0.0,0.562, attribute: 0.13, tag: pred) (+1) | vl:3 ping:491 tps:20.0 lp:13 component: move.xz
+(17:28:09) PelucheGamPlay failed BadPackets check | (timer) send 45 moving packets in 1291ms | tag: limit (+2) | vl:2 ping:244 tps:20.0 lp:71 component: net.timer
+(17:31:10) PelucheGamPlay failed BadPackets check | (timer) send 62 moving packets in 1000ms | tag: limit (+1) | vl:1 ping:14601 tps:20.0 lp:25 component: net.timer
+(17:31:10) PelucheGamPlay failed Speed check | suspicious movement (move: 1.428, expect: 0.6235, tag: c) (+3) | vl:3 ping:14601 tps:20.0 lp:25 component: speed.main
+(17:31:10) PelucheGamPlay failed Speed check | suspicious movement (move: 1.428, expect:0.6235, vet: 0.88, tag: d) (+2) | vl:5 ping:14601 tps:20.0 lp:25 component: speed.main
+(17:31:10) PelucheGamPlay failed Speed check | suspicious movement (move: 1.428, predict: 0.362, friction: 0.6, ground:true, motY: 0.88, increase:0.335, preMove:0.027, motion: -0.872,0.88,1.131, attribute: 0.13, tag: pred) (+1) | vl:6 ping:14601 tps:20.0 lp:25 component: move.xz
+(17:35:08) PelucheGamPlay failed BadPackets check | (timer) send 36 moving packets in 1021ms | tag: limit (+2) | vl:2 ping:217 tps:20.0 lp:29 component: net.timer
+(17:40:04) PelucheGamPlay failed Speed check | suspicious movement (move: 0.136, expect:0.128, t:26, tag: a) (+1) | vl:1 ping:2153 tps:20.0 lp:41 component: speed.main
+(17:40:14) PelucheGamPlay failed Speed check | suspicious movement (move: 0.129, expect:0.128, t:70, tag: a) (+3) | vl:4 ping:251 tps:20.0 lp:13 component: speed.main
+(17:42:47) PelucheGamPlay failed Speed check | suspicious movement (move: 0.136, expect:0.128, t:100, tag: a) (+4) | vl:4 ping:236 tps:20.0 lp:23 component: speed.main
+(17:46:31) PelucheGamPlay failed Speed check | suspicious movement (move: 0.379, expect: 0.3665, tag: ea) (+1) | vl:1 ping:256 tps:20.0 lp:174 component: speed.main
+(17:46:31) PelucheGamPlay failed Speed check | suspicious movement (move: 0.369, expect: 0.3665, tag: ea) (+1) | vl:2 ping:256 tps:20.0 lp:174 component: speed.main
+(17:46:31) PelucheGamPlay failed Speed check | suspicious movement (move: 0.649, expect: 0.6235, tag: c) (+1) | vl:3 ping:256 tps:20.0 lp:174 component: speed.main
+(17:46:31) PelucheGamPlay failed Speed check | suspicious movement (move: 0.38, expect: 0.3665, tag: ea) (+1) | vl:4 ping:256 tps:20.0 lp:174 component: speed.main
+(17:46:31) PelucheGamPlay failed Speed check | suspicious movement (move: 0.371, expect: 0.3665, tag: ea) (+1) | vl:5 ping:256 tps:20.0 lp:174 component: speed.main
+(17:46:42) PelucheGamPlay failed Speed check | suspicious movement (move: 0.287, expect:0.2873, t:0, tag: a) (+3) | vl:8 ping:256 tps:20.0 lp:12 component: speed.main
+(17:49:07) PelucheGamPlay failed Jesus check | liquid speed (speed: 0.12, expect:0.12, dmg: false, flw:false, module: in) (+1) | vl:1 ping:234 tps:20.0 lp:15 component: jesus.speed.in
+(17:49:43) PelucheGamPlay failed BadPackets check | (timer) send 37 moving packets in 1012ms | tag: limit (+5) | vl:5 ping:226 tps:20.0 lp:10 component: net.timer
+(17:49:43) PelucheGamPlay failed Jesus check | liquid speed (speed: 0.391, expect:0.21, dmg: false, flw:false, module: in) (+1) | vl:1 ping:226 tps:20.0 lp:10 component: jesus.speed.in
+(17:52:06) PelucheGamPlay failed Speed check | suspicious movement (move: 4.214, expect: 0.7035, tag: c) (+3) | vl:3 ping:2900 tps:20.0 lp:40 component: speed.main
+(17:52:06) PelucheGamPlay failed Speed check | suspicious movement (move: 4.214, predict: 0.389, friction: 0.6, ground:true, motY: 2.088, increase:0.335, preMove:0.054, motion: -2.828,2.088,-3.124, attribute: 0.13, tag: pred) (+1) | vl:4 ping:2900 tps:20.0 lp:40 component: move.xz
+(17:52:06) PelucheGamPlay failed Fly check | step | p: 1 | m:2.0877092594123354 ev:0.42 lm:0.99 (+2) | vl:2 ping:2900 tps:20.0 lp:40 component: speed.step
+(17:53:19) PelucheGamPlay failed BadPackets check | (timer) send 39 moving packets in 997ms | tag: limit (+3) | vl:3 ping:305 tps:19.9 lp:12 component: net.timer
+(17:53:19) PelucheGamPlay failed Speed check | suspicious movement (move: 1.082, expect:0.2873, t:0, tag: a) (+3) | vl:3 ping:305 tps:19.9 lp:12 component: speed.main
+(17:53:19) PelucheGamPlay failed Speed check | suspicious movement (move: 1.082, predict: 0.264, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.134, motion: -0.828,0.0,0.696, attribute: 0.13, tag: pred) (+1) | vl:4 ping:305 tps:19.9 lp:12 component: move.xz
+(17:53:23) PelucheGamPlay failed KillAura check | super knock back | action (+3) | vl:3 ping:305 tps:20.0 lp:28 component: ka.action
+(17:53:24) PelucheGamPlay failed BadPackets check | (timer) send 46 moving packets in 1023ms | tag: limit (+1) | vl:1 ping:305 tps:20.0 lp:28 component: net.timer
+(17:53:24) PelucheGamPlay failed Speed check | suspicious movement (move: 1.796, expect: 1.076220283818124, tag: ea) (+3) | vl:3 ping:305 tps:20.0 lp:28 component: speed.main
+(17:53:24) PelucheGamPlay failed Speed check | suspicious movement (move: 1.796, predict: 0.6, friction: 0.6, ground:false, motY: -0.496, increase:0.39, preMove:0.211, motion: 1.767,-0.496,-0.318, attribute: 0.13, tag: pred) (+1) | vl:4 ping:305 tps:20.0 lp:28 component: move.xz
+(17:53:31) PelucheGamPlay failed Speed check | sprint with weird direction (dist: 0.243, angle:131.691) (+1) | vl:5 ping:305 tps:20.0 lp:26 component: speed.sprint
+(17:53:31) PelucheGamPlay failed Speed check | sprint with weird direction (dist: 0.273, angle:130.076) (+1) | vl:6 ping:305 tps:20.0 lp:26 component: speed.sprint
+(17:53:32) PelucheGamPlay failed Speed check | sprint with weird direction (dist: 0.279, angle:129.805) (+1) | vl:7 ping:305 tps:20.0 lp:26 component: speed.sprint
+(17:55:25) PelucheGamPlay failed BadPackets check | (timer) send 44 moving packets in 1019ms | tag: limit (+5) | vl:5 ping:244 tps:20.0 lp:20 component: net.timer
+(17:55:25) PelucheGamPlay failed Speed check | suspicious movement (move: 1.871, expect:0.2873, t:0, tag: a) (+4) | vl:4 ping:244 tps:20.0 lp:20 component: speed.main
+(17:55:25) PelucheGamPlay failed Speed check | suspicious movement (move: 1.871, predict: 0.248, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.118, motion: 1.805,0.0,-0.494, attribute: 0.13, tag: pred) (+2) | vl:6 ping:244 tps:20.0 lp:20 component: move.xz
+(17:56:16) PelucheGamPlay failed BadPackets check | (timer) send 49 moving packets in 1019ms | tag: limit (+1) | vl:1 ping:416 tps:19.79 lp:27 component: net.timer
+(17:56:16) PelucheGamPlay failed Speed check | suspicious movement (move: 3.053, expect:0.2873, t:0, tag: a) (+1) | vl:1 ping:416 tps:19.79 lp:27 component: speed.main
+(17:56:16) PelucheGamPlay failed Speed check | suspicious movement (move: 3.053, predict: 0.248, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.118, motion: -2.304,0.0,-2.004, attribute: 0.13, tag: pred) (+1) | vl:2 ping:416 tps:19.79 lp:27 component: move.xz
+(17:58:33) PelucheGamPlay failed Fly check | suspicious movement:0.083 predict:-0.078 vel:-0.152 air_t:12 tag:m4 (+5) | vl:5 ping:223 tps:19.99 lp:24 component: fly.main
+(17:58:36) juegapaco failed Speed check | t: spin (+5) | vl:5 ping:79 tps:20.0 lp:80 component: speed.spin
+(17:58:36) juegapaco failed Speed check | t: spin (+5) | vl:10 ping:79 tps:20.0 lp:80 component: speed.spin
+(18:00:32) PelucheGamPlay failed BadPackets check | (timer) send 48 moving packets in 1024ms | tag: limit (+1) | vl:1 ping:352 tps:20.0 lp:32 component: net.timer
+(18:00:32) PelucheGamPlay failed Speed check | suspicious movement (move: 0.851, expect: 0.3665, tag: ea) (+1) | vl:1 ping:352 tps:20.0 lp:32 component: speed.main
+(18:00:32) PelucheGamPlay failed Speed check | suspicious movement (0.851, air_t: 12, lm:0.02, tag: ed) (+2) | vl:3 ping:352 tps:20.0 lp:32 component: speed.main
+(18:00:32) PelucheGamPlay failed Speed check | suspicious movement (move: 0.851, predict: 0.044, friction: 0.6, ground:false, motY: 0.083, increase:0.026, preMove:0.018, motion: -0.834,0.083,-0.167, attribute: 0.13, tag: pred) (+1) | vl:4 ping:352 tps:20.0 lp:32 component: move.xz
+(18:00:32) PelucheGamPlay failed Fly check | suspicious movement:0.083 predict:-0.078 vel:-0.582 air_t:12 tag:m4 (+1) | vl:1 ping:352 tps:20.0 lp:32 component: fly.main
+(18:00:33) PelucheGamPlay failed Speed check | suspicious movement (move: 0.115, predict: 0.066, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.04, motion: 0.092,0.0,-0.069, attribute: 0.13, tag: pred) (+1) | vl:5 ping:352 tps:20.0 lp:32 component: move.xz
+(18:00:33) PelucheGamPlay failed Fly check | ground spoof (expect: +-, move: 0.086,0.0,0.048, at: 8864.354,78.0,6145.634, type: air) (+1) | vl:2 ping:352 tps:20.0 lp:32 component: fly.gf
+(18:00:34) PelucheGamPlay failed Fly check | ground spoof (expect: +-, move: 0.047,0.0,0.081, at: 8864.341,78.0,6145.969, type: air) (+1) | vl:3 ping:352 tps:20.0 lp:32 component: fly.gf
+(18:00:35) PelucheGamPlay failed Fly check | ground spoof (expect: +-, move: 0.054,0.0,0.182, at: 8864.298,78.0,6146.478, type: air) (+1) | vl:4 ping:352 tps:20.0 lp:32 component: fly.gf
+(18:00:51) PelucheGamPlay failed Fly check | suspicious movement:-0.155 predict:0.825 lm:0.922 hard_pred:0.825 sev_pred:0.333 air_t:1 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:250 tps:19.98 lp:22 component: fly.main
+(18:00:56) PelucheGamPlay failed BadPackets check | (timer) send 42 moving packets in 1038ms | tag: limit (+1) | vl:1 ping:250 tps:19.85 lp:38 component: net.timer
+(18:01:14) juegapaco failed Block check | abort breaking (at: 4329415.0,211.0,-2.2978349E7, type: oak_log) (+0) | vl:0 ping:69 tps:20.0 lp:34 component: block.abort
+(18:01:26) juegapaco failed Block check | break block with timer (block: oak_leaves, point: 207) (+0) | vl:0 ping:53 tps:20.0 lp:59 component: block.fb.timer
+(18:03:52) PelucheGamPlay failed BadPackets check | (timer) send 62 moving packets in 996ms | tag: limit (+5) | vl:5 ping:234 tps:20.0 lp:22 component: net.timer
+(18:03:52) PelucheGamPlay failed Speed check | suspicious movement (move: 1.473, expect:0.2873, t:0, tag: a) (+4) | vl:4 ping:234 tps:20.0 lp:22 component: speed.main
+(18:03:52) PelucheGamPlay failed Speed check | suspicious movement (move: 1.473, predict: 0.244, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.114, motion: -1.405,0.0,0.442, attribute: 0.13, tag: pred) (+2) | vl:6 ping:234 tps:20.0 lp:22 component: move.xz
+(18:04:06) PelucheGamPlay failed BadPackets check | (timer) send 48 moving packets in 1028ms | tag: limit (+2) | vl:7 ping:234 tps:20.0 lp:41 component: net.timer
+(18:04:06) PelucheGamPlay failed Speed check | suspicious movement (move: 2.674, expect:0.2873, t:0, tag: a) (+2) | vl:8 ping:234 tps:20.0 lp:41 component: speed.main
+(18:04:06) PelucheGamPlay failed Speed check | suspicious movement (move: 2.674, predict: 0.248, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.118, motion: -1.611,0.0,-2.134, attribute: 0.13, tag: pred) (+1) | vl:9 ping:234 tps:20.0 lp:41 component: move.xz
+(18:04:17) PelucheGamPlay failed BadPackets check | (timer) send 36 moving packets in 1051ms | tag: limit (+1) | vl:8 ping:1248 tps:20.0 lp:42 component: net.timer
+(18:04:20) PelucheGamPlay failed BadPackets check | (timer) send 43 moving packets in 1051ms | tag: limit (+1) | vl:9 ping:1248 tps:20.0 lp:42 component: net.timer
+(18:04:40) PelucheGamPlay failed BadPackets check | (timer) send 36 moving packets in 1037ms | tag: limit (+3) | vl:3 ping:1248 tps:19.98 lp:12 component: net.timer
+(18:04:44) PelucheGamPlay failed BadPackets check | (timer) send 37 moving packets in 1047ms | tag: limit (+3) | vl:6 ping:509 tps:20.0 lp:17 component: net.timer
+(18:04:44) PelucheGamPlay failed Jesus check | liquid speed (speed: 0.188, expect:0.16, dmg: false, flw:false, module: out) (+1) | vl:1 ping:509 tps:20.0 lp:17 component: jesus.out
+(18:04:45) PelucheGamPlay failed BadPackets check | (timer) timer modify: 1.104 var:906 buffer:20 | tag: timer (+3) | vl:9 ping:509 tps:20.0 lp:17 component: net.timer
+(18:05:43) PelucheGamPlay failed Speed check | suspicious movement (move: 0.288, expect:0.2873, t:0, tag: a) (+4) | vl:4 ping:229 tps:19.99 lp:18 component: speed.main
+(18:05:43) PelucheGamPlay failed Speed check | suspicious movement (move: 0.287, expect:0.2873, t:0, tag: a) (+4) | vl:8 ping:229 tps:19.99 lp:18 component: speed.main
+(18:06:13) juegapaco failed Scaffold check | scaffold | type: simple (+1) | vl:1 ping:72 tps:20.0 lp:27 component: sfd.simple
+(18:09:10) juegapaco failed Scaffold check | scaffold | type: simple (+3) | vl:3 ping:52 tps:20.0 lp:21 component: sfd.simple
+(18:09:28) juegapaco failed FastUse check | fast use (+1) | vl:1 ping:73 tps:20.0 lp:74 component: fastuse
+(18:10:09) juegapaco failed Speed check | t: spin (+5) | vl:5 ping:64 tps:20.0 lp:51 component: speed.spin
+(18:10:21) PelucheGamPlay failed BadPackets check | (timer) send 37 moving packets in 1032ms | tag: limit (+5) | vl:5 ping:72 tps:20.0 lp:54 component: net.timer
+(18:10:25) PelucheGamPlay failed Scaffold check | scaffold | type: simple (+1) | vl:1 ping:72 tps:20.0 lp:30 component: sfd.simple
+(18:10:42) juegapaco failed FastUse check | fast use (+1) | vl:1 ping:52 tps:20.0 lp:16 component: fastuse
+(18:11:30) juegapaco failed Speed check | suspicious movement (move: 0.521, tag: gv-) (+5) | vl:5 ping:71 tps:19.93 lp:45 component: speed.main
+(18:11:34) juegapaco failed Speed check | suspicious movement (move: 1.231, expect: 0.6235, tag: c) (+10) | vl:15 ping:71 tps:19.74 lp:23 component: speed.main
+(18:11:42) juegapaco failed Speed check | suspicious movement (move: 1.611, expect: 0.6235, tag: c) (+18) | vl:33 ping:71 tps:20.0 lp:17 component: speed.main
+(18:11:52) juegapaco failed Speed check | suspicious movement (move: 1.061, tag: gv-) (+10) | vl:10 ping:77 tps:20.0 lp:16 component: speed.main
+(18:12:03) PelucheGamPlay failed BadPackets check | (timer) send 40 moving packets in 1054ms | tag: limit (+2) | vl:2 ping:224 tps:20.0 lp:61 component: net.timer
+(18:12:03) PelucheGamPlay failed Speed check | fast climb | 0.588 > 0.34 / 7 (+1) | vl:1 ping:224 tps:20.0 lp:61 component: speed.ladder
+(18:15:04) PelucheGamPlay failed Speed check | suspicious movement (move: 0.426, expect: 0.3665, tag: ea) (+1) | vl:1 ping:239 tps:20.0 lp:54 component: speed.main
+(18:15:32) juegapaco failed Scaffold check | scaffold | type: simple (+3) | vl:3 ping:71 tps:20.0 lp:5 component: sfd.simple
+(18:15:41) PelucheGamPlay failed BadPackets check | (timer) send 42 moving packets in 1000ms | tag: limit (+5) | vl:5 ping:243 tps:20.0 lp:10 component: net.timer
+(18:15:47) PelucheGamPlay failed BadPackets check | (timer) send 38 moving packets in 1039ms | tag: limit (+2) | vl:7 ping:228 tps:20.0 lp:25 component: net.timer
+(18:15:59) PelucheGamPlay failed BadPackets check | (timer) send 45 moving packets in 996ms | tag: limit (+5) | vl:5 ping:228 tps:20.0 lp:24 component: net.timer
+(18:15:59) PelucheGamPlay failed Speed check | suspicious movement (move: 2.156, expect:0.49729999999999996, t:0, tag: a) (+4) | vl:4 ping:228 tps:20.0 lp:24 component: speed.main
+(18:15:59) PelucheGamPlay failed Speed check | suspicious movement (move: 2.156, predict: 0.452, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.117, motion: -0.982,0.0,-1.919, attribute: 0.13, tag: pred) (+2) | vl:6 ping:228 tps:20.0 lp:24 component: move.xz
+(18:16:07) juegapaco failed Speed check | suspicious movement (move: 0.134, expect:0.128, t:100, tag: a) (+9) | vl:9 ping:88 tps:20.0 lp:9 component: speed.main
+(18:16:26) PelucheGamPlay failed BadPackets check | (timer) send 40 moving packets in 1002ms | tag: limit (+2) | vl:2 ping:222 tps:20.0 lp:39 component: net.timer
+(18:17:46) juegapaco failed Fly check | suspicious movement:0.165 predict:0.165 vel:-0.152 air_t:12 tag:m4 (+0) | vl:0 ping:82 tps:15.14 lp:25 component: fly.main
+(18:19:21) PelucheGamPlay failed Speed check | suspicious movement (move: 0.131, expect:0.128, t:85, tag: a) (+4) | vl:4 ping:237 tps:20.0 lp:24 component: speed.main
+(18:19:35) PelucheGamPlay failed BadPackets check | (timer) send 44 moving packets in 1050ms | tag: limit (+5) | vl:5 ping:237 tps:20.0 lp:21 component: net.timer
+(18:22:46) juegapaco failed FastUse check | fast use (+1) | vl:1 ping:61 tps:20.0 lp:17 component: fastuse
+(18:23:22) juegapaco failed Chat check | send the same chat content (+1) | vl:1 ping:50 tps:20.0 lp:18 component: chat.same
+(18:23:54) PelucheGamPlay failed BadPackets check | (timer) send 48 moving packets in 1040ms | tag: limit (+1) | vl:1 ping:266 tps:20.0 lp:202 component: net.timer
+(18:25:00) juegapaco failed FastHeal check | regen health too fast | difficulty: 1 delay: 190 protocol_ver: 15 (+2) | vl:2 ping:60 tps:20.0 lp:14 component: heal
+(18:25:01) juegapaco failed FastHeal check | regen health too fast | difficulty: 1 delay: 341 protocol_ver: 15 (+2) | vl:4 ping:60 tps:20.0 lp:14 component: heal
+(18:29:07) PelucheGamPlay failed BadPackets check | (timer) send 38 moving packets in 1039ms | tag: limit (+2) | vl:2 ping:225 tps:20.0 lp:28 component: net.timer
+(18:29:07) PelucheGamPlay failed Speed check | suspicious movement (move: 0.643, expect:0.2873, t:0, tag: a) (+2) | vl:2 ping:225 tps:20.0 lp:28 component: speed.main
+(18:29:07) PelucheGamPlay failed Speed check | suspicious movement (move: 0.643, predict: 0.249, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.119, motion: -0.56,0.0,-0.316, attribute: 0.13, tag: pred) (+1) | vl:3 ping:225 tps:20.0 lp:28 component: move.xz
+(18:29:46) Stefany362YT failed Phase check | moved into block (block: grass_block, move: 0.146,0.019,-0.063, at: 4329636.832,64.0,-2.2978412054E7, dist: 0.159, block_collisions: {minX=4329637.0, minY=63.0, minZ=-2.2978413E7, maxX=4329638.0, maxY=64.0, maxZ=-2.2978412E7}, high: 63.99999999999999, loop: false, async) (+2) | vl:2 ping:0 tps:20.0 lp:129 component: phase.main
+(18:33:45) PelucheGamPlay failed Interact check | interact block through solid (through: OAK_LOG, block:CHEST) (+1) | vl:1 ping:1 tps:17.94 lp:87 component: interact.through
+(18:33:49) PelucheGamPlay failed BadPackets check | (timer) send 40 moving packets in 1040ms | tag: limit (+1) | vl:1 ping:1594 tps:20.0 lp:87 component: net.timer
+(18:33:49) PelucheGamPlay failed Speed check | suspicious movement (0.404, air_t: 12, lm:0.091, tag: ed) (+2) | vl:2 ping:1594 tps:20.0 lp:87 component: speed.main
+(18:34:11) Stefany362YT failed Chat check | chat too fast | delay: 2243 (+1) | vl:1 ping:544 tps:20.0 lp:27 component: chat.delay
+(18:35:12) PelucheGamPlay failed BadPackets check | (timer) send 53 moving packets in 1069ms | tag: limit (+3) | vl:3 ping:590 tps:20.0 lp:17 component: net.timer
+(18:35:54) Stefany362YT failed Chat check | chat too fast | delay: 2252 (+1) | vl:1 ping:190 tps:19.87 lp:18 component: chat.delay
+(18:36:55) PelucheGamPlay failed Chat check | chat too fast | delay: 2402 (+1) | vl:1 ping:228 tps:20.0 lp:96 component: chat.delay
+(18:37:09) PelucheGamPlay failed Chat check | chat too fast | delay: 2515 (+1) | vl:2 ping:228 tps:20.0 lp:89 component: chat.delay
+(18:37:47) Stefany362YT failed Chat check | chat too fast | delay: 2440 (+1) | vl:1 ping:182 tps:20.0 lp:14 component: chat.delay
+(18:46:18) Matrix Enabled!
+(18:46:18) Version: 4.3.5
+(18:48:12) PelucheGamPlay failed Velocity check | ignore server velocity: 0.0 val2: true val3: false pattern: #7 (+3) | vl:3 ping:0 tps:20.0 lp:0 component: vel.expect
+(18:48:13) Execute command: matrix notify PelucheGamPlay tried to ignore server velocity (Velocity)
+(18:48:13) PelucheGamPlay failed Velocity check | ignore server velocity: 0.207,0.275,0.069 pattern:#1 (+10) | vl:13 ping:0 tps:20.0 lp:0 component: vel.expect
+(18:48:13) Execute command: matrix notify PelucheGamPlay tried to ignore server velocity (Velocity) #2
+(18:48:13) PelucheGamPlay failed Velocity check | ignore server velocity: 0.0 val2: true val3: true pattern: #7 (+3) | vl:16 ping:0 tps:20.0 lp:0 component: vel.expect
+(18:48:14) Execute command: matrix kick PelucheGamPlay Velocity/Anti-Knockback
+(18:48:14) PelucheGamPlay failed Velocity check | ignore server velocity: -0.233,0.275,0.144 pattern:#1 (+10) | vl:26 ping:0 tps:20.0 lp:0 component: vel.expect
+(18:48:14) PelucheGamPlay failed Velocity check | ignore server velocity: 0.275125 pattern: #8 (+2) | vl:28 ping:0 tps:20.0 lp:0 component: vel.expect
+(18:48:31) Execute command: matrix notify PelucheGamPlay tried to ignore server velocity (Velocity)
+(18:48:31) PelucheGamPlay failed Velocity check | ignore server velocity: -0.109,0.275,-0.189 pattern:#1 (+10) | vl:10 ping:0 tps:20.0 lp:0 component: vel.expect
+(18:48:32) PelucheGamPlay failed Velocity check | ignore server velocity: -0.093,0.275,-0.201 pattern:#1 (+10) | vl:20 ping:0 tps:20.0 lp:0 component: vel.expect
+(18:48:32) Execute command: matrix kick PelucheGamPlay Velocity/Anti-Knockback
+(18:48:51) Execute command: matrix notify PelucheGamPlay tried to ignore server velocity (Velocity)
+(18:48:52) PelucheGamPlay failed Velocity check | ignore server velocity: -0.179,0.275,-0.199 pattern:#1 (+10) | vl:10 ping:0 tps:20.0 lp:0 component: vel.expect
+(18:48:55) Execute command: matrix kick PelucheGamPlay Velocity/Anti-Knockback
+(18:48:55) PelucheGamPlay failed Velocity check | ignore server velocity: -0.101,0.275,-0.194 pattern:#1 (+10) | vl:20 ping:0 tps:20.0 lp:0 component: vel.expect
+(18:56:58) xxSaimersxx failed Block check | abort breaking (at: 4329387.0,201.0,-2.2978466E7, type: dirt) (+0) | vl:0 ping:98 tps:20.0 lp:69 component: block.abort
+(19:20:53) xxSaimersxx failed Speed check | t: spin (+10) | vl:10 ping:0 tps:20.0 lp:123 component: speed.spin
+(19:25:13) VAQUEROMEXR24 failed Chat check | chat too fast | delay: 2290 (+1) | vl:1 ping:82 tps:20.0 lp:0 component: chat.delay
+(19:25:15) VAQUEROMEXR24 failed Chat check | chat too fast | delay: 1398 (+1) | vl:2 ping:82 tps:20.0 lp:0 component: chat.delay
+(19:39:50) PelucheGamPlay failed HitBox check | missed entity hitbox (entity: chicken, offset: 1.402) (+1) | vl:1 ping:621 tps:20.0 lp:10 component: hb.mis
+(19:40:20) PelucheGamPlay failed Speed check | suspicious movement (move: 0.544, predict: 0.335, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.0, motion: 0.527,0.0,-0.136, attribute: 0.13, tag: pred) (+1) | vl:1 ping:1197 tps:20.0 lp:17 component: move.xz
+(19:40:42) PelucheGamPlay failed BadPackets check | (timer) send 39 moving packets in 1260ms | tag: limit (+1) | vl:1 ping:1197 tps:20.0 lp:31 component: net.timer
+(19:40:43) PelucheGamPlay failed Scaffold check | right click too fast (cps: 39 length: 979) (+1) | vl:1 ping:1197 tps:20.0 lp:31 component: sfd.clk
+(19:40:52) PelucheGamPlay failed BadPackets check | (timer) send 38 moving packets in 1051ms | tag: limit (+3) | vl:4 ping:2628 tps:20.0 lp:18 component: net.timer
+(19:40:56) PelucheGamPlay failed Chat check | chat too fast | delay: 2283 (+1) | vl:1 ping:2628 tps:20.0 lp:18 component: chat.delay
+(19:42:39) PelucheGamPlay failed Speed check | suspicious movement (move: 0.3, expect:0.128, t:95, tag: a) (+1) | vl:1 ping:567 tps:20.0 lp:43 component: speed.main
+(19:42:39) PelucheGamPlay failed BadPackets check | (timer) send 41 moving packets in 1030ms | tag: limit (+1) | vl:1 ping:567 tps:20.0 lp:43 component: net.timer
+(19:43:38) PelucheGamPlay failed Speed check | suspicious movement (move: 0.511, expect:0.33799999999999997, t:22, tag: a) (+1) | vl:1 ping:603 tps:19.96 lp:57 component: speed.main
+(19:43:38) PelucheGamPlay failed Speed check | suspicious movement (move: 0.511, predict: 0.36, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.025, motion: -0.265,0.0,-0.438, attribute: 0.13, tag: pred) (+1) | vl:2 ping:603 tps:19.96 lp:57 component: move.xz
+(19:44:55) PelucheGamPlay failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.271) (+1) | vl:1 ping:480 tps:20.0 lp:21 component: hb.mis
+(19:45:34) PelucheGamPlay failed BadPackets check | (timer) send 38 moving packets in 1027ms | tag: limit (+3) | vl:3 ping:309 tps:20.0 lp:12 component: net.timer
+(19:45:34) PelucheGamPlay failed Speed check | suspicious movement (move: 0.754, expect:0.49729999999999996, t:0, tag: a) (+3) | vl:3 ping:309 tps:20.0 lp:12 component: speed.main
+(19:45:34) PelucheGamPlay failed Speed check | suspicious movement (move: 0.754, predict: 0.486, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.151, motion: 0.388,0.0,0.647, attribute: 0.13, tag: pred) (+1) | vl:4 ping:309 tps:20.0 lp:12 component: move.xz
+(19:46:03) PelucheGamPlay failed Speed check | sprint with weird direction (dist: 0.256, angle:94.468) (+1) | vl:1 ping:754 tps:20.0 lp:8 component: speed.sprint
+(19:46:13) xxSaimersxx failed Speed check | t: spin (+4) | vl:4 ping:133 tps:20.0 lp:89 component: speed.spin
+(19:48:33) PelucheGamPlay failed BadPackets check | (timer) send 47 moving packets in 997ms | tag: limit (+1) | vl:1 ping:290 tps:20.0 lp:33 component: net.timer
+(19:48:33) PelucheGamPlay failed Speed check | suspicious movement (move: 3.547, expect: 0.3665, tag: ea) (+3) | vl:3 ping:290 tps:20.0 lp:33 component: speed.main
+(19:48:33) PelucheGamPlay failed Speed check | suspicious movement (move: 3.547, predict: 0.31, friction: 0.6, ground:false, motY: -2.024, increase:0.026, preMove:0.284, motion: 1.057,-2.024,3.386, attribute: 0.13, tag: pred) (+1) | vl:4 ping:290 tps:20.0 lp:33 component: move.xz
+(19:51:43) xxSaimersxx failed Block check | abort breaking (at: 4329387.0,202.0,-2.2978463E7, type: chest) (+0) | vl:0 ping:139 tps:20.0 lp:276 component: block.abort
+(19:51:58) Zekken_X failed Chat check | chat too fast | delay: 1481 (+1) | vl:1 ping:0 tps:20.0 lp:0 component: chat.delay
+(19:52:33) Zekken_X failed Chat check | chat too fast | delay: 1109 (+1) | vl:1 ping:148 tps:20.0 lp:239 component: chat.delay
+(19:52:40) Zekken_X failed Chat check | chat too fast | delay: 2543 (+1) | vl:2 ping:148 tps:20.0 lp:239 component: chat.delay
+(19:52:42) Zekken_X failed Chat check | chat too fast | delay: 2129 (+1) | vl:3 ping:148 tps:20.0 lp:239 component: chat.delay
+(19:53:36) Zekken_X failed HitBox check | attack player too far away (raytrace: 10/11 positions, lag: 9, distance: 3.381 blocks) (+1) | vl:1 ping:198 tps:19.39 lp:19 component: hb.reach
+(19:54:46) Zekken_X failed Chat check | chat too fast | delay: 2076 (+1) | vl:1 ping:126 tps:20.0 lp:10 component: chat.delay
+(19:58:45) Zekken_X failed Chat check | chat too fast | delay: 2659 (+1) | vl:1 ping:127 tps:20.0 lp:24 component: chat.delay
+(19:59:14) Zekken_X failed Block check | abort breaking (at: 8953.0,79.0,6029.0, type: grass_block) (+0) | vl:0 ping:125 tps:19.25 lp:9 component: block.abort
+(19:59:41) PelucheGamPlay failed Speed check | suspicious movement (move: 0.789, expect:0.2873, t:0, tag: a) (+1) | vl:1 ping:250 tps:20.0 lp:26 component: speed.main
+(19:59:41) PelucheGamPlay failed Speed check | suspicious movement (move: 0.789, predict: 0.181, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.051, motion: 0.434,0.0,-0.659, attribute: 0.13, tag: pred) (+1) | vl:2 ping:250 tps:20.0 lp:26 component: move.xz
+(19:59:47) PelucheGamPlay failed Speed check | suspicious movement (move: 0.676, expect:0.2873, t:0, tag: a) (+1) | vl:3 ping:322 tps:20.0 lp:26 component: speed.main
+(19:59:47) PelucheGamPlay failed Speed check | suspicious movement (move: 0.676, predict: 0.189, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.059, motion: -0.132,0.0,-0.663, attribute: 0.13, tag: pred) (+1) | vl:4 ping:322 tps:20.0 lp:26 component: move.xz
+(20:00:13) PelucheGamPlay failed Fly check | suspicious movement:-0.155 predict:0.825 lm:0.922 hard_pred:0.825 sev_pred:0.42 air_t:1 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:1316 tps:20.0 lp:41 component: fly.main
+(20:00:26) PelucheGamPlay failed Speed check | suspicious movement (move: 0.298, expect:0.2873, t:0, tag: a) (+1) | vl:1 ping:1316 tps:20.0 lp:39 component: speed.main
+(20:00:35) PelucheGamPlay failed Speed check | suspicious movement (move: 1.254, expect:0.2873, t:0, tag: a) (+1) | vl:2 ping:1316 tps:20.0 lp:51 component: speed.main
+(20:00:35) PelucheGamPlay failed Speed check | suspicious movement (move: 1.254, predict: 0.247, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.117, motion: -1.146,0.0,-0.51, attribute: 0.13, tag: pred) (+1) | vl:3 ping:1316 tps:20.0 lp:51 component: move.xz
+(20:00:42) PelucheGamPlay failed Speed check | suspicious movement (move: 0.332, expect:0.2873, t:0, tag: a) (+1) | vl:4 ping:1316 tps:19.94 lp:73 component: speed.main
+(20:01:17) PelucheGamPlay failed BadPackets check | (timer) timer modify: 1000.0 var:1 buffer:20 | tag: timer (+0) | vl:0 ping:290 tps:11.43 lp:41 component: net.timer
+(20:01:17) PelucheGamPlay failed BadPackets check | (timer) timer modify: 9.223372036854776E15 var:0 buffer:20 | tag: timer (+0) | vl:0 ping:290 tps:11.43 lp:41 component: net.timer
+(20:01:17) PelucheGamPlay failed BadPackets check | (timer) timer modify: 1000.0 var:1 buffer:20 | tag: timer (+0) | vl:0 ping:290 tps:11.43 lp:41 component: net.timer
+(20:01:17) PelucheGamPlay failed BadPackets check | (timer) timer modify: 9.223372036854776E15 var:0 buffer:20 | tag: timer (+0) | vl:0 ping:290 tps:11.43 lp:41 component: net.timer
+(20:01:18) PelucheGamPlay failed BadPackets check | (timer) timer modify: 2.817 var:355 buffer:20 | tag: timer (+0) | vl:0 ping:5484 tps:11.43 lp:52 component: net.timer
+(20:01:18) PelucheGamPlay failed BadPackets check | (timer) timer modify: 9.223372036854776E15 var:0 buffer:20 | tag: timer (+0) | vl:0 ping:5484 tps:11.43 lp:52 component: net.timer
+(20:01:18) PelucheGamPlay failed BadPackets check | (timer) timer modify: 9.223372036854776E15 var:0 buffer:20 | tag: timer (+0) | vl:0 ping:5484 tps:11.43 lp:52 component: net.timer
+(20:01:18) PelucheGamPlay failed BadPackets check | (timer) timer modify: 90.909 var:11 buffer:20 | tag: timer (+0) | vl:0 ping:5484 tps:11.43 lp:52 component: net.timer
+(20:01:18) VAQUEROMEXR24 failed Scaffold check | right click too fast (cps: 708 length: 1043) (+2) | vl:2 ping:112 tps:11.43 lp:16 component: sfd.clk
+(20:01:18) PelucheGamPlay failed BadPackets check | (timer) send 236 moving packets in 1031ms | tag: limit (+0) | vl:0 ping:5484 tps:11.43 lp:52 component: net.timer
+(20:01:19) PelucheGamPlay failed BadPackets check | (timer) timer modify: 1.364 var:733 buffer:20 | tag: timer (+0) | vl:0 ping:5484 tps:11.43 lp:52 component: net.timer
+(20:01:19) VAQUEROMEXR24 failed Scaffold check | right click too fast (cps: 1977 length: 970) (+2) | vl:4 ping:112 tps:11.43 lp:16 component: sfd.clk
+(20:01:19) PelucheGamPlay failed Fly check | suspicious movement:-1.145 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.717 air_t:8 fall_t:1 g:-- tag:gn (+0) | vl:0 ping:5484 tps:11.43 lp:52 component: fly.main
+(20:01:20) VAQUEROMEXR24 failed Scaffold check | right click too fast (cps: 3415 length: 1038) (+2) | vl:6 ping:112 tps:11.43 lp:16 component: sfd.clk
+(20:01:21) VAQUEROMEXR24 failed Scaffold check | right click too fast (cps: 3729 length: 970) (+2) | vl:8 ping:112 tps:11.43 lp:16 component: sfd.clk
+(20:01:23) VAQUEROMEXR24 failed Scaffold check | right click too fast (cps: 3863 length: 992) (+2) | vl:10 ping:112 tps:6.59 lp:16 component: sfd.clk
+(20:01:23) VAQUEROMEXR24 failed Scaffold check | right click too fast (cps: 4966 length: 970) (+2) | vl:12 ping:112 tps:6.59 lp:16 component: sfd.clk
+(20:01:24) Execute command: matrix notify VAQUEROMEXR24 tried to bridge blocks quickly (Scaffold)
+(20:01:42) PelucheGamPlay failed Speed check | suspicious movement (move: 1.021, expect:0.2873, t:0, tag: a) (+0) | vl:0 ping:5484 tps:11.6 lp:31 component: speed.main
+(20:01:42) PelucheGamPlay failed Speed check | suspicious movement (move: 1.021, predict: 0.182, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.052, motion: -1.02,0.0,0.013, attribute: 0.13, tag: pred) (+0) | vl:0 ping:5484 tps:11.6 lp:31 component: move.xz
+(20:01:46) PelucheGamPlay failed Speed check | suspicious movement (move: 1.021, expect:0.2873, t:0, tag: a) (+0) | vl:0 ping:239 tps:9.06 lp:31 component: speed.main
+(20:01:46) PelucheGamPlay failed Speed check | suspicious movement (move: 1.021, predict: 0.182, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.052, motion: -1.02,0.0,0.013, attribute: 0.13, tag: pred) (+0) | vl:0 ping:239 tps:9.06 lp:31 component: move.xz
+(20:01:48) PelucheGamPlay failed Speed check | suspicious movement (move: 0.845, expect:0.2873, t:0, tag: a) (+0) | vl:0 ping:239 tps:11.41 lp:80 component: speed.main
+(20:01:48) PelucheGamPlay failed Speed check | suspicious movement (move: 0.845, predict: 0.18, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.05, motion: -0.845,0.0,0.01, attribute: 0.13, tag: pred) (+0) | vl:0 ping:239 tps:11.41 lp:80 component: move.xz
+(20:01:50) PelucheGamPlay failed Speed check | suspicious movement (move: 0.519, expect:0.2873, t:0, tag: a) (+0) | vl:0 ping:239 tps:11.41 lp:80 component: speed.main
+(20:01:50) PelucheGamPlay failed Speed check | suspicious movement (move: 0.519, predict: 0.237, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.107, motion: -0.519,0.0,0.01, attribute: 0.13, tag: pred) (+0) | vl:0 ping:239 tps:11.41 lp:80 component: move.xz
+(20:01:52) VAQUEROMEXR24 failed BadPackets check | (timer) send 42 moving packets in 1033ms | tag: limit (+0) | vl:0 ping:160 tps:8.82 lp:49 component: net.timer
+(20:01:52) VAQUEROMEXR24 failed BadPackets check | (timer) timer modify: 1.961 var:510 buffer:20 | tag: timer (+0) | vl:0 ping:160 tps:8.82 lp:49 component: net.timer
+(20:01:54) VAQUEROMEXR24 failed BadPackets check | (timer) send 38 moving packets in 1050ms | tag: limit (+0) | vl:0 ping:160 tps:8.82 lp:30 component: net.timer
+(20:01:55) VAQUEROMEXR24 failed BadPackets check | (timer) timer modify: 1.927 var:519 buffer:20 | tag: timer (+0) | vl:0 ping:160 tps:8.82 lp:30 component: net.timer
+(20:01:55) VAQUEROMEXR24 failed BadPackets check | (timer) send 36 moving packets in 1013ms | tag: limit (+0) | vl:0 ping:160 tps:8.82 lp:30 component: net.timer
+(20:01:55) VAQUEROMEXR24 failed BadPackets check | (timer) timer modify: 1.541 var:649 buffer:20 | tag: timer (+0) | vl:0 ping:160 tps:10.13 lp:30 component: net.timer
+(20:02:03) PelucheGamPlay failed Speed check | suspicious movement (move: 0.788, tag: gv-) (+5) | vl:5 ping:239 tps:20.0 lp:17 component: speed.main
+(20:02:03) PelucheGamPlay failed Speed check | suspicious movement (move: 0.788, predict: 0.13, friction: 0.6, ground:true, motY: -0.024, increase:0.13, preMove:0.0, motion: 0.787,-0.024,0.036, attribute: 0.13, tag: pred) (+2) | vl:7 ping:239 tps:20.0 lp:17 component: move.xz
+(20:02:03) PelucheGamPlay failed Interact check | breaking a block without looking at it (block: GRASS_BLOCK) (+1) | vl:1 ping:239 tps:20.0 lp:17 component: interact.break
+(20:02:03) PelucheGamPlay failed Interact check | break block through walls (through: stone, block: grass_block) (+1) | vl:2 ping:239 tps:20.0 lp:17 component: interact.break
+(20:02:05) PelucheGamPlay failed Speed check | suspicious movement (move: 0.574, expect:0.2873, t:0, tag: a) (+2) | vl:9 ping:239 tps:19.91 lp:33 component: speed.main
+(20:02:05) PelucheGamPlay failed Speed check | suspicious movement (move: 0.574, predict: 0.245, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.115, motion: 0.567,0.0,0.085, attribute: 0.13, tag: pred) (+1) | vl:10 ping:239 tps:19.91 lp:33 component: move.xz
+(20:02:43) VAQUEROMEXR24 failed Scaffold check | right click too fast (cps: 6378 length: 80715) (+1) | vl:1 ping:100 tps:20.0 lp:41 component: sfd.clk
+(20:02:55) PelucheGamPlay failed BadPackets check | (timer) send 39 moving packets in 1521ms | tag: limit (+1) | vl:1 ping:435 tps:20.0 lp:40 component: net.timer
+(20:03:01) Zekken_X failed Chat check | chat too fast | delay: 1960 (+1) | vl:1 ping:126 tps:20.0 lp:8 component: chat.delay
+(20:03:06) PelucheGamPlay failed Speed check | suspicious movement (move: 0.658, expect:0.33799999999999997, t:100, tag: a) (+1) | vl:1 ping:435 tps:20.0 lp:37 component: speed.main
+(20:03:06) PelucheGamPlay failed Speed check | suspicious movement (move: 0.658, predict: 0.385, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.05, motion: -0.53,0.0,-0.389, attribute: 0.13, tag: pred) (+1) | vl:2 ping:435 tps:20.0 lp:37 component: move.xz
+(20:03:07) PelucheGamPlay failed Interact check | breaking a block without looking at it (block: DIRT) (+0) | vl:0 ping:435 tps:20.0 lp:37 component: interact.break
+(20:03:07) PelucheGamPlay failed Interact check | break block through walls (through: dirt, block: dirt) (+0) | vl:0 ping:435 tps:20.0 lp:37 component: interact.break
+(20:03:07) PelucheGamPlay failed Speed check | suspicious movement (move: 0.396, expect:0.2873, t:0, tag: a) (+1) | vl:3 ping:435 tps:20.0 lp:37 component: speed.main
+(20:03:08) PelucheGamPlay failed Speed check | suspicious movement (move: 0.396, expect:0.2873, t:0, tag: a) (+1) | vl:4 ping:435 tps:20.0 lp:37 component: speed.main
+(20:03:08) PelucheGamPlay failed Interact check | breaking a block without looking at it (block: DIRT) (+0) | vl:0 ping:435 tps:20.0 lp:37 component: interact.break
+(20:03:08) PelucheGamPlay failed Interact check | break block through walls (through: dirt, block: dirt) (+0) | vl:0 ping:435 tps:20.0 lp:37 component: interact.break
+(20:03:08) PelucheGamPlay failed Speed check | suspicious movement (move: 0.396, expect:0.2873, t:0, tag: a) (+1) | vl:1 ping:435 tps:20.0 lp:52 component: speed.main
+(20:03:08) PelucheGamPlay failed Speed check | suspicious movement (move: 0.396, predict: 0.346, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.216, motion: -0.39,0.0,-0.071, attribute: 0.13, tag: pred) (+1) | vl:2 ping:435 tps:20.0 lp:52 component: move.xz
+(20:03:08) PelucheGamPlay failed Interact check | breaking a block without looking at it (block: DIRT) (+0) | vl:0 ping:435 tps:20.0 lp:52 component: interact.break
+(20:03:08) PelucheGamPlay failed Interact check | break block through walls (through: dirt, block: dirt) (+0) | vl:0 ping:435 tps:20.0 lp:52 component: interact.break
+(20:03:09) PelucheGamPlay failed Interact check | breaking a block without looking at it (block: DIRT) (+0) | vl:0 ping:435 tps:20.0 lp:52 component: interact.break
+(20:03:09) PelucheGamPlay failed Interact check | break block through walls (through: dirt, block: dirt) (+0) | vl:0 ping:435 tps:20.0 lp:52 component: interact.break
+(20:03:09) PelucheGamPlay failed Interact check | breaking a block without looking at it (block: DIRT) (+0) | vl:0 ping:435 tps:20.0 lp:52 component: interact.break
+(20:03:09) PelucheGamPlay failed Interact check | break block through walls (through: dirt, block: dirt) (+0) | vl:0 ping:435 tps:20.0 lp:52 component: interact.break
+(20:03:10) PelucheGamPlay failed Interact check | breaking a block without looking at it (block: DIRT) (+0) | vl:0 ping:435 tps:20.0 lp:52 component: interact.break
+(20:04:23) PelucheGamPlay failed BadPackets check | (timer) send 39 moving packets in 1049ms | tag: limit (+2) | vl:2 ping:244 tps:20.0 lp:36 component: net.timer
+(20:04:23) PelucheGamPlay failed Speed check | suspicious movement (0.377, air_t: 12, lm:0.071, tag: ed) (+3) | vl:3 ping:244 tps:20.0 lp:36 component: speed.main
+(20:04:39) PelucheGamPlay failed BadPackets check | (timer) send 45 moving packets in 1008ms | tag: limit (+2) | vl:2 ping:244 tps:20.0 lp:33 component: net.timer
+(20:04:43) PelucheGamPlay failed BadPackets check | (timer) send 38 moving packets in 995ms | tag: limit (+1) | vl:3 ping:286 tps:20.0 lp:32 component: net.timer
+(20:04:56) PelucheGamPlay failed BadPackets check | (timer) send 37 moving packets in 1028ms | tag: limit (+1) | vl:4 ping:286 tps:20.0 lp:34 component: net.timer
+(20:05:07) PelucheGamPlay failed BadPackets check | (timer) send 38 moving packets in 1010ms | tag: limit (+1) | vl:5 ping:286 tps:20.0 lp:35 component: net.timer
+(20:05:07) PelucheGamPlay failed Speed check | suspicious movement (move: 0.853, expect: 0.3665, tag: ea) (+1) | vl:1 ping:286 tps:20.0 lp:35 component: speed.main
+(20:05:07) PelucheGamPlay failed Speed check | suspicious movement (move: 0.853, predict: 0.285, friction: 0.6, ground:false, motY: -0.682, increase:0.026, preMove:0.259, motion: 0.824,-0.682,-0.221, attribute: 0.13, tag: pred) (+1) | vl:2 ping:286 tps:20.0 lp:35 component: move.xz
+(20:05:07) PelucheGamPlay failed Fly check | suspicious movement:-0.682 predict:-0.152 lm:-0.075 hard_pred:-0.152 sev_pred:-0.228 air_t:7 fall_t:2 g:-- tag:gn (+1) | vl:1 ping:286 tps:20.0 lp:35 component: fly.main
+(20:05:10) PelucheGamPlay failed BadPackets check | (timer) send 42 moving packets in 1035ms | tag: limit (+1) | vl:1 ping:286 tps:20.0 lp:36 component: net.timer
+(20:05:10) PelucheGamPlay failed Speed check | suspicious movement (move: 1.183, expect: 0.429, g_tk:5, tag: b) (+2) | vl:2 ping:286 tps:20.0 lp:36 component: speed.main
+(20:05:10) PelucheGamPlay failed Speed check | suspicious movement (move: 1.183, predict: 0.293, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.163, motion: 1.164,0.0,-0.211, attribute: 0.13, tag: pred) (+1) | vl:3 ping:286 tps:20.0 lp:36 component: move.xz
+(20:05:22) PelucheGamPlay failed Speed check | change direction in mid-air (dist: 0.21, angle:65.435, pre:0.166) (+1) | vl:4 ping:257 tps:20.0 lp:19 component: speed.strafe
+(20:05:49) Zekken_X failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:134 tps:20.0 lp:92 component: interact.through
+(20:06:31) Zekken_X failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:135 tps:19.72 lp:83 component: interact.through
+(20:06:33) Zekken_X failed Interact check | interact block through solid (through: DIORITE, block:CHEST) (+1) | vl:2 ping:135 tps:20.0 lp:142 component: interact.through
+(20:07:10) Zekken_X failed Block check | abort breaking (at: 8943.0,70.0,6019.0, type: grass_block) (+0) | vl:0 ping:141 tps:19.1 lp:167 component: block.abort
+(20:08:36) PelucheGamPlay failed BadPackets check | (timer) send 39 moving packets in 1054ms | tag: limit (+5) | vl:5 ping:231 tps:20.0 lp:14 component: net.timer
+(20:09:22) Zekken_X failed Chat check | send the same chat content (+1) | vl:1 ping:141 tps:12.66 lp:57 component: chat.same
+(20:09:59) xxSaimersxx failed Speed check | t: spin (+2) | vl:2 ping:198 tps:20.0 lp:187 component: speed.spin
+(20:10:01) xxSaimersxx failed Fly check | suspicious movement:0.518 predict:-0.377 vel:-0.447 air_t:4 tag:vt (+1) | vl:1 ping:198 tps:20.0 lp:187 component: fly.main
+(20:11:03) Zekken_X failed Block check | abort breaking (at: 5886.0,73.0,2888.0, type: air) (+0) | vl:0 ping:126 tps:20.0 lp:19 component: block.abort
+(20:12:09) Zekken_X failed Chat check | chat too fast | delay: 1680 (+1) | vl:1 ping:123 tps:20.0 lp:7 component: chat.delay
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.498, expect: 0.429, g_tk:1, tag: b) (+8) | vl:8 ping:109 tps:20.0 lp:16 component: speed.main
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.498, expect: 0.429, g_tk:2, tag: b) (+8) | vl:16 ping:109 tps:20.0 lp:16 component: speed.main
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.498, predict: 0.402, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.272, motion: -0.359,0.0,0.345, attribute: 0.13, tag: pred) (+5) | vl:21 ping:109 tps:20.0 lp:16 component: move.xz
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect: 0.429, g_tk:3, tag: b) (+8) | vl:29 ping:109 tps:20.0 lp:16 component: speed.main
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.402, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.272, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:34 ping:109 tps:20.0 lp:16 component: move.xz
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect: 0.429, g_tk:4, tag: b) (+8) | vl:42 ping:109 tps:20.0 lp:16 component: speed.main
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:47 ping:109 tps:20.0 lp:16 component: move.xz
+(20:12:09) Execute command: matrix notify VAQUEROMEXR24 tried to move faster than usual (Speed) #1
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect: 0.429, g_tk:5, tag: b) (+8) | vl:55 ping:109 tps:20.0 lp:16 component: speed.main
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:60 ping:109 tps:20.0 lp:16 component: move.xz
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect: 0.429, g_tk:6, tag: b) (+8) | vl:68 ping:109 tps:20.0 lp:16 component: speed.main
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:73 ping:109 tps:20.0 lp:16 component: move.xz
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect: 0.429, g_tk:7, tag: b) (+8) | vl:81 ping:109 tps:20.0 lp:16 component: speed.main
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:86 ping:109 tps:20.0 lp:16 component: move.xz
+(20:12:09) Execute command: matrix notify VAQUEROMEXR24 tried to move faster than usual (Speed) #2
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect:0.2873, t:0, tag: a) (+9) | vl:95 ping:109 tps:20.0 lp:16 component: speed.main
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:100 ping:109 tps:20.0 lp:16 component: move.xz
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect:0.2873, t:0, tag: a) (+9) | vl:109 ping:109 tps:18.49 lp:16 component: speed.main
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:114 ping:109 tps:18.49 lp:16 component: move.xz
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect:0.2873, t:0, tag: a) (+9) | vl:123 ping:109 tps:18.49 lp:16 component: speed.main
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:128 ping:109 tps:18.49 lp:16 component: move.xz
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect:0.2873, t:0, tag: a) (+9) | vl:137 ping:109 tps:18.49 lp:16 component: speed.main
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:142 ping:109 tps:18.49 lp:16 component: move.xz
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect:0.2873, t:0, tag: a) (+9) | vl:151 ping:109 tps:18.49 lp:16 component: speed.main
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:156 ping:109 tps:18.49 lp:16 component: move.xz
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect:0.2873, t:0, tag: a) (+9) | vl:165 ping:109 tps:18.49 lp:16 component: speed.main
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:170 ping:109 tps:18.49 lp:16 component: move.xz
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect:0.2873, t:0, tag: a) (+9) | vl:179 ping:109 tps:18.49 lp:16 component: speed.main
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:184 ping:109 tps:18.49 lp:16 component: move.xz
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect:0.2873, t:0, tag: a) (+9) | vl:193 ping:109 tps:18.49 lp:16 component: speed.main
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:198 ping:109 tps:18.49 lp:16 component: move.xz
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect:0.2873, t:0, tag: a) (+9) | vl:207 ping:109 tps:18.49 lp:16 component: speed.main
+(20:12:09) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:212 ping:109 tps:18.49 lp:16 component: move.xz
+(20:12:09) Execute command: matrix kick VAQUEROMEXR24 Speed Hacks
+(20:12:10) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect:0.2873, t:0, tag: a) (+9) | vl:221 ping:109 tps:18.49 lp:16 component: speed.main
+(20:12:10) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:226 ping:109 tps:18.49 lp:16 component: move.xz
+(20:12:10) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect:0.2873, t:0, tag: a) (+9) | vl:235 ping:109 tps:18.49 lp:16 component: speed.main
+(20:12:10) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:240 ping:109 tps:18.49 lp:16 component: move.xz
+(20:12:10) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect:0.2873, t:0, tag: a) (+9) | vl:249 ping:109 tps:18.49 lp:16 component: speed.main
+(20:12:10) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:254 ping:109 tps:18.49 lp:16 component: move.xz
+(20:12:10) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, expect:0.2873, t:0, tag: a) (+9) | vl:263 ping:109 tps:18.49 lp:16 component: speed.main
+(20:12:10) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.527, predict: 0.418, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.288, motion: -0.38,0.0,0.366, attribute: 0.13, tag: pred) (+5) | vl:268 ping:109 tps:18.49 lp:16 component: move.xz
+(20:12:20) PelucheGamPlay failed BadPackets check | (timer) send 39 moving packets in 1001ms | tag: limit (+1) | vl:1 ping:347 tps:20.0 lp:27 component: net.timer
+(20:12:24) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.498, expect:0.49729999999999996, t:0, tag: a) (+9) | vl:9 ping:0 tps:20.0 lp:0 component: speed.main
+(20:12:24) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.498, expect:0.49729999999999996, t:0, tag: a) (+9) | vl:18 ping:0 tps:20.0 lp:0 component: speed.main
+(20:12:24) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.498, expect:0.49729999999999996, t:0, tag: a) (+9) | vl:27 ping:0 tps:20.0 lp:0 component: speed.main
+(20:12:24) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.498, expect:0.49729999999999996, t:0, tag: a) (+9) | vl:36 ping:0 tps:13.32 lp:0 component: speed.main
+(20:12:24) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.498, expect:0.49729999999999996, t:0, tag: a) (+0) | vl:36 ping:0 tps:13.32 lp:0 component: speed.main
+(20:12:24) VAQUEROMEXR24 failed Speed check | suspicious movement (move: 0.498, expect:0.49729999999999996, t:0, tag: a) (+0) | vl:36 ping:0 tps:13.32 lp:0 component: speed.main
+(20:12:35) PelucheGamPlay failed Speed check | suspicious movement (move: 0.628, expect:0.49729999999999996, t:0, tag: a) (+3) | vl:3 ping:347 tps:19.6 lp:23 component: speed.main
+(20:12:35) PelucheGamPlay failed Speed check | suspicious movement (move: 0.628, predict: 0.335, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.0, motion: 0.611,0.0,-0.143, attribute: 0.13, tag: pred) (+1) | vl:4 ping:347 tps:19.6 lp:23 component: move.xz
+(20:12:37) xxSaimersxx failed Block check | abort breaking (at: 8954.0,79.0,6036.0, type: dirt) (+0) | vl:0 ping:107 tps:20.0 lp:274 component: block.abort
+(20:13:01) VAQUEROMEXR24 failed Scaffold check | scaffold | type: simple (+3) | vl:3 ping:91 tps:20.0 lp:15 component: sfd.simple
+(20:13:01) Execute command: matrix notify VAQUEROMEXR24 tried to bridge blocks quickly (Scaffold)
+(20:13:01) VAQUEROMEXR24 failed Scaffold check | direction: 4.69 lkb: grass_block (+4) | vl:7 ping:91 tps:20.0 lp:15 component: sfd.dir
+(20:13:01) VAQUEROMEXR24 failed Scaffold check | scaffold | type: expand | data: x,4328315.0,-0.087 (+3) | vl:10 ping:91 tps:20.0 lp:15 component: sfd.epd
+(20:13:02) Execute command: matrix notify VAQUEROMEXR24 tried to bridge blocks quickly (Scaffold) #2
+(20:13:02) VAQUEROMEXR24 failed Scaffold check | scaffold | type: expand | data: z,-2.2977358E7,0.092 (+3) | vl:13 ping:91 tps:20.0 lp:15 component: sfd.epd
+(20:13:02) VAQUEROMEXR24 failed Scaffold check | scaffold | type: analyser | bridge way: moon walk (?) | 38% faster than expected (+1) | vl:14 ping:91 tps:20.0 lp:15 component: sfd.limit
+(20:13:02) VAQUEROMEXR24 failed Scaffold check | direction: 3.464 lkb: grass (+4) | vl:18 ping:91 tps:20.0 lp:15 component: sfd.dir
+(20:13:02) VAQUEROMEXR24 failed Scaffold check | scaffold | type: analyser | bridge way: moon walk (?) | 62% faster than expected (+1) | vl:19 ping:91 tps:20.0 lp:15 component: sfd.limit
+(20:13:02) VAQUEROMEXR24 failed Scaffold check | direction: 4.123 lkb: grass_block (+4) | vl:23 ping:91 tps:20.0 lp:15 component: sfd.dir
+(20:13:02) Execute command: matrix kick VAQUEROMEXR24 Scaffold/Tower
+(20:13:02) VAQUEROMEXR24 failed Scaffold check | scaffold | type: expand | data: x,4328316.0,-0.046 (+3) | vl:26 ping:91 tps:20.0 lp:15 component: sfd.epd
+(20:13:02) VAQUEROMEXR24 failed Scaffold check | scaffold | type: analyser | bridge way: moon walk (?) | 55% faster than expected (+1) | vl:27 ping:91 tps:20.0 lp:15 component: sfd.limit
+(20:13:02) VAQUEROMEXR24 failed Scaffold check | direction: 4.123 lkb: grass_block (+4) | vl:31 ping:91 tps:20.0 lp:15 component: sfd.dir
+(20:13:12) Zekken_X failed Chat check | chat too fast | delay: 697 (+1) | vl:1 ping:123 tps:20.0 lp:51 component: chat.delay
+(20:13:38) Zekken_X failed Block check | break block with timer (block: stone, point: 200) (+3) | vl:3 ping:125 tps:20.0 lp:4 component: block.fb.timer
+(20:14:51) Zekken_X failed Block check | abort breaking (at: 8957.0,76.0,6041.0, type: air) (+0) | vl:0 ping:128 tps:20.0 lp:3 component: block.abort
+(20:14:53) VAQUEROMEXR24 failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+0) | vl:0 ping:470 tps:20.0 lp:77 component: interact.through
+(20:15:46) xxSaimersxx failed Speed check | t: spin (+1) | vl:1 ping:292 tps:20.0 lp:69 component: speed.spin
+(20:19:22) PelucheGamPlay failed Speed check | suspicious movement (move: 0.628, expect:0.49729999999999996, t:0, tag: a) (+1) | vl:1 ping:264 tps:20.0 lp:58 component: speed.main
+(20:19:22) PelucheGamPlay failed Speed check | suspicious movement (move: 0.628, predict: 0.389, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.054, motion: -0.006,0.0,0.628, attribute: 0.13, tag: pred) (+1) | vl:2 ping:264 tps:20.0 lp:58 component: move.xz
+(20:19:24) PelucheGamPlay failed Speed check | suspicious movement (move: 0.883, expect:0.49729999999999996, t:0, tag: a) (+1) | vl:3 ping:264 tps:20.0 lp:58 component: speed.main
+(20:19:24) PelucheGamPlay failed Speed check | suspicious movement (move: 0.883, predict: 0.396, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.061, motion: 0.018,0.0,0.883, attribute: 0.13, tag: pred) (+1) | vl:4 ping:264 tps:20.0 lp:58 component: move.xz
+(20:19:31) Zekken_X failed Fly check | suspicious movement:-0.525 predict:-0.045 lm:0.034 hard_pred:-0.045 sev_pred:0.0 air_t:5 fall_t:1 g:-- tag:gn (+4) | vl:4 ping:124 tps:20.0 lp:12 component: fly.main
+(20:19:32) Zekken_X failed Fly check | suspicious movement:-0.383 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:-0.075 air_t:2 fall_t:1 g:-- tag:gn (+4) | vl:8 ping:124 tps:19.99 lp:12 component: fly.main
+(20:19:33) Zekken_X failed Fly check | suspicious movement:0.034 predict:-0.078 vel:-0.155 air_t:12 tag:m4 (+9) | vl:17 ping:124 tps:20.0 lp:12 component: fly.main
+(20:19:43) Zekken_X failed Block check | break block with timer (block: stone, point: 253) (+3) | vl:3 ping:124 tps:20.0 lp:6 component: block.fb.timer
+(20:19:45) Zekken_X failed Block check | break block with timer (block: stone, point: 254) (+3) | vl:6 ping:124 tps:20.0 lp:15 component: block.fb.timer
+(20:19:45) PelucheGamPlay failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:1 ping:235 tps:20.0 lp:41 component: interact.break
+(20:19:45) PelucheGamPlay failed Interact check | break block through walls (through: stone, block: stone) (+1) | vl:2 ping:235 tps:20.0 lp:41 component: interact.break
+(20:19:58) Zekken_X failed Block check | break block with timer (block: stone, point: 151) (+3) | vl:9 ping:124 tps:20.0 lp:16 component: block.fb.timer
+(20:20:08) Zekken_X failed Block check | break block with timer (block: stone, point: 229) (+1) | vl:1 ping:122 tps:20.0 lp:37 component: block.fb.timer
+(20:20:15) PelucheGamPlay failed Speed check | suspicious movement (move: 0.516, expect:0.49729999999999996, t:0, tag: a) (+1) | vl:1 ping:445 tps:20.0 lp:29 component: speed.main
+(20:20:15) PelucheGamPlay failed Speed check | suspicious movement (move: 0.516, predict: 0.389, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.054, motion: -0.06,0.0,-0.512, attribute: 0.13, tag: pred) (+1) | vl:2 ping:445 tps:20.0 lp:29 component: move.xz
+(20:20:16) Zekken_X failed Block check | break block with timer (block: stone, point: 299) (+1) | vl:2 ping:122 tps:20.0 lp:83 component: block.fb.timer
+(20:20:17) Zekken_X failed Block check | break block with timer (block: stone, point: 438) (+1) | vl:3 ping:122 tps:20.0 lp:83 component: block.fb.timer
+(20:20:18) Zekken_X failed Block check | break block with timer (block: stone, point: 248) (+1) | vl:4 ping:122 tps:20.0 lp:83 component: block.fb.timer
+(20:20:26) Zekken_X failed Chat check | chat too fast | delay: 2210 (+1) | vl:1 ping:122 tps:20.0 lp:31 component: chat.delay
+(20:20:38) PelucheGamPlay failed Speed check | suspicious movement (move: 2.538, expect:0.49729999999999996, t:0, tag: a) (+1) | vl:1 ping:445 tps:20.0 lp:41 component: speed.main
+(20:20:38) PelucheGamPlay failed Speed check | suspicious movement (move: 2.538, predict: 0.443, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.108, motion: -0.14,0.0,-2.534, attribute: 0.13, tag: pred) (+1) | vl:2 ping:445 tps:20.0 lp:41 component: move.xz
+(20:20:38) PelucheGamPlay failed Speed check | suspicious movement (move: 2.188, predict: 0.335, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.0, motion: -0.2,0.0,-2.179, attribute: 0.13, tag: pred) (+1) | vl:3 ping:445 tps:20.0 lp:41 component: move.xz
+(20:22:48) PelucheGamPlay failed Speed check | suspicious movement (move: 0.676, expect:0.49729999999999996, t:0, tag: a) (+2) | vl:2 ping:237 tps:20.0 lp:52 component: speed.main
+(20:22:48) PelucheGamPlay failed Speed check | suspicious movement (move: 0.676, predict: 0.394, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.059, motion: 0.043,0.0,-0.674, attribute: 0.13, tag: pred) (+1) | vl:3 ping:237 tps:20.0 lp:52 component: move.xz
+(20:22:58) PelucheGamPlay failed Speed check | suspicious movement (move: 2.431, expect:0.49729999999999996, t:0, tag: a) (+2) | vl:5 ping:237 tps:20.0 lp:37 component: speed.main
+(20:22:58) PelucheGamPlay failed Speed check | suspicious movement (move: 2.431, predict: 0.449, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.114, motion: 2.413,0.0,-0.3, attribute: 0.13, tag: pred) (+1) | vl:6 ping:237 tps:20.0 lp:37 component: move.xz
+(20:23:43) PelucheGamPlay failed Speed check | suspicious movement (move: 0.909, expect:0.33799999999999997, t:100, tag: a) (+4) | vl:4 ping:237 tps:20.0 lp:18 component: speed.main
+(20:23:43) PelucheGamPlay failed Speed check | suspicious movement (move: 0.909, predict: 0.384, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.049, motion: -0.431,0.0,0.801, attribute: 0.13, tag: pred) (+2) | vl:6 ping:237 tps:20.0 lp:18 component: move.xz
+(20:23:44) VAQUEROMEXR24 failed BadPackets check | (timer) timer modify: 2.212 var:452 buffer:20 | tag: timer (+10) | vl:10 ping:90 tps:20.0 lp:22 component: net.timer
+(20:23:44) VAQUEROMEXR24 failed BadPackets check | (timer) send 75 moving packets in 1026ms | tag: limit (+10) | vl:20 ping:90 tps:20.0 lp:22 component: net.timer
+(20:23:50) PelucheGamPlay failed Interact check | break block through walls (through: stone, block: stone) (+0) | vl:0 ping:250 tps:19.68 lp:12 component: interact.break
+(20:24:03) PelucheGamPlay failed Speed check | suspicious movement (move: 0.815, expect:0.49729999999999996, t:0, tag: a) (+1) | vl:7 ping:250 tps:20.0 lp:38 component: speed.main
+(20:24:03) PelucheGamPlay failed Speed check | suspicious movement (move: 0.815, predict: 0.384, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.049, motion: -0.49,0.0,0.651, attribute: 0.13, tag: pred) (+1) | vl:8 ping:250 tps:20.0 lp:38 component: move.xz
+(20:24:08) PelucheGamPlay failed Speed check | suspicious movement (move: 1.444, expect:0.49729999999999996, t:0, tag: a) (+1) | vl:9 ping:250 tps:20.0 lp:47 component: speed.main
+(20:24:08) PelucheGamPlay failed Speed check | suspicious movement (move: 1.444, predict: 0.373, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.038, motion: -1.444,0.0,0.002, attribute: 0.13, tag: pred) (+1) | vl:10 ping:250 tps:20.0 lp:47 component: move.xz
+(20:24:28) PelucheGamPlay failed Speed check | suspicious movement (move: 2.647, expect:0.2873, t:0, tag: a) (+1) | vl:1 ping:250 tps:19.99 lp:25 component: speed.main
+(20:24:28) PelucheGamPlay failed Speed check | suspicious movement (move: 2.647, predict: 0.147, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.017, motion: 2.641,0.0,0.171, attribute: 0.13, tag: pred) (+1) | vl:2 ping:250 tps:19.99 lp:25 component: move.xz
+(20:24:30) Zekken_X failed Speed check | suspicious movement (move: 0.26, expect:0.128, t:100, tag: a) (+2) | vl:2 ping:203 tps:19.88 lp:118 component: speed.main
+(20:24:38) PelucheGamPlay failed Speed check | suspicious movement (move: 0.628, expect:0.2873, t:0, tag: a) (+1) | vl:3 ping:250 tps:20.0 lp:37 component: speed.main
+(20:24:38) PelucheGamPlay failed Speed check | suspicious movement (move: 0.628, predict: 0.242, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.112, motion: 0.354,0.0,0.518, attribute: 0.13, tag: pred) (+1) | vl:4 ping:250 tps:20.0 lp:37 component: move.xz
+(20:24:47) VAQUEROMEXR24 failed Block check | abort breaking (at: 4328509.0,58.0,-2.2977696E7, type: water) (+0) | vl:0 ping:140 tps:20.0 lp:15 component: block.abort
+(20:24:53) Zekken_X failed Fly check | suspicious movement:0.336 predict:0.251 vel:-0.155 air_t:12 tag:m4 (+5) | vl:5 ping:203 tps:17.99 lp:8 component: fly.main
+(20:25:12) PelucheGamPlay failed Speed check | suspicious movement (move: 0.702, expect:0.49729999999999996, t:0, tag: a) (+2) | vl:2 ping:223 tps:18.57 lp:58 component: speed.main
+(20:25:12) PelucheGamPlay failed Speed check | suspicious movement (move: 0.702, predict: 0.394, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.059, motion: 0.701,0.0,-0.051, attribute: 0.13, tag: pred) (+1) | vl:3 ping:223 tps:18.57 lp:58 component: move.xz
+(20:25:19) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 416 protocol_ver: 15 (+1) | vl:1 ping:128 tps:20.0 lp:27 component: heal
+(20:25:20) Zekken_X failed Speed check | suspicious movement (move: 0.363, expect:0.33799999999999997, t:23, tag: a) (+4) | vl:4 ping:128 tps:20.0 lp:27 component: speed.main
+(20:25:29) PelucheGamPlay failed Speed check | suspicious movement (move: 0.499, expect:0.49729999999999996, t:0, tag: a) (+0) | vl:3 ping:237 tps:11.54 lp:84 component: speed.main
+(20:25:30) Zekken_X failed Fly check | suspicious movement:0.36 predict:0.303 vel:0.333 air_t:1 tag:vt (+4) | vl:4 ping:139 tps:20.0 lp:8 component: fly.main
+(20:25:30) Zekken_X failed Fly check | suspicious movement:0.36 predict:0.274 air_t:2 tag:sam (+4) | vl:8 ping:139 tps:20.0 lp:8 component: fly.main
+(20:25:30) Zekken_X failed Fly check | suspicious movement:0.36 predict:0.274 vel:0.248 air_t:2 tag:vt (+4) | vl:12 ping:139 tps:20.0 lp:8 component: fly.main
+(20:26:18) Zekken_X failed Block check | abort breaking (at: 9014.0,98.0,6053.0, type: air) (+0) | vl:0 ping:140 tps:20.0 lp:10 component: block.abort
+(20:26:38) Zekken_X failed Elytra check | (elytra) reserve energy: 0.325 dif: 0.001 motion: 0.124 t: 5 (+2) | vl:2 ping:28 tps:19.81 lp:55 component: ely.re
+(20:26:57) Zekken_X failed Block check | break block with timer (block: stone, point: 167) (+4) | vl:4 ping:28 tps:20.0 lp:8 component: block.fb.timer
+(20:27:14) PelucheGamPlay failed Speed check | suspicious movement (move: 0.333, expect:0.2873, t:0, tag: a) (+1) | vl:1 ping:711 tps:20.0 lp:30 component: speed.main
+(20:27:33) PelucheGamPlay failed Speed check | suspicious movement (move: 0.649, expect:0.49729999999999996, t:0, tag: a) (+1) | vl:2 ping:711 tps:20.0 lp:30 component: speed.main
+(20:27:33) PelucheGamPlay failed Speed check | suspicious movement (move: 0.649, predict: 0.442, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.107, motion: -0.094,0.0,0.642, attribute: 0.13, tag: pred) (+1) | vl:3 ping:711 tps:20.0 lp:30 component: move.xz
+(20:27:43) Zekken_X failed Speed check | suspicious movement (move: 0.139, expect:0.128, t:45, tag: a) (+8) | vl:8 ping:142 tps:18.32 lp:11 component: speed.main
+(20:28:08) Zekken_X failed Elytra check | (elytra) reserve energy: 0.431 dif: 0.081 motion: 0.289 t: 128 (+1) | vl:1 ping:123 tps:20.0 lp:5 component: ely.re
+(20:28:23) PelucheGamPlay failed Speed check | suspicious movement (move: 0.675, expect:0.2873, t:0, tag: a) (+2) | vl:2 ping:224 tps:17.57 lp:26 component: speed.main
+(20:28:23) PelucheGamPlay failed Speed check | suspicious movement (move: 0.675, predict: 0.189, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.059, motion: -0.675,0.0,-0.017, attribute: 0.13, tag: pred) (+1) | vl:3 ping:224 tps:17.57 lp:26 component: move.xz
+(20:28:47) Zekken_X failed Block check | break block with timer (block: stone, point: 201) (+3) | vl:3 ping:123 tps:20.0 lp:13 component: block.fb.timer
+(20:29:11) PelucheGamPlay failed Speed check | suspicious movement (move: 0.53, expect:0.2873, t:0, tag: a) (+4) | vl:4 ping:224 tps:20.0 lp:22 component: speed.main
+(20:29:11) PelucheGamPlay failed Speed check | suspicious movement (move: 0.53, predict: 0.184, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.054, motion: -0.271,0.0,0.456, attribute: 0.13, tag: pred) (+2) | vl:6 ping:224 tps:20.0 lp:22 component: move.xz
+(20:29:43) PelucheGamPlay failed Speed check | suspicious movement (move: 0.583, expect:0.33799999999999997, t:82, tag: a) (+4) | vl:4 ping:220 tps:20.0 lp:15 component: speed.main
+(20:29:43) PelucheGamPlay failed Speed check | suspicious movement (move: 0.583, predict: 0.37, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.035, motion: 0.005,0.0,0.583, attribute: 0.13, tag: pred) (+2) | vl:6 ping:220 tps:20.0 lp:15 component: move.xz
+(20:29:45) PelucheGamPlay failed Interact check | breaking a block without looking at it (block: STONE) (+0) | vl:0 ping:251 tps:20.0 lp:15 component: interact.break
+(20:29:45) PelucheGamPlay failed Interact check | break block through walls (through: stone, block: stone) (+0) | vl:0 ping:251 tps:20.0 lp:15 component: interact.break
+(20:29:50) Zekken_X failed Block check | abort breaking (at: 9014.0,96.0,6060.0, type: stone) (+0) | vl:0 ping:141 tps:20.0 lp:12 component: block.abort
+(20:30:06) PelucheGamPlay failed Speed check | suspicious movement (move: 1.216, expect:0.2873, t:0, tag: a) (+3) | vl:9 ping:251 tps:20.0 lp:15 component: speed.main
+(20:30:06) PelucheGamPlay failed Speed check | suspicious movement (move: 1.216, predict: 0.149, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.019, motion: 0.635,0.0,-1.037, attribute: 0.13, tag: pred) (+1) | vl:10 ping:251 tps:20.0 lp:15 component: move.xz
+(20:30:26) Zekken_X failed Block check | abort breaking (at: 9000.0,91.0,6051.0, type: air) (+0) | vl:0 ping:127 tps:20.0 lp:11 component: block.abort
+(20:30:27) Zekken_X failed Block check | break block with timer (block: stone, point: 155) (+3) | vl:3 ping:127 tps:20.0 lp:11 component: block.fb.timer
+(20:30:31) Zekken_X failed Block check | break block with timer (block: stone, point: 152) (+3) | vl:6 ping:126 tps:20.0 lp:8 component: block.fb.timer
+(20:30:58) Zekken_X failed Block check | abort breaking (at: 9009.0,91.0,6068.0, type: air) (+0) | vl:0 ping:126 tps:20.0 lp:6 component: block.abort
+(20:31:07) VAQUEROMEXR24 failed Chat check | chat too fast | delay: 2230 (+1) | vl:1 ping:82 tps:19.98 lp:23 component: chat.delay
+(20:31:19) xxSaimersxx failed Block check | abort breaking (at: 4329387.0,201.0,-2.2978464E7, type: heavy_weighted_pressure_plate) (+0) | vl:0 ping:114 tps:20.0 lp:72 component: block.abort
+(20:31:28) PelucheGamPlay failed Speed check | suspicious movement (move: 0.71, expect:0.2873, t:0, tag: a) (+1) | vl:1 ping:260 tps:20.0 lp:42 component: speed.main
+(20:31:28) PelucheGamPlay failed Speed check | suspicious movement (move: 0.71, predict: 0.213, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.083, motion: -0.012,0.0,-0.71, attribute: 0.13, tag: pred) (+1) | vl:2 ping:260 tps:20.0 lp:42 component: move.xz
+(20:32:03) Zekken_X failed Block check | break block with timer (block: stone, point: 152) (+3) | vl:3 ping:128 tps:20.0 lp:6 component: block.fb.timer
+(20:32:03) Zekken_X failed Block check | break block with timer (block: stone, point: 179) (+3) | vl:6 ping:128 tps:20.0 lp:6 component: block.fb.timer
+(20:32:13) PelucheGamPlay failed Speed check | suspicious movement (move: 1.456, expect:0.2873, t:0, tag: a) (+2) | vl:2 ping:220 tps:20.0 lp:40 component: speed.main
+(20:32:13) PelucheGamPlay failed Speed check | suspicious movement (move: 1.456, predict: 0.179, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.049, motion: -0.047,0.0,1.455, attribute: 0.13, tag: pred) (+1) | vl:3 ping:220 tps:20.0 lp:40 component: move.xz
+(20:32:27) Zekken_X failed Block check | break block with timer (block: stone, point: 199) (+3) | vl:3 ping:128 tps:20.0 lp:10 component: block.fb.timer
+(20:32:47) PelucheGamPlay failed Speed check | suspicious movement (move: 0.727, expect:0.2873, t:0, tag: a) (+2) | vl:2 ping:239 tps:20.0 lp:29 component: speed.main
+(20:32:47) PelucheGamPlay failed Speed check | suspicious movement (move: 0.727, predict: 0.179, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.049, motion: 0.726,0.0,-0.011, attribute: 0.13, tag: pred) (+1) | vl:3 ping:239 tps:20.0 lp:29 component: move.xz
+(20:32:52) PelucheGamPlay failed Speed check | suspicious movement (move: 0.83, expect:0.2873, t:0, tag: a) (+2) | vl:5 ping:239 tps:20.0 lp:29 component: speed.main
+(20:32:52) PelucheGamPlay failed Speed check | suspicious movement (move: 0.83, predict: 0.245, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.115, motion: 0.828,0.0,-0.049, attribute: 0.13, tag: pred) (+1) | vl:6 ping:239 tps:20.0 lp:29 component: move.xz
+(20:32:57) VAQUEROMEXR24 failed Block check | abort breaking (at: -55.0,56.0,-108.0, type: air) (+0) | vl:0 ping:85 tps:20.0 lp:18 component: block.abort
+(20:32:59) Zekken_X failed Fly check | suspicious movement:0.0 predict:-0.228 vel:-0.517 air_t:12 tag:m4 (+4) | vl:4 ping:129 tps:20.0 lp:78 component: fly.main
+(20:33:25) PelucheGamPlay failed Speed check | suspicious movement (move: 1.212, expect:0.2873, t:0, tag: a) (+2) | vl:2 ping:249 tps:20.0 lp:46 component: speed.main
+(20:33:25) PelucheGamPlay failed Speed check | suspicious movement (move: 1.212, predict: 0.239, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.109, motion: -1.077,0.0,-0.557, attribute: 0.13, tag: pred) (+1) | vl:3 ping:249 tps:20.0 lp:46 component: move.xz
+(20:33:27) PelucheGamPlay failed Speed check | suspicious movement (move: 1.159, expect:0.2873, t:0, tag: a) (+2) | vl:5 ping:249 tps:20.0 lp:46 component: speed.main
+(20:33:27) PelucheGamPlay failed Speed check | suspicious movement (move: 1.159, predict: 0.13, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.0, motion: -1.116,0.0,0.313, attribute: 0.13, tag: pred) (+1) | vl:6 ping:249 tps:20.0 lp:46 component: move.xz
+(20:33:29) PelucheGamPlay failed Speed check | suspicious movement (move: 0.315, expect:0.2873, t:0, tag: a) (+4) | vl:10 ping:249 tps:20.0 lp:15 component: speed.main
+(20:33:30) PelucheGamPlay failed Speed check | suspicious movement (move: 1.044, expect:0.2873, t:0, tag: a) (+4) | vl:14 ping:249 tps:20.0 lp:15 component: speed.main
+(20:33:30) PelucheGamPlay failed Speed check | suspicious movement (move: 1.044, predict: 0.183, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.053, motion: 1.044,0.0,0.0, attribute: 0.13, tag: pred) (+2) | vl:16 ping:249 tps:20.0 lp:15 component: move.xz
+(20:33:33) PelucheGamPlay failed Speed check | suspicious movement (move: 0.389, expect:0.2873, t:0, tag: a) (+4) | vl:20 ping:249 tps:20.0 lp:15 component: speed.main
+(20:33:33) PelucheGamPlay failed Speed check | suspicious movement (move: 0.835, expect: 0.3665, tag: ea) (+2) | vl:22 ping:249 tps:20.0 lp:15 component: speed.main
+(20:33:33) PelucheGamPlay failed Speed check | suspicious movement (move: 0.835, predict: 0.097, friction: 0.6, ground:false, motY: -0.505, increase:0.026, preMove:0.071, motion: -0.399,-0.505,-0.733, attribute: 0.13, tag: pred) (+2) | vl:24 ping:249 tps:20.0 lp:15 component: move.xz
+(20:33:33) PelucheGamPlay failed Fly check | suspicious movement:-0.505 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.248 air_t:2 fall_t:1 g:-- tag:gn (+2) | vl:2 ping:249 tps:20.0 lp:15 component: fly.main
+(20:33:48) PelucheGamPlay failed Speed check | suspicious movement (move: 0.911, expect:0.2873, t:0, tag: a) (+2) | vl:2 ping:229 tps:20.0 lp:29 component: speed.main
+(20:33:48) PelucheGamPlay failed Speed check | suspicious movement (move: 0.911, predict: 0.191, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.061, motion: -0.911,0.0,0.013, attribute: 0.13, tag: pred) (+1) | vl:3 ping:229 tps:20.0 lp:29 component: move.xz
+(20:33:50) PelucheGamPlay failed Speed check | suspicious movement (move: 0.385, expect:0.2873, t:0, tag: a) (+2) | vl:5 ping:229 tps:20.0 lp:29 component: speed.main
+(20:34:05) PelucheGamPlay failed Speed check | suspicious movement (move: 0.679, expect:0.2873, t:0, tag: a) (+2) | vl:7 ping:229 tps:20.0 lp:56 component: speed.main
+(20:34:05) PelucheGamPlay failed Speed check | suspicious movement (move: 0.679, predict: 0.151, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.021, motion: -0.06,0.0,-0.676, attribute: 0.13, tag: pred) (+1) | vl:8 ping:229 tps:20.0 lp:56 component: move.xz
+(20:34:07) PelucheGamPlay failed Speed check | suspicious movement (move: 0.574, expect:0.2873, t:0, tag: a) (+2) | vl:10 ping:229 tps:19.82 lp:56 component: speed.main
+(20:34:07) PelucheGamPlay failed Speed check | suspicious movement (move: 0.574, predict: 0.179, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.049, motion: -0.395,0.0,-0.416, attribute: 0.13, tag: pred) (+1) | vl:11 ping:229 tps:19.82 lp:56 component: move.xz
+(20:34:11) PelucheGamPlay failed Speed check | suspicious movement (move: 3.369, expect: 0.429, g_tk:4, tag: b) (+4) | vl:4 ping:229 tps:20.0 lp:37 component: speed.main
+(20:34:11) PelucheGamPlay failed Speed check | suspicious movement (move: 3.369, predict: 0.147, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.017, motion: -2.957,0.0,-1.614, attribute: 0.13, tag: pred) (+1) | vl:5 ping:229 tps:20.0 lp:37 component: move.xz
+(20:34:13) PelucheGamPlay failed Speed check | suspicious movement (move: 0.589, expect:0.2873, t:0, tag: a) (+2) | vl:7 ping:229 tps:20.0 lp:37 component: speed.main
+(20:34:13) PelucheGamPlay failed Speed check | suspicious movement (move: 0.589, predict: 0.243, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.113, motion: 0.027,0.0,-0.588, attribute: 0.13, tag: pred) (+1) | vl:8 ping:229 tps:20.0 lp:37 component: move.xz
+(20:34:21) Zekken_X failed Block check | abort breaking (at: 8993.0,88.0,6056.0, type: stone) (+0) | vl:0 ping:124 tps:20.0 lp:12 component: block.abort
+(20:34:53) PelucheGamPlay failed Speed check | suspicious movement (move: 0.136, expect:0.128, t:14, tag: a) (+4) | vl:4 ping:241 tps:20.0 lp:15 component: speed.main
+(20:35:04) PelucheGamPlay failed Speed check | suspicious movement (move: 2.885, expect:0.49729999999999996, t:0, tag: a) (+2) | vl:6 ping:241 tps:19.69 lp:27 component: speed.main
+(20:35:04) PelucheGamPlay failed Speed check | suspicious movement (move: 2.885, predict: 0.452, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.117, motion: -2.83,0.0,0.56, attribute: 0.13, tag: pred) (+1) | vl:7 ping:241 tps:19.69 lp:27 component: move.xz
+(20:35:15) PelucheGamPlay failed Speed check | suspicious movement (move: 0.508, expect:0.2873, t:0, tag: a) (+2) | vl:2 ping:219 tps:18.85 lp:31 component: speed.main
+(20:35:15) PelucheGamPlay failed Speed check | suspicious movement (move: 0.508, predict: 0.185, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.055, motion: -0.456,0.0,-0.225, attribute: 0.13, tag: pred) (+1) | vl:3 ping:219 tps:18.85 lp:31 component: move.xz
+(20:35:16) PelucheGamPlay failed Speed check | suspicious movement (move: 0.626, expect:0.2873, t:0, tag: a) (+4) | vl:7 ping:219 tps:18.85 lp:22 component: speed.main
+(20:35:16) PelucheGamPlay failed Speed check | suspicious movement (move: 0.626, predict: 0.149, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.019, motion: 0.621,0.0,-0.08, attribute: 0.13, tag: pred) (+2) | vl:9 ping:219 tps:18.85 lp:22 component: move.xz
+(20:35:19) PelucheGamPlay failed Speed check | suspicious movement (move: 1.953, expect:0.49729999999999996, t:0, tag: a) (+4) | vl:13 ping:219 tps:20.0 lp:22 component: speed.main
+(20:35:19) PelucheGamPlay failed Speed check | suspicious movement (move: 1.953, predict: 0.433, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.098, motion: 1.856,0.0,-0.61, attribute: 0.13, tag: pred) (+2) | vl:15 ping:219 tps:20.0 lp:22 component: move.xz
+(20:35:21) PelucheGamPlay failed Speed check | suspicious movement (move: 0.63, expect:0.49729999999999996, t:0, tag: a) (+4) | vl:19 ping:219 tps:20.0 lp:22 component: speed.main
+(20:35:21) PelucheGamPlay failed Speed check | suspicious movement (move: 0.63, predict: 0.438, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.103, motion: 0.119,0.0,-0.619, attribute: 0.13, tag: pred) (+2) | vl:21 ping:219 tps:20.0 lp:22 component: move.xz
+(20:35:29) PelucheGamPlay failed Speed check | suspicious movement (move: 0.592, expect:0.49729999999999996, t:0, tag: a) (+4) | vl:25 ping:219 tps:19.99 lp:16 component: speed.main
+(20:35:29) PelucheGamPlay failed Speed check | suspicious movement (move: 0.592, predict: 0.37, friction: 0.6, ground:true, motY: 0.0, increase:0.335, preMove:0.035, motion: -0.585,0.0,0.088, attribute: 0.13, tag: pred) (+2) | vl:27 ping:219 tps:19.99 lp:16 component: move.xz
+(20:35:51) PelucheGamPlay failed Speed check | suspicious movement (move: 0.713, expect:0.128, t:100, tag: a) (+2) | vl:2 ping:230 tps:20.0 lp:29 component: speed.main
+(20:35:51) PelucheGamPlay failed Speed check | suspicious movement (move: 0.713, predict: 0.169, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.039, motion: 0.019,0.0,-0.713, attribute: 0.13, tag: pred) (+1) | vl:3 ping:230 tps:20.0 lp:29 component: move.xz
+(20:35:56) PelucheGamPlay failed Speed check | suspicious movement (move: 0.811, expect:0.2873, t:0, tag: a) (+2) | vl:5 ping:230 tps:19.94 lp:29 component: speed.main
+(20:35:56) PelucheGamPlay failed Speed check | suspicious movement (move: 0.811, predict: 0.214, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.084, motion: -0.742,0.0,0.327, attribute: 0.13, tag: pred) (+1) | vl:6 ping:230 tps:19.94 lp:29 component: move.xz
+(20:35:58) PelucheGamPlay failed Speed check | suspicious movement (move: 1.01, expect:0.2873, t:0, tag: a) (+4) | vl:10 ping:230 tps:20.0 lp:22 component: speed.main
+(20:35:58) PelucheGamPlay failed Speed check | suspicious movement (move: 1.01, predict: 0.213, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.083, motion: -0.397,0.0,-0.929, attribute: 0.13, tag: pred) (+2) | vl:12 ping:230 tps:20.0 lp:22 component: move.xz
+(20:35:58) xxSaimersxx failed BadPackets check | (timer) send 36 moving packets in 1022ms | tag: limit (+4) | vl:4 ping:141 tps:20.0 lp:42 component: net.timer
+(20:35:58) PelucheGamPlay failed Speed check | suspicious movement (move: 0.503, expect: 0.3665, tag: ea) (+2) | vl:14 ping:230 tps:20.0 lp:22 component: speed.main
+(20:35:58) PelucheGamPlay failed Speed check | suspicious movement (move: 0.503, predict: 0.08, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.054, motion: -0.481,0.0,-0.146, attribute: 0.13, tag: pred) (+2) | vl:16 ping:230 tps:20.0 lp:22 component: move.xz
+(20:36:05) PelucheGamPlay failed Speed check | suspicious movement (move: 0.586, expect:0.2873, t:0, tag: a) (+4) | vl:20 ping:230 tps:19.63 lp:18 component: speed.main
+(20:36:05) PelucheGamPlay failed Speed check | suspicious movement (move: 0.586, predict: 0.165, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.035, motion: -0.047,0.0,-0.584, attribute: 0.13, tag: pred) (+2) | vl:22 ping:230 tps:19.63 lp:18 component: move.xz
+(20:36:05) PelucheGamPlay failed Speed check | suspicious movement (move: 0.57, expect: 0.429, g_tk:4, tag: b) (+4) | vl:26 ping:230 tps:20.0 lp:18 component: speed.main
+(20:36:05) PelucheGamPlay failed Speed check | suspicious movement (move: 0.57, predict: 0.186, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.056, motion: -0.462,0.0,-0.334, attribute: 0.13, tag: pred) (+2) | vl:28 ping:230 tps:20.0 lp:18 component: move.xz
+(20:36:18) PelucheGamPlay failed Speed check | suspicious movement (move: 2.258, expect: 0.6235, tag: c) (+6) | vl:6 ping:896 tps:20.0 lp:11 component: speed.main
+(20:36:18) PelucheGamPlay failed Speed check | suspicious movement (move: 2.258, expect:0.6235, vet: 0.922, tag: d) (+2) | vl:8 ping:896 tps:20.0 lp:11 component: speed.main
+(20:36:18) PelucheGamPlay failed Speed check | suspicious movement (move: 2.258, predict: 0.452, friction: 0.6, ground:true, motY: 0.922, increase:0.335, preMove:0.117, motion: 2.238,0.922,-0.305, attribute: 0.13, tag: pred) (+1) | vl:9 ping:896 tps:20.0 lp:11 component: move.xz
+(20:36:18) PelucheGamPlay failed Speed check | suspicious movement (move: 2.474, expect: 0.429, g_tk:1, tag: b) (+5) | vl:14 ping:896 tps:20.0 lp:15 component: speed.main
+(20:36:18) PelucheGamPlay failed Speed check | suspicious movement (move: 2.474, predict: 0.198, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.068, motion: 1.71,0.0,-1.787, attribute: 0.13, tag: pred) (+1) | vl:15 ping:896 tps:20.0 lp:15 component: move.xz
+(20:36:22) PelucheGamPlay failed Speed check | suspicious movement (move: 2.112, expect:0.2873, t:0, tag: a) (+3) | vl:18 ping:896 tps:19.87 lp:15 component: speed.main
+(20:36:22) PelucheGamPlay failed Speed check | suspicious movement (move: 2.112, predict: 0.248, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.118, motion: 0.571,0.0,-2.033, attribute: 0.13, tag: pred) (+1) | vl:19 ping:896 tps:19.87 lp:15 component: move.xz
+(20:36:30) PelucheGamPlay failed Speed check | suspicious movement (move: 0.95, expect:0.2873, t:0, tag: a) (+3) | vl:22 ping:896 tps:19.67 lp:15 component: speed.main
+(20:36:30) PelucheGamPlay failed Speed check | suspicious movement (move: 0.95, predict: 0.19, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.06, motion: -0.025,0.0,-0.95, attribute: 0.13, tag: pred) (+1) | vl:23 ping:896 tps:19.67 lp:15 component: move.xz
+(20:36:32) PelucheGamPlay failed Speed check | suspicious movement (move: 0.421, expect:0.2873, t:0, tag: a) (+3) | vl:26 ping:896 tps:20.0 lp:15 component: speed.main
+(20:36:34) PelucheGamPlay failed Speed check | suspicious movement (move: 0.373, expect:0.2873, t:0, tag: a) (+3) | vl:29 ping:896 tps:19.76 lp:13 component: speed.main
+(20:36:36) PelucheGamPlay failed Speed check | suspicious movement (move: 1.169, expect: 0.3665, tag: ea) (+6) | vl:35 ping:896 tps:20.0 lp:13 component: speed.main
+(20:36:36) PelucheGamPlay failed Speed check | suspicious movement (move: 1.169, predict: 0.14, friction: 0.6, ground:false, motY: -1.177, increase:0.026, preMove:0.114, motion: -1.012,-1.177,0.586, attribute: 0.13, tag: pred) (+1) | vl:36 ping:896 tps:20.0 lp:13 component: move.xz
+(20:36:39) xxSaimersxx failed Speed check | t: spin (+2) | vl:2 ping:200 tps:20.0 lp:66 component: speed.spin
+(20:37:26) Zekken_X failed Chat check | chat too fast | delay: 1316 (+1) | vl:1 ping:129 tps:20.0 lp:7 component: chat.delay
+(20:37:32) VAQUEROMEXR24 failed Speed check | (sneak) send sneak packet frequently (+1) | vl:1 ping:810 tps:19.87 lp:53 component: speed.noslow.a
+(20:37:32) VAQUEROMEXR24 failed Speed check | (sneak) send sneak packet frequently (+1) | vl:2 ping:810 tps:19.87 lp:53 component: speed.noslow.a
+(20:37:33) VAQUEROMEXR24 failed Speed check | (sneak) send sneak packet frequently (+1) | vl:3 ping:810 tps:20.0 lp:53 component: speed.noslow.a
+(20:37:34) VAQUEROMEXR24 failed Speed check | (sneak) send sneak packet frequently (+1) | vl:4 ping:810 tps:20.0 lp:53 component: speed.noslow.a
+(20:37:42) VAQUEROMEXR24 failed Speed check | (sneak) send sneak packet frequently (+1) | vl:1 ping:810 tps:20.0 lp:119 component: speed.noslow.a
+(20:37:43) VAQUEROMEXR24 failed Speed check | (sneak) send sneak packet frequently (+1) | vl:2 ping:810 tps:20.0 lp:119 component: speed.noslow.a
+(20:38:08) xxSaimersxx failed Chat check | send the same chat content (+1) | vl:1 ping:206 tps:20.0 lp:217 component: chat.same
+(20:39:16) Zekken_X failed FastUse check | fast use (+1) | vl:1 ping:26 tps:18.38 lp:194 component: fastuse
+(20:41:03) 3lk1n456 failed Chat check | chat too fast | delay: 1808 (+1) | vl:1 ping:154 tps:20.0 lp:119 component: chat.delay
+(20:41:14) 3lk1n456 failed Chat check | send the same chat content (+1) | vl:1 ping:139 tps:20.0 lp:119 component: chat.same
+(20:41:21) Zekken_X failed Phase check | moved into block (block: dark_oak_door, move: -0.256,0.0,0.107, at: 4329633.252,64.0,-2.29783953E7, dist: 0.277, block_collisions: {minX=4329632.0, minY=64.0, minZ=-2.29783951875E7, maxX=4329633.0, maxY=65.0, maxZ=-2.2978395E7}, high: 64.0, loop: false, async) (+1) | vl:1 ping:123 tps:18.44 lp:85 component: phase.main
+(20:41:26) 3lk1n456 failed Chat check | send the same chat content (+1) | vl:2 ping:139 tps:6.6 lp:58 component: chat.same
+(20:41:27) Zekken_X failed Phase check | moved into block (block: dark_oak_door, move: 0.097,0.0,0.038, at: 4329631.797,64.0,-2.2978395488E7, dist: 0.105, block_collisions: {minX=4329632.0, minY=64.0, minZ=-2.2978396E7, maxX=4329632.1875, maxY=65.0, maxZ=-2.2978395E7}, high: 64.0, loop: false, async) (+0) | vl:1 ping:123 tps:6.6 lp:11 component: phase.main
+(20:41:45) Zekken_X failed Fly check | suspicious movement:0.249 predict:0.165 air_t:2 tag:sam (+2) | vl:2 ping:138 tps:18.5 lp:33 component: fly.main
+(20:41:48) Zekken_X failed Block check | abort breaking (at: 4329632.0,6.0,-2.2978396E7, type: cobweb) (+0) | vl:0 ping:138 tps:20.0 lp:8 component: block.abort
+(20:41:56) Zekken_X failed Speed check | fast web | 0.087 | tag: b (+0) | vl:0 ping:138 tps:20.0 lp:24 component: speed.web
+(20:41:56) Zekken_X failed Block check | abort breaking (at: 4329632.0,6.0,-2.2978396E7, type: cobweb) (+0) | vl:0 ping:138 tps:20.0 lp:24 component: block.abort
+(20:41:56) Zekken_X failed Block check | break block too fast (digs: 10/40, hardness: 4.0, block: cobweb) (+3) | vl:3 ping:138 tps:20.0 lp:24 component: block.fastbreak.expect
+(20:42:09) Zekken_X failed Block check | break block with timer (block: cobweb, point: 210) (+1) | vl:4 ping:126 tps:20.0 lp:26 component: block.fb.timer
+(20:42:19) Zekken_X failed Block check | abort breaking (at: 4329632.0,5.0,-2.2978396E7, type: air) (+0) | vl:0 ping:126 tps:20.0 lp:44 component: block.abort
+(20:42:22) VAQUEROMEXR24 failed BadPackets check | (timer) timer modify: 3.968 var:252 buffer:20 | tag: timer (+5) | vl:5 ping:93 tps:20.0 lp:35 component: net.timer
+(20:42:22) VAQUEROMEXR24 failed BadPackets check | (timer) send 82 moving packets in 1011ms | tag: limit (+5) | vl:10 ping:93 tps:20.0 lp:35 component: net.timer
+(20:43:47) Zekken_X failed Elytra check | (elytra) more energy: 0.309 dif: 0.2 motion: -0.144 ratio: 1.391 (+2) | vl:2 ping:123 tps:20.0 lp:13 component: ely.me
+(20:43:49) VAQUEROMEXR24 failed HitBox check | attack entity too far way (entity: squid, distance: 5.021) (+3) | vl:3 ping:100 tps:20.0 lp:19 component: hb.sip
+(20:44:03) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 418 protocol_ver: 15 (+1) | vl:1 ping:126 tps:20.0 lp:4 component: heal
+(20:44:04) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 410 protocol_ver: 15 (+1) | vl:2 ping:126 tps:20.0 lp:4 component: heal
+(20:44:04) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 427 protocol_ver: 15 (+1) | vl:3 ping:126 tps:20.0 lp:4 component: heal
+(20:46:14) 3lk1n456 failed FastHeal check | regen health too fast | difficulty: 1 delay: 398 protocol_ver: 15 (+1) | vl:1 ping:695 tps:20.0 lp:54 component: heal
+(20:46:14) 3lk1n456 failed FastHeal check | regen health too fast | difficulty: 1 delay: 403 protocol_ver: 15 (+1) | vl:2 ping:695 tps:20.0 lp:54 component: heal
+(20:46:15) 3lk1n456 failed FastHeal check | regen health too fast | difficulty: 1 delay: 372 protocol_ver: 15 (+1) | vl:3 ping:695 tps:20.0 lp:54 component: heal
+(20:46:15) 3lk1n456 failed FastHeal check | regen health too fast | difficulty: 1 delay: 375 protocol_ver: 15 (+1) | vl:4 ping:695 tps:20.0 lp:54 component: heal
+(20:46:15) 3lk1n456 failed FastHeal check | regen health too fast | difficulty: 1 delay: 365 protocol_ver: 15 (+1) | vl:5 ping:695 tps:20.0 lp:54 component: heal
+(20:46:16) 3lk1n456 failed FastHeal check | regen health too fast | difficulty: 1 delay: 416 protocol_ver: 15 (+1) | vl:6 ping:695 tps:20.0 lp:54 component: heal
+(20:46:16) 3lk1n456 failed FastHeal check | regen health too fast | difficulty: 1 delay: 385 protocol_ver: 15 (+1) | vl:7 ping:695 tps:20.0 lp:54 component: heal
+(20:49:08) 3lk1n456 failed Block check | abort breaking (at: 4329315.0,67.0,-2.2978457E7, type: air) (+0) | vl:0 ping:140 tps:20.0 lp:69 component: block.abort
+(20:50:24) Zekken_X failed Elytra check | (elytra) reserve energy: 0.042 dif: 0.001 motion: 0.076 t: 4 (+1) | vl:1 ping:131 tps:20.0 lp:5 component: ely.re
+(20:50:42) PelucheGamPlay failed BadPackets check | (timer) send 39 moving packets in 1015ms | tag: limit (+5) | vl:5 ping:244 tps:20.0 lp:18 component: net.timer
+(20:51:52) PelucheGamPlay failed Speed check | sprint with weird direction (dist: 0.234, angle:108.375) (+1) | vl:1 ping:414 tps:20.0 lp:21 component: speed.sprint
+(20:51:52) PelucheGamPlay failed Speed check | sprint with weird direction (dist: 0.268, angle:122.557) (+1) | vl:2 ping:414 tps:20.0 lp:21 component: speed.sprint
+(20:51:52) PelucheGamPlay failed Speed check | sprint with weird direction (dist: 0.276, angle:124.852) (+1) | vl:3 ping:414 tps:20.0 lp:21 component: speed.sprint
+(20:51:52) PelucheGamPlay failed Speed check | sprint with weird direction (dist: 0.281, angle:126.048) (+1) | vl:4 ping:414 tps:20.0 lp:21 component: speed.sprint
+(20:51:52) PelucheGamPlay failed Speed check | sprint with weird direction (dist: 0.283, angle:126.685) (+1) | vl:5 ping:414 tps:20.0 lp:21 component: speed.sprint
+(20:51:52) PelucheGamPlay failed Speed check | sprint with weird direction (dist: 0.285, angle:127.027) (+1) | vl:6 ping:414 tps:20.0 lp:21 component: speed.sprint
+(20:51:52) PelucheGamPlay failed Speed check | sprint with weird direction (dist: 0.285, angle:127.213) (+1) | vl:7 ping:414 tps:20.0 lp:21 component: speed.sprint
+(20:52:29) Zekken_X failed Block check | abort breaking (at: 8754.0,39.0,6141.0, type: cobweb) (+0) | vl:0 ping:121 tps:20.0 lp:55 component: block.abort
+(20:52:36) VAQUEROMEXR24 failed Chat check | chat too fast | delay: 2826 (+1) | vl:1 ping:86 tps:20.0 lp:37 component: chat.delay
+(20:53:12) 3lk1n456 failed Block check | abort breaking (at: 4329298.0,67.0,-2.2978452E7, type: air) (+0) | vl:0 ping:132 tps:18.21 lp:33 component: block.abort
+(20:53:22) xxSaimersxx failed Speed check | t: spin (+2) | vl:2 ping:186 tps:20.0 lp:180 component: speed.spin
+(20:53:27) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 373 protocol_ver: 15 (+1) | vl:1 ping:201 tps:20.0 lp:41 component: heal
+(20:53:27) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 369 protocol_ver: 15 (+1) | vl:2 ping:201 tps:20.0 lp:41 component: heal
+(20:53:27) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 365 protocol_ver: 15 (+1) | vl:3 ping:201 tps:20.0 lp:41 component: heal
+(20:53:28) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 342 protocol_ver: 15 (+1) | vl:4 ping:201 tps:20.0 lp:41 component: heal
+(20:53:29) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 434 protocol_ver: 15 (+1) | vl:5 ping:201 tps:20.0 lp:41 component: heal
+(20:53:29) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 353 protocol_ver: 15 (+1) | vl:6 ping:201 tps:20.0 lp:41 component: heal
+(20:53:30) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 345 protocol_ver: 15 (+1) | vl:7 ping:201 tps:20.0 lp:41 component: heal
+(20:53:30) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 359 protocol_ver: 15 (+1) | vl:8 ping:201 tps:20.0 lp:41 component: heal
+(20:53:30) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 419 protocol_ver: 15 (+1) | vl:9 ping:201 tps:20.0 lp:41 component: heal
+(20:53:31) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 358 protocol_ver: 15 (+1) | vl:1 ping:201 tps:20.0 lp:41 component: heal
+(20:53:31) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 443 protocol_ver: 15 (+1) | vl:2 ping:127 tps:20.0 lp:41 component: heal
+(20:53:31) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 352 protocol_ver: 15 (+1) | vl:3 ping:127 tps:20.0 lp:41 component: heal
+(20:53:32) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 364 protocol_ver: 15 (+1) | vl:4 ping:127 tps:20.0 lp:41 component: heal
+(20:53:32) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 355 protocol_ver: 15 (+1) | vl:5 ping:127 tps:20.0 lp:41 component: heal
+(20:53:33) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 360 protocol_ver: 15 (+1) | vl:6 ping:127 tps:20.0 lp:41 component: heal
+(20:53:33) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 399 protocol_ver: 15 (+1) | vl:7 ping:127 tps:20.0 lp:41 component: heal
+(20:53:33) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 362 protocol_ver: 15 (+1) | vl:8 ping:127 tps:20.0 lp:41 component: heal
+(20:53:34) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 417 protocol_ver: 15 (+1) | vl:9 ping:127 tps:20.0 lp:41 component: heal
+(20:53:34) Execute command: matrix notify Zekken_X tried to regain health too quickly (FastHeal)
+(20:53:34) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 357 protocol_ver: 15 (+1) | vl:10 ping:127 tps:20.0 lp:41 component: heal
+(20:53:34) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 348 protocol_ver: 15 (+1) | vl:11 ping:127 tps:20.0 lp:41 component: heal
+(20:53:35) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 367 protocol_ver: 15 (+1) | vl:12 ping:127 tps:20.0 lp:41 component: heal
+(20:54:48) Zekken_X failed FastUse check | fast use (+1) | vl:1 ping:122 tps:20.0 lp:25 component: fastuse
+(20:55:37) xxSaimersxx failed Fly check | suspicious movement:-0.103 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.078 air_t:7 fall_t:3 g:-- tag:gn (+1) | vl:1 ping:1342 tps:20.0 lp:83 component: fly.main
+(20:56:33) Zekken_X failed FastHeal check | regen health too fast | difficulty: 1 delay: 434 protocol_ver: 15 (+1) | vl:1 ping:130 tps:20.0 lp:10 component: heal
+(20:57:46) VAQUEROMEXR24 failed Scaffold check | scaffold | type: simple (+1) | vl:1 ping:86 tps:20.0 lp:122 component: sfd.simple
+(20:59:13) xxSaimersxx failed Speed check | t: spin (+4) | vl:4 ping:175 tps:20.0 lp:80 component: speed.spin
+(20:59:56) 3lk1n456 failed Block check | abort breaking (at: 4329349.0,199.0,-2.2978442E7, type: cobblestone) (+0) | vl:0 ping:145 tps:20.0 lp:19 component: block.abort
+(21:00:54) xxSaimersxx failed Speed check | t: spin (+2) | vl:2 ping:235 tps:20.0 lp:127 component: speed.spin
+(21:09:54) xxSaimersxx failed Speed check | t: spin (+2) | vl:2 ping:221 tps:20.0 lp:61 component: speed.spin
+(21:12:30) xxSaimersxx failed Chat check | send the same chat content (+1) | vl:1 ping:4077 tps:20.0 lp:126 component: chat.same
+(21:14:24) Zekken_X failed Scaffold check | direction: 3.0 lkb: stone (+3) | vl:3 ping:134 tps:20.0 lp:14 component: sfd.dir
+(21:15:05) Zekken_X failed Scaffold check | scaffold | type: analyser | bridge way: moon walk (?) | 3% faster than expected (+1) | vl:1 ping:142 tps:19.97 lp:23 component: sfd.limit
+(21:15:25) VAQUEROMEXR24 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:103 tps:20.0 lp:10 component: interact.through
+(21:15:36) VAQUEROMEXR24 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:2 ping:82 tps:20.0 lp:127 component: interact.through
+(21:15:49) VAQUEROMEXR24 failed Scaffold check | scaffold | type: simple (+1) | vl:1 ping:82 tps:20.0 lp:58 component: sfd.simple
+(21:25:38) Zekken_X failed BadPackets check | (timer) send 44 moving packets in 1005ms | tag: limit (+9) | vl:9 ping:135 tps:20.0 lp:18 component: net.timer
+(21:25:41) Zekken_X failed BadPackets check | (timer) send 37 moving packets in 1018ms | tag: limit (+4) | vl:13 ping:135 tps:20.0 lp:34 component: net.timer
+(21:29:25) VAQUEROMEXR24 failed Speed check | t: spin (+10) | vl:10 ping:110 tps:20.0 lp:15 component: speed.spin
+(21:33:47) VAQUEROMEXR24 failed Block check | abort breaking (at: 4327830.0,61.0,-2.297622E7, type: water) (+0) | vl:0 ping:102 tps:20.0 lp:41 component: block.abort
+(21:33:47) VAQUEROMEXR24 failed KillAura check | post attack: 0 (+1) | vl:1 ping:102 tps:20.0 lp:41 component: ka.post
+(21:33:48) VAQUEROMEXR24 failed KillAura check | post attack: 7 (+1) | vl:2 ping:102 tps:20.0 lp:41 component: ka.post
+(21:33:49) VAQUEROMEXR24 failed Block check | abort breaking (at: 4327833.0,59.0,-2.297622E7, type: dirt) (+0) | vl:0 ping:102 tps:20.0 lp:41 component: block.abort
+(21:33:50) VAQUEROMEXR24 failed Block check | abort breaking (at: 4327834.0,59.0,-2.297622E7, type: dirt) (+0) | vl:0 ping:102 tps:19.76 lp:41 component: block.abort
+(21:33:53) VAQUEROMEXR24 failed KillAura check | post attack: 0 (+1) | vl:1 ping:102 tps:20.0 lp:91 component: ka.post
+(21:33:53) VAQUEROMEXR24 failed HitBox check | missed entity hitbox (entity: squid, offset: 1.617) (+1) | vl:1 ping:102 tps:20.0 lp:91 component: hb.mis
+(21:33:54) VAQUEROMEXR24 failed KillAura check | post attack: 1 (+1) | vl:2 ping:102 tps:20.0 lp:91 component: ka.post
+(21:34:55) VAQUEROMEXR24 failed HitBox check | missed entity hitbox (entity: squid, offset: 2.501) (+1) | vl:1 ping:1126 tps:20.0 lp:79 component: hb.mis
+(21:34:56) VAQUEROMEXR24 failed HitBox check | missed entity hitbox (entity: squid, offset: 3.661) (+1) | vl:2 ping:1126 tps:20.0 lp:79 component: hb.mis
+(21:34:58) VAQUEROMEXR24 failed HitBox check | missed entity hitbox (entity: squid, offset: 3.84) (+1) | vl:3 ping:1971 tps:20.0 lp:79 component: hb.mis
+(21:35:26) VAQUEROMEXR24 failed Block check | abort breaking (at: 4327811.0,61.0,-2.2976231E7, type: dirt) (+0) | vl:0 ping:97 tps:19.08 lp:46 component: block.abort
+(21:42:17) VAQUEROMEXR24 failed Speed check | (sneak) send sneak packet frequently (+1) | vl:1 ping:5785 tps:20.0 lp:211 component: speed.noslow.a
+(21:42:18) VAQUEROMEXR24 failed Speed check | (sneak) send sneak packet frequently (+1) | vl:2 ping:5785 tps:20.0 lp:211 component: speed.noslow.a
+(21:42:27) VAQUEROMEXR24 failed BadPackets check | (timer) timer modify: 1.852 var:540 buffer:20 | tag: timer (+1) | vl:1 ping:5785 tps:20.0 lp:71 component: net.timer
+(21:42:27) VAQUEROMEXR24 failed BadPackets check | (timer) send 82 moving packets in 1084ms | tag: limit (+1) | vl:2 ping:5785 tps:20.0 lp:71 component: net.timer
+(21:42:27) VAQUEROMEXR24 failed BadPackets check | (timer) timer modify: 1.808 var:553 buffer:20 | tag: timer (+1) | vl:3 ping:5785 tps:20.0 lp:71 component: net.timer
+(21:47:14) VAQUEROMEXR24 failed Scaffold check | scaffold | type: simple (+1) | vl:1 ping:89 tps:20.0 lp:157 component: sfd.simple
+(21:53:42) VAQUEROMEXR24 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+0) | vl:0 ping:857 tps:20.0 lp:106 component: interact.through
+(22:04:02) VAQUEROMEXR24 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 1.332) (+1) | vl:1 ping:437 tps:20.0 lp:35 component: hb.mis
+(22:04:06) VAQUEROMEXR24 failed HitBox check | missed entity hitbox (entity: creeper, offset: 1.401) (+1) | vl:2 ping:437 tps:20.0 lp:70 component: hb.mis
+(22:04:08) VAQUEROMEXR24 failed Interact check | interact block through solid (through: STONE, block:CHEST) (+0) | vl:0 ping:437 tps:20.0 lp:70 component: interact.through
+(22:04:29) VAQUEROMEXR24 failed Block check | abort breaking (at: 4328137.0,22.0,-2.2977064E7, type: mossy_cobblestone) (+0) | vl:0 ping:112 tps:20.0 lp:99 component: block.abort
+(22:04:53) VAQUEROMEXR24 failed Speed check | (sneak) send sneak packet frequently (+1) | vl:1 ping:112 tps:19.99 lp:79 component: speed.noslow.a
+(22:04:54) VAQUEROMEXR24 failed Speed check | (sneak) send sneak packet frequently (+1) | vl:2 ping:112 tps:20.0 lp:79 component: speed.noslow.a
+(22:04:55) VAQUEROMEXR24 failed Speed check | (sneak) send sneak packet frequently (+1) | vl:3 ping:112 tps:20.0 lp:79 component: speed.noslow.a
+(22:04:56) VAQUEROMEXR24 failed Speed check | (sneak) send sneak packet frequently (+1) | vl:4 ping:112 tps:19.97 lp:79 component: speed.noslow.a
+(22:05:17) VAQUEROMEXR24 failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+0) | vl:0 ping:903 tps:20.0 lp:96 component: interact.through
+(22:06:28) VAQUEROMEXR24 failed Speed check | t: spin (+5) | vl:5 ping:99 tps:20.0 lp:207 component: speed.spin
+(22:10:45) VAQUEROMEXR24 failed Speed check | fast climb | 0.268 > 0.118 / 17 (+5) | vl:5 ping:85 tps:20.0 lp:21 component: speed.ladder
+(22:10:45) VAQUEROMEXR24 failed Speed check | fast climb | 0.15 > 0.118 / 19 (+5) | vl:10 ping:85 tps:20.0 lp:21 component: speed.ladder
+(22:12:30) VAQUEROMEXR24 failed BadPackets check | (timer) send 52 moving packets in 1622ms | tag: limit (+9) | vl:9 ping:127 tps:20.0 lp:20 component: net.timer
+(22:12:40) VAQUEROMEXR24 failed Chat check | chat too fast | delay: 2331 (+1) | vl:1 ping:127 tps:20.0 lp:37 component: chat.delay
+(22:16:58) VAQUEROMEXR24 failed Speed check | (toggle) send release use item packet frequently (+1) | vl:1 ping:786 tps:20.0 lp:52 component: speed.noslow.toggle
+(22:18:15) VAQUEROMEXR24 failed Chat check | chat too fast | delay: 2040 (+1) | vl:1 ping:95 tps:20.0 lp:160 component: chat.delay
+(22:44:23) VAQUEROMEXR24 failed Fly check | suspicious movement:-0.078 predict:-1.355 lm:-1.303 hard_pred:-1.355 sev_pred:-3.005 air_t:12 fall_t:21 g:-- tag:gn (+5) | vl:5 ping:0 tps:20.0 lp:0 component: fly.main
+(22:48:00) PelucheGamPlay failed Speed check | sprint with weird direction (dist: 0.259, angle:127.729) (+1) | vl:1 ping:264 tps:20.0 lp:40 component: speed.sprint
+(22:48:17) PelucheGamPlay failed Speed check | suspicious movement (move: 0.288, expect:0.2873, t:0, tag: a) (+3) | vl:4 ping:264 tps:20.0 lp:23 component: speed.main
+(22:50:14) VAQUEROMEXR24 failed Block check | break block with timer (block: spawner, point: 244) (+4) | vl:4 ping:0 tps:20.0 lp:0 component: block.fb.timer
+(22:51:36) VAQUEROMEXR24 failed KillAura check | post attack: 0 (+1) | vl:1 ping:109 tps:20.0 lp:56 component: ka.post
+(22:51:52) PelucheGamPlay failed Speed check | suspicious movement (move: 0.288, expect:0.2873, t:0, tag: a) (+1) | vl:1 ping:576 tps:20.0 lp:54 component: speed.main
+(22:52:01) PelucheGamPlay failed BadPackets check | (timer) send 45 moving packets in 1055ms | tag: limit (+3) | vl:3 ping:576 tps:20.0 lp:17 component: net.timer
+(22:52:21) PelucheGamPlay failed Speed check | suspicious movement (move: 0.487, expect: 0.469, g_tk:1, tag: b) (+2) | vl:3 ping:254 tps:20.0 lp:18 component: speed.main
+(22:53:46) PelucheGamPlay failed Interact check | interact block through solid (through: DIRT, block:FURNACE) (+0) | vl:0 ping:272 tps:20.0 lp:29 component: interact.through
+(22:59:21) VAQUEROMEXR24 failed BadPackets check | (timer) timer modify: 5.208 var:192 buffer:20 | tag: timer (+5) | vl:5 ping:87 tps:20.0 lp:35 component: net.timer
+(22:59:21) VAQUEROMEXR24 failed BadPackets check | (timer) send 83 moving packets in 1063ms | tag: limit (+5) | vl:5 ping:87 tps:20.0 lp:35 component: net.timer
+(23:00:43) PelucheGamPlay failed BadPackets check | (timer) send 36 moving packets in 996ms | tag: limit (+1) | vl:1 ping:733 tps:20.0 lp:66 component: net.timer
+(23:01:01) VAQUEROMEXR24 failed Fly check | step | p: 1 | m:1.0784000015258783 ev:-0.155 lm:0.99 (+2) | vl:2 ping:374 tps:20.0 lp:89 component: speed.step
+(23:01:05) VAQUEROMEXR24 failed Fly check | step | p: 1 | m:1.0784000015258783 ev:0.248 lm:0.99 (+2) | vl:4 ping:374 tps:20.0 lp:95 component: speed.step
+(23:03:20) VAQUEROMEXR24 failed Block check | break block with timer (block: spawner, point: 388) (+2) | vl:2 ping:99 tps:18.29 lp:50 component: block.fb.timer
+(23:05:15) PelucheGamPlay failed Speed check | sprint with weird direction (dist: 0.236, angle:108.657) (+1) | vl:1 ping:249 tps:20.0 lp:32 component: speed.sprint
+(23:05:16) PelucheGamPlay failed BadPackets check | (timer) send 43 moving packets in 1040ms | tag: limit (+2) | vl:2 ping:249 tps:20.0 lp:32 component: net.timer
+(23:09:07) PelucheGamPlay failed Speed check | suspicious movement (move: 0.137, expect:0.128, t:17, tag: a) (+1) | vl:1 ping:263 tps:20.0 lp:26 component: speed.main
+(23:10:32) PelucheGamPlay failed BadPackets check | (timer) send 55 moving packets in 1023ms | tag: limit (+5) | vl:5 ping:235 tps:20.0 lp:24 component: net.timer
+(23:10:32) PelucheGamPlay failed Speed check | suspicious movement (move: 1.502, expect: 0.7035, tag: c) (+9) | vl:9 ping:235 tps:20.0 lp:24 component: speed.main
+(23:10:32) PelucheGamPlay failed Speed check | suspicious movement (move: 1.502, predict: 0.494, friction: 0.6, ground:true, motY: 2.001, increase:0.335, preMove:0.159, motion: -1.106,2.001,-1.016, attribute: 0.13, tag: pred) (+2) | vl:11 ping:235 tps:20.0 lp:24 component: move.xz
+(23:10:32) PelucheGamPlay failed Fly check | step | p: 1 | m:2.0013359791121417 ev:0.42 lm:0.99 (+4) | vl:4 ping:235 tps:20.0 lp:24 component: speed.step
+(23:10:52) PelucheGamPlay failed BadPackets check | (timer) send 48 moving packets in 1014ms | tag: limit (+5) | vl:5 ping:235 tps:20.0 lp:18 component: net.timer
+(23:10:52) PelucheGamPlay failed Speed check | suspicious movement (move: 4.636, expect: 0.3665, tag: ea) (+10) | vl:10 ping:235 tps:20.0 lp:18 component: speed.main
+(23:10:52) PelucheGamPlay failed Speed check | suspicious movement (move: 4.636, predict: 0.357, friction: 0.6, ground:false, motY: 1.829, increase:0.026, preMove:0.331, motion: -1.525,1.829,-4.378, attribute: 0.13, tag: pred) (+2) | vl:12 ping:235 tps:20.0 lp:18 component: move.xz
+(23:10:52) PelucheGamPlay failed Fly check | step | p: 1 | m:1.8291870918577047 ev:-0.155 lm:0.99 (+4) | vl:4 ping:235 tps:20.0 lp:18 component: speed.step
+(23:10:52) PelucheGamPlay failed Fly check | step | p:4 (+1) | vl:5 ping:235 tps:20.0 lp:18 component: speed.step
+(23:10:52) PelucheGamPlay failed Fly check | suspicious movement:1.829 predict:0.333 vel:-0.155 air_t:1 tag:vt (+2) | vl:7 ping:235 tps:20.0 lp:18 component: fly.main
+(23:14:14) PelucheGamPlay failed BadPackets check | (timer) send 42 moving packets in 1086ms | tag: limit (+1) | vl:1 ping:6450 tps:20.0 lp:42 component: net.timer
+(23:14:14) PelucheGamPlay failed Speed check | suspicious movement (move: 2.579, predict: 0.297, friction: 0.6, ground:false, motY: 1.131, increase:0.026, preMove:0.271, motion: -2.579,1.131,0.016, attribute: 0.13, tag: pred) (+1) | vl:1 ping:6450 tps:20.0 lp:42 component: move.xz
+(23:14:14) PelucheGamPlay failed Fly check | step | p: 1 | m:1.130906499714527 ev:-0.155 lm:0.99 (+2) | vl:2 ping:6450 tps:20.0 lp:42 component: speed.step
+(23:16:05) PelucheGamPlay failed Speed check | suspicious movement (move: 0.261, expect:0.16, t:5, tag: a) (+4) | vl:4 ping:244 tps:20.0 lp:15 component: speed.main
+(23:18:03) PelucheGamPlay failed BadPackets check | (timer) send 63 moving packets in 1011ms | tag: limit (+2) | vl:2 ping:232 tps:20.0 lp:37 component: net.timer
+(23:18:03) PelucheGamPlay failed Speed check | suspicious movement (move: 1.44, expect: 0.3665, tag: ea) (+5) | vl:5 ping:232 tps:20.0 lp:37 component: speed.main
+(23:18:03) PelucheGamPlay failed Speed check | suspicious movement (move: 1.44, predict: 0.182, friction: 0.6, ground:false, motY: -0.729, increase:0.026, preMove:0.156, motion: 0.529,-0.729,1.34, attribute: 0.13, tag: pred) (+1) | vl:6 ping:232 tps:20.0 lp:37 component: move.xz
+(23:18:03) PelucheGamPlay failed Fly check | suspicious movement:-0.729 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:0.0 air_t:11 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:232 tps:20.0 lp:37 component: fly.main
+(23:19:09) PelucheGamPlay failed Interact check | interact block through solid (through: STONE, block:CHEST) (+0) | vl:0 ping:261 tps:19.37 lp:7 component: interact.through
+(23:20:25) PelucheGamPlay failed Scaffold check | scaffold | type: simple (+1) | vl:1 ping:82 tps:20.0 lp:183 component: sfd.simple
+(23:21:23) PelucheGamPlay failed Interact check | interact block through solid (through: SPRUCE_PLANKS, block:CHEST) (+1) | vl:1 ping:227 tps:20.0 lp:107 component: interact.through
+(23:28:44) PelucheGamPlay failed BadPackets check | (timer) send 49 moving packets in 1026ms | tag: limit (+3) | vl:3 ping:2706 tps:20.0 lp:18 component: net.timer
+(23:28:57) PelucheGamPlay failed Chat check | chat too fast | delay: 2257 (+1) | vl:1 ping:237 tps:20.0 lp:16 component: chat.delay
+(23:29:33) PelucheGamPlay failed BadPackets check | (timer) send 47 moving packets in 1022ms | tag: limit (+1) | vl:1 ping:360 tps:20.0 lp:176 component: net.timer
+(23:29:33) PelucheGamPlay failed Speed check | suspicious movement (move: 2.275, tag: gv-) (+1) | vl:1 ping:360 tps:20.0 lp:176 component: speed.main
+(23:29:33) PelucheGamPlay failed Speed check | suspicious movement (move: 2.275, predict: 0.25, friction: 0.6, ground:true, motY: -1.0, increase:0.13, preMove:0.12, motion: -0.829,-1.0,-2.119, attribute: 0.13, tag: pred) (+1) | vl:2 ping:360 tps:20.0 lp:176 component: move.xz
+(23:30:32) VAQUEROMEXR24 failed Chat check | chat too fast | delay: 1787 (+1) | vl:1 ping:89 tps:20.0 lp:95 component: chat.delay
+(23:30:38) PelucheGamPlay failed Chat check | chat too fast | delay: 2768 (+1) | vl:1 ping:261 tps:20.0 lp:258 component: chat.delay
+(23:37:54) juegapaco failed Chat check | chat too fast | delay: 2464 (+1) | vl:1 ping:80 tps:20.0 lp:29 component: chat.delay
+(23:38:17) PelucheGamPlay failed Chat check | chat too fast | delay: 1822 (+1) | vl:1 ping:232 tps:20.0 lp:394 component: chat.delay
+(23:38:40) PelucheGamPlay failed BadPackets check | (timer) send 38 moving packets in 1028ms | tag: limit (+1) | vl:1 ping:1012 tps:20.0 lp:30 component: net.timer
+(23:38:40) PelucheGamPlay failed Fly check | suspicious movement:-0.903 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.374 air_t:7 fall_t:3 g:-- tag:gn (+1) | vl:1 ping:1012 tps:20.0 lp:30 component: fly.main
+(23:38:55) PelucheGamPlay failed BadPackets check | (timer) send 36 moving packets in 1044ms | tag: limit (+1) | vl:1 ping:251 tps:20.0 lp:27 component: net.timer
+(23:39:41) xxSaimersxx failed Chat check | chat too fast | delay: 2246 (+1) | vl:1 ping:200 tps:20.0 lp:179 component: chat.delay
+(23:39:43) juegapaco failed Chat check | send the same chat content (+1) | vl:1 ping:61 tps:20.0 lp:19 component: chat.same
+(23:39:46) juegapaco failed Scaffold check | right click too fast (cps: 30 length: 975) (+2) | vl:2 ping:49 tps:20.0 lp:19 component: sfd.clk
+(23:39:47) juegapaco failed Scaffold check | right click too fast (cps: 47 length: 1001) (+2) | vl:4 ping:49 tps:20.0 lp:41 component: sfd.clk
+(23:39:56) juegapaco failed Speed check | suspicious movement (move: 0.119, predict: 0.095, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.069, motion: -0.119,0.0,0.0, attribute: 0.13, tag: pred) (+0) | vl:0 ping:49 tps:16.58 lp:20 component: move.xz
+(23:43:08) juegapaco failed HitBox check | missed entity hitbox (entity: blaze, offset: 1.486) (+1) | vl:1 ping:66 tps:20.0 lp:16 component: hb.mis
+(23:46:33) juegapaco failed KillAura check | post attack: 0 (+1) | vl:1 ping:69 tps:20.0 lp:59 component: ka.post
+(23:47:47) juegapaco failed KillAura check | snap head: 12.75 entity: SPIDER (+1) | vl:1 ping:340 tps:20.0 lp:46 component: ka.snap
+(23:48:33) juegapaco failed Speed check | t: spin (+5) | vl:5 ping:71 tps:20.0 lp:28 component: speed.spin
+(23:54:23) juegapaco failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.673) (+1) | vl:1 ping:73 tps:20.0 lp:16 component: hb.mis
+(23:54:26) Execute command: matrix npc juegapaco 100
+(23:54:26) juegapaco failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 303 diff: 9 (+5) | vl:5 ping:73 tps:20.0 lp:30 component: ka.ac.9p
+(23:55:26) juegapaco failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.326) (+1) | vl:1 ping:82 tps:20.0 lp:91 component: hb.mis
+(23:56:14) juegapaco failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.563) (+1) | vl:1 ping:47 tps:20.0 lp:78 component: hb.mis
+(23:56:15) juegapaco failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.565) (+1) | vl:2 ping:47 tps:20.0 lp:78 component: hb.mis
+(23:57:13) juegapaco failed KillAura check | post attack: 0 (+1) | vl:1 ping:78 tps:20.0 lp:69 component: ka.post
+(23:57:18) juegapaco failed KillAura check | post attack: 1 (+1) | vl:2 ping:66 tps:20.0 lp:69 component: ka.post
+(23:59:05) juegapaco failed BadPackets check | (timer) send 54 moving packets in 1644ms | tag: limit (+1) | vl:1 ping:328 tps:20.0 lp:88 component: net.timer
+(23:59:14) juegapaco failed BadPackets check | (timer) send 46 moving packets in 1297ms | tag: limit (+1) | vl:2 ping:328 tps:20.0 lp:73 component: net.timer
+(23:59:18) juegapaco failed BadPackets check | (timer) timer modify: 8.333 var:120 buffer:20 | tag: timer (+1) | vl:3 ping:328 tps:20.0 lp:53 component: net.timer
+(23:59:18) juegapaco failed BadPackets check | (timer) send 92 moving packets in 1016ms | tag: limit (+4) | vl:7 ping:144 tps:20.0 lp:53 component: net.timer
+(23:59:18) juegapaco failed Speed check | suspicious movement (move: 2.066, expect:0.6973, t:0, tag: a) (+4) | vl:4 ping:144 tps:20.0 lp:53 component: speed.main
+(23:59:18) juegapaco failed Speed check | suspicious movement (move: 2.066, predict: 0.585, friction: 0.6, ground:true, motY: 0.0, increase:0.585, preMove:0.0, motion: 2.033,0.0,-0.369, attribute: 0.13, tag: pred) (+2) | vl:6 ping:144 tps:20.0 lp:53 component: move.xz
+(23:59:28) juegapaco failed Block check | abort breaking (at: 4329350.0,202.0,-2.2978362E7, type: glass) (+0) | vl:0 ping:144 tps:20.0 lp:60 component: block.abort
+(23:59:44) juegapaco failed BadPackets check | (timer) send 69 moving packets in 2582ms | tag: limit (+4) | vl:4 ping:144 tps:20.0 lp:66 component: net.timer

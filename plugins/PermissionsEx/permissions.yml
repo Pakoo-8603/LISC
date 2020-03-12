@@ -1,6 +1,9 @@
 groups:
   usuario:
     permissions:
+    - tigerreports.report
+    - nte.usuario
+    - mineablespawners.break
     - essentials.worlds.spawn
     - multiverse.access.*
     - essentials.list
@@ -79,6 +82,7 @@ groups:
     inheritance:
     - yt
     permissions:
+    - nte.vip
     - essentials.warp.*
     - essentials.warps
     - essentials.warp
@@ -92,6 +96,7 @@ groups:
     inheritance:
     - vip
     permissions:
+    - nte.elite
     - deathban.class.ELITE
     - essentials.kits.elite
     - essentials.feed
@@ -101,6 +106,9 @@ groups:
     inheritance:
     - elite
     permissions:
+    - essentials.sethome.multiple.ultimate
+    - essentials.sethome.multiple.10
+    - nte.ultimate
     - essentials.fly
     - deathban.class.ULTIMATE
     - essentials.kits.ultimate
@@ -131,6 +139,7 @@ groups:
     inheritance:
     - elite
     permissions:
+    - nte.helper
     - essentials.ban
     - essentials.kick
     - lagg.unloadchunks
@@ -147,8 +156,21 @@ groups:
     inheritance:
     - helper
     permissions:
-    - worldedit.*
+    - essentials.msg.*
+    - essentials.signs.*
+    - essentials.signs.color
+    - essentials.msg
+    - essentials.msg.multiple
+    - essentials.msg.magic
+    - essentials.msg.format
+    - essentials.
+    - nte.constructor
+    - essentials.gamemode.*
+    - gamemode.*
+    - essentials.fly
+    - gamemode
     - essentials.gamemode
+    - worldedit.*
     options:
       prefix: '[&6Builder&f]&6 &f'
   moderador:
@@ -200,6 +222,7 @@ groups:
     inheritance:
     - constructor
     permissions:
+    - nte.admin
     - authme.*
     - essentials.fly.others
     - essentials.ptime
@@ -232,6 +255,9 @@ groups:
     - essentials.*
     options:
       prefix: '&b&kii&e&l⬥&b&lDueño&e&l⬥&b&kii&r  &f&l'
+  contructor:
+    permissions:
+    - nte.constructor
 schema-version: 1
 users:
   c9f91129-30e0-3b3c-94e4-da4808b11385:
@@ -248,7 +274,6 @@ users:
     - multiverse.teleport.*
     - multiverse.teleport
     - multiverse.teleport.self.warps
-    - essentials.*
     - worldguard.*
     group:
     - constructor
@@ -257,10 +282,11 @@ users:
   6837337c-1d2f-303b-8934-7903ec6e6008:
     permissions:
     - '*'
+    - nte.usuario
     options:
       name: Pakoo
     group:
-    - ultimate
+    - usuario
   f5b821ef-9b90-3583-b1e2-21b5977e80d6:
     group:
     - ultimate
@@ -281,3 +307,8 @@ users:
     - ultimate
     options:
       name: VAQUEROMEXR24
+  85a91c1c-b3fb-313a-bb0e-661fce95667b:
+    permissions:
+    - worldedit.*
+    options:
+      name: juegapaco

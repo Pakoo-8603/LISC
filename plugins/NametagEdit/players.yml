@@ -1,0 +1,16 @@
+Players:
+  b5ccebaa-0623-4370-af73-0ec985dfa3b0:
+    Name: sgtcazeyt
+    Prefix: '&b'
+    Suffix: '&c'
+    SortPriority: -1
+  3716427e-76ac-4df4-a50a-706618a70f0c:
+    Name: Cory
+    Prefix: '&b'
+    Suffix: '&c'
+    SortPriority: 3
+  6837337c-1d2f-303b-8934-7903ec6e6008:
+    Name: Pakoo
+    Prefix: '&8[&bUsuario&8] &f'
+    Suffix: ''
+    SortPriority: -1

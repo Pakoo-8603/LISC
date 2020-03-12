@@ -10,33 +10,203 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
-    karen4329417x199y-22978412z:
-        min: {x: 4329392, y: 149, z: -22978437}
-        max: {x: 4329442, y: 249, z: -22978387}
+    karen5886x71y2857z:
+        min: {x: 5861, y: 21, z: 2832}
+        max: {x: 5911, y: 121, z: 2882}
         members: {}
         flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
             farewell: '§7Protecciones: §cSaliendo de zona protegida'}
         owners:
+            players: [seiku_x]
+        type: cuboid
+        priority: 0
+    karen4328336x204y-22977466z:
+        min: {x: 4328311, y: 154, z: -22977491}
+        max: {x: 4328361, y: 254, z: -22977441}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: allow,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
             players: [vaqueromexr24]
+        type: cuboid
+        priority: 0
+    karen97x76y45z:
+        min: {x: 72, y: 26, z: 20}
+        max: {x: 122, y: 126, z: 70}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
+            players: [juegapaco]
+        type: cuboid
+        priority: 0
+    karen122x78y48z:
+        min: {x: 97, y: 28, z: 23}
+        max: {x: 147, y: 128, z: 73}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
+            players: [juegapaco]
+        type: cuboid
+        priority: 0
+    karen146x68y0z:
+        min: {x: 121, y: 18, z: -25}
+        max: {x: 171, y: 118, z: 25}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
+            players: [juegapaco]
+        type: cuboid
+        priority: 0
+    karen172x63y45z:
+        min: {x: 147, y: 13, z: 20}
+        max: {x: 197, y: 113, z: 70}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
+            players: [juegapaco]
+        type: cuboid
+        priority: 0
+    karen8859x74y6148z:
+        min: {x: 8834, y: 24, z: 6123}
+        max: {x: 8884, y: 124, z: 6173}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
+            players: [peluchegamplay]
+        type: cuboid
+        priority: 0
+    karen1419x63y-74z:
+        min: {x: 1394, y: 13, z: -99}
+        max: {x: 1444, y: 113, z: -49}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
+            players: [_unfading]
+        type: cuboid
+        priority: 0
+    karen144x68y47z:
+        min: {x: 119, y: 18, z: 22}
+        max: {x: 169, y: 118, z: 72}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
+            players: [juegapaco]
+        type: cuboid
+        priority: 0
+    karen4329403x199y-22978418z:
+        min: {x: 4329378, y: 149, z: -22978443}
+        max: {x: 4329428, y: 249, z: -22978393}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
+            players: [xxsaimersxx]
         type: cuboid
         priority: 0
     spawn:
         min: {x: -83, y: 1, z: -88}
         max: {x: 69, y: 204, z: 63}
         members: {}
-        flags: {other-explosion: deny, lava-fire: deny, water-flow: deny, invincible: allow,
-            use: allow, snow-fall: deny, leaf-decay: deny, firework-damage: deny,
+        flags: {other-explosion: deny, lava-fire: deny, water-flow: deny, use: allow,
+            invincible: allow, snow-fall: deny, leaf-decay: deny, firework-damage: deny,
             mob-damage: deny, ravager-grief: deny, mushroom-growth: deny, lightning: deny,
-            ice-form: deny, wither-damage: deny, enderman-grief: deny, pvp: deny,
+            wither-damage: deny, ice-form: deny, enderman-grief: deny, pvp: deny,
             mob-spawning: deny, crop-growth: deny, exit-override: true, creeper-explosion: deny,
             vine-growth: deny, damage-animals: allow, snow-melt: deny, tnt: deny,
             ghast-fireball: deny, entity-item-frame-destroy: deny, frosted-ice-form: deny,
-            mycelium-spread: deny, ice-melt: deny, block-trampling: deny, interact: allow,
+            mycelium-spread: deny, block-trampling: deny, ice-melt: deny, interact: allow,
             vehicle-destroy: allow, chest-access: allow, ride: allow, fire-spread: deny,
             enderdragon-block-damage: deny, sleep: allow, vehicle-place: allow, snowman-trails: deny,
             entity-painting-destroy: deny, lighter: deny, pistons: deny, soil-dry: deny,
             fall-damage: deny, item-frame-rotation: deny, potion-splash: allow, frosted-ice-melt: deny,
             lava-flow: deny, grass-growth: deny}
         owners: {}
+        type: cuboid
+        priority: 0
+    karen4329371x200y-22978361z:
+        min: {x: 4329346, y: 150, z: -22978386}
+        max: {x: 4329396, y: 250, z: -22978336}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
+            players: [juegapaco]
+        type: cuboid
+        priority: 0
+    karen77x78y48z:
+        min: {x: 52, y: 28, z: 23}
+        max: {x: 102, y: 128, z: 73}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
+            players: [juegapaco]
+        type: cuboid
+        priority: 0
+    karen8914x96y6084z:
+        min: {x: 8889, y: 46, z: 6059}
+        max: {x: 8939, y: 146, z: 6109}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
+            players: [silvermanh12]
+        type: cuboid
+        priority: 0
+    karen587x63y-134z:
+        min: {x: 562, y: 13, z: -159}
+        max: {x: 612, y: 113, z: -109}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
+            players: [lalacrit]
+        type: cuboid
+        priority: 0
+    karen196x61y0z:
+        min: {x: 171, y: 11, z: -25}
+        max: {x: 221, y: 111, z: 25}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
+            players: [juegapaco]
+        type: cuboid
+        priority: 0
+    karen4329422x200y-22978361z:
+        min: {x: 4329397, y: 150, z: -22978386}
+        max: {x: 4329447, y: 250, z: -22978336}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
+            players: [juegapaco]
+        type: cuboid
+        priority: 0
+    karen95x63y0z:
+        min: {x: 70, y: 13, z: -25}
+        max: {x: 120, y: 113, z: 25}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
+            players: [juegapaco]
+        type: cuboid
+        priority: 0
+    karen4329383x200y-22978455z:
+        min: {x: 4329358, y: 150, z: -22978480}
+        max: {x: 4329408, y: 250, z: -22978430}
+        members: {}
+        flags: {greeting: '§7Protecciones: §aEntrando a la zona protegida', pvp: deny,
+            farewell: '§7Protecciones: §cSaliendo de zona protegida'}
+        owners:
+            players: [xxsaimersxx, noitfaalt]
         type: cuboid
         priority: 0

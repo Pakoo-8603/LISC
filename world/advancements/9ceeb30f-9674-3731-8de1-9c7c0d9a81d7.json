@@ -1,0 +1,260 @@
+{
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2020-03-07 21:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2020-03-07 21:50:16 +0000"
+    },
+    "done": true
+  },
+  "main:main/dragon_drops_elytra": {
+    "criteria": {
+      "tick": "2020-03-06 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "main:main/mmh": {
+    "criteria": {
+      "tick": "2020-03-06 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2020-03-07 21:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-03-06 22:24:06 +0000"
+    },
+    "done": true
+  },
+  "main:main/silence_mobs": {
+    "criteria": {
+      "tick": "2020-03-06 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-03-07 21:50:16 +0000"
+    },
+    "done": true
+  },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2020-03-06 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-03-06 19:09:38 +0000"
+    },
+    "done": false
+  },
+  "main:main/double_shulkers": {
+    "criteria": {
+      "tick": "2020-03-06 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2020-03-07 21:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2020-03-07 21:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-03-07 21:50:16 +0000"
+    },
+    "done": true
+  },
+  "main:main/ch": {
+    "criteria": {
+      "tick": "2020-03-06 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-03-07 21:50:16 +0000"
+    },
+    "done": true
+  },
+  "main:main/nether_portal_coords": {
+    "criteria": {
+      "tick": "2020-03-06 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2020-03-07 21:50:16 +0000"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-03-06 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2020-03-07 21:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-03-06 19:13:36 +0000",
+      "minecraft:taiga": "2020-03-07 21:48:22 +0000",
+      "minecraft:savanna_plateau": "2020-03-07 21:49:23 +0000",
+      "minecraft:beach": "2020-03-07 21:48:31 +0000",
+      "minecraft:savanna": "2020-03-07 21:49:39 +0000",
+      "minecraft:plains": "2020-03-06 19:09:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2020-03-07 21:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2020-03-07 21:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-03-07 21:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2020-03-07 21:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-03-07 21:50:16 +0000"
+    },
+    "done": true
+  },
+  "main:main/wrench": {
+    "criteria": {
+      "tick": "2020-03-06 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2020-03-07 21:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-03-06 22:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-03-07 21:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-03-07 21:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2020-03-06 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2020-03-07 21:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2020-03-06 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-03-06 22:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-03-06 22:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2020-03-07 21:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-03-07 21:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-03-07 21:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-03-07 21:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-03-06 22:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-03-06 22:24:06 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2230
+}

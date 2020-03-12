@@ -1,0 +1,42 @@
+lastlocation:
+  world: world
+  x: 1488.963445295097
+  y: 65.0
+  z: -20.44457192915688
+  yaw: -297.02002
+  pitch: 4.431732
+lastAccountName: PelucheGamPlay
+timestamps:
+  login: 1583983724305
+  lastteleport: 1583985351783
+  logout: 1583985747612
+ipAddress: 191.84.146.69
+homes:
+  house1:
+    world: world
+    x: 1481.5398246391765
+    y: 64.0
+    z: -25.919407426701255
+    yaw: -303.27197
+    pitch: 13.703513
+  aldea:
+    world: world
+    x: 4328340.487202273
+    y: 204.0
+    z: -2.2977468580762055E7
+    yaw: -0.2783203
+    pitch: 40.463356
+  arbol:
+    world: world
+    x: 8859.44065658208
+    y: 76.0
+    z: 6148.362379472842
+    yaw: -180.4307
+    pitch: 2.546301
+logoutlocation:
+  world: world
+  x: 8859.138634652243
+  y: 76.0
+  z: 6148.251353226984
+  yaw: -271.03796
+  pitch: 1.7726814
